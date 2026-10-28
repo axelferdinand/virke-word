@@ -1,0 +1,263 @@
+<w:docPart xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+  <w:docPartPr>
+    <w:name w:val="Mergefield 1"/>
+    <w:style w:val="Normal"/>
+    <w:category>
+      <w:name w:val="Virke"/>
+      <w:gallery w:val="autoTxt"/>
+    </w:category>
+    <w:types>
+      <w:type w:val="autoExp"/>
+      <w:type w:val="toolbar"/>
+    </w:types>
+    <w:behaviors>
+      <w:behavior w:val="content"/>
+    </w:behaviors>
+    <w:guid w:val="{EE630FE6-7CEA-4B3E-A7D8-6261F39EA6EA}"/>
+  </w:docPartPr>
+  <w:docPartBody>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="VirkeMetadata"/>
+        <w:keepNext/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi"/>
+          <w:b/>
+        </w:rPr>
+        <w:t xml:space="preserve">Dato: </w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:color w:val="000000"/>
+          </w:rPr>
+          <w:alias w:val="Dato"/>
+          <w:placeholder>
+            <w:docPart w:val="VIRKE_PH_63EC835CB3264146B87AA86BE26779C8"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:temporary/>
+          <w:id w:val="170000744"/>
+          <w:tag w:val="virke_170000048"/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="C9007F"/>
+            </w:rPr>
+            <w:t xml:space="preserve">[Dato]</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+      <w:r>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi"/>
+          <w:b/>
+        </w:rPr>
+        <w:t xml:space="preserve">Sted: </w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:color w:val="000000"/>
+          </w:rPr>
+          <w:alias w:val="Sted"/>
+          <w:placeholder>
+            <w:docPart w:val="VIRKE_PH_3DC70F6F11044CF7983208CDDBF15931"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:temporary/>
+          <w:id w:val="170000745"/>
+          <w:tag w:val="virke_170000050"/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="C9007F"/>
+            </w:rPr>
+            <w:t xml:space="preserve">[Sted]</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+      <w:r>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi"/>
+          <w:b/>
+        </w:rPr>
+        <w:t xml:space="preserve">M&#248;testart: </w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:color w:val="000000"/>
+          </w:rPr>
+          <w:alias w:val="Tid"/>
+          <w:placeholder>
+            <w:docPart w:val="VIRKE_PH_9CFA9FF5F80B41248965B1DCA0A16A9A"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:temporary/>
+          <w:id w:val="170000746"/>
+          <w:tag w:val="virke_170000052"/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="C9007F"/>
+            </w:rPr>
+            <w:t xml:space="preserve">[Tid]</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+      <w:r>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi"/>
+          <w:b/>
+        </w:rPr>
+        <w:t xml:space="preserve">M&#248;teslutt: </w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:color w:val="000000"/>
+          </w:rPr>
+          <w:alias w:val="Tid"/>
+          <w:placeholder>
+            <w:docPart w:val="VIRKE_PH_78ADC74322D244BDA548A7F35DA5A040"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:temporary/>
+          <w:id w:val="170000747"/>
+          <w:tag w:val="virke_170000054"/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="C9007F"/>
+            </w:rPr>
+            <w:t xml:space="preserve">[Tid]</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="VirkeMetadata"/>
+        <w:keepNext/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi"/>
+          <w:b/>
+        </w:rPr>
+        <w:t xml:space="preserve">Til stede: </w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:color w:val="000000"/>
+          </w:rPr>
+          <w:alias w:val="Navn og ev. stilling p&#229; tilstedev&#230;rende"/>
+          <w:placeholder>
+            <w:docPart w:val="VIRKE_PH_C0988A4FE3B14F88BEF46C9AB8ED3DB6"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:temporary/>
+          <w:id w:val="170000748"/>
+          <w:tag w:val="virke_170000056"/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="C9007F"/>
+            </w:rPr>
+            <w:t xml:space="preserve">[Navn og ev. stilling p&#229; tilstedev&#230;rende]</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="VirkeMetadata"/>
+        <w:keepNext/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi"/>
+          <w:b/>
+        </w:rPr>
+        <w:t xml:space="preserve">Forfall: </w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:color w:val="000000"/>
+          </w:rPr>
+          <w:alias w:val="Navn p&#229; innkalte som hadde forfall"/>
+          <w:placeholder>
+            <w:docPart w:val="VIRKE_PH_BF4CCA4897B14EE1B798084174724AD2"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:temporary/>
+          <w:id w:val="170000749"/>
+          <w:tag w:val="virke_170000058"/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="C9007F"/>
+            </w:rPr>
+            <w:t xml:space="preserve">[Navn p&#229; innkalte som hadde forfall]</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="VirkeMetadata"/>
+        <w:spacing w:after="450"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi"/>
+          <w:b/>
+        </w:rPr>
+        <w:t xml:space="preserve">Referent: </w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:rPr>
+            <w:color w:val="000000"/>
+          </w:rPr>
+          <w:alias w:val="Navn p&#229; referenten"/>
+          <w:placeholder>
+            <w:docPart w:val="VIRKE_PH_7A31F0E718E94822982166D5F632F56A"/>
+          </w:placeholder>
+          <w:showingPlcHdr/>
+          <w:temporary/>
+          <w:id w:val="170000750"/>
+          <w:tag w:val="virke_170000060"/>
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="C9007F"/>
+            </w:rPr>
+            <w:t xml:space="preserve">[Navn p&#229; referenten]</w:t>
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+    </w:p>
+  </w:docPartBody>
+</w:docPart>

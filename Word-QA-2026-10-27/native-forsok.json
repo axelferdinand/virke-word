@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-27",
+  "application": "Microsoft Word for Mac",
+  "status": "completed_with_documented_limitations",
+  "tests": [
+    {
+      "id": "TABLE-HEADER",
+      "file": "testkopier/27okt-standardtabell-og-lister.docx",
+      "result": "passed_on_candidate_1",
+      "observed": "Native Insert > Table 3x3; all headers bold. Added column Ny kolonne stayed bold. Added row Ny rad stayed regular. Long body text wraps."
+    },
+    {
+      "id": "BULLETS",
+      "file": "testkopier/27okt-standardtabell-og-lister.docx",
+      "result": "default_did_not_match",
+      "observed": "Hyphen + Space created black dash list. Toolbar button reused that list. XML num46 abstract30, lvlText dash, no pink color."
+    },
+    {
+      "id": "BULLETS-STYLE",
+      "file": "testkopier/27okt-blokker-og-avstand.docx",
+      "result": "passed_style_fallback",
+      "observed": "Fresh standard toolbar bullet was black round dot; explicit Punktliste paragraph style produced pink round dots with black text, continued by Enter."
+    },
+    {
+      "id": "TOC-GALLERY",
+      "file": "kandidater/Virke-kontroll-av-menyer.dotx",
+      "result": "not_exposed_in_mac_gallery",
+      "observed": "Both AutoText types and normal type with tblOfContents gallery fail to show Virke in Mac ribbon gallery. It lists 5 automatic and 5 manual built-ins. Entry remains available in AutoText dialog."
+    },
+    {
+      "id": "RIBBON",
+      "result": "partial_pass",
+      "observed": "AutoManager works on Home and Virke tab, opening AutoCorrect dialog; Autotekst tab and Search in template selects all blocks. AutoTextInsert and BuildingBlocksOrganizer controls do not render on Mac. TableOfContentsDialog works with From template selected."
+    },
+    {
+      "id": "TABLE-GAP-1",
+      "file": "testkopier/27okt-fersk-master-v2.docx",
+      "result": "failed_then_revised",
+      "observed": "Final AutoText paragraph style disappears on insertion, even under fresh unique template filename. Word preserved Normal at insertion endpoint. v3 adds actual spacer plus separate Normal continuation paragraph; pending retest."
+    },
+    {
+      "id": "TABLE-GAP-3",
+      "file": "testkopier/27okt-fersk-master-v3.docx",
+      "result": "passed",
+      "observed": "Fresh master: insert two-column block then type immediately. Spacer remains exact 18 pt, followed by Normal continuation. Earlier v2 failure resolved."
+    },
+    {
+      "id": "MODULE-GAP-3",
+      "file": "testkopier/27okt-fersk-master-v3.docx",
+      "result": "passed_representative_insertion",
+      "observed": "Signature inserted, then immediate typing: exact 9 pt spacer retained. Same spacer pattern audited for summary and agenda blocks; their rendered examples reviewed."
+    },
+    {
+      "id": "HEADINGS",
+      "file": "testkopier/27okt-fersk-master-v3.docx",
+      "result": "passed",
+      "observed": "Long two-line H1, H1 after page break and repeated H3 reviewed. H1 22.5/13.5 pt and H3 18/9 pt in styles and final package audit."
+    },
+    {
+      "id": "FORM-FIELDS",
+      "file": "testkopier/27okt-fersk-master-v3.docx",
+      "result": "passed",
+      "observed": "Long name entered in first field; Tab to next field and second name entered. Fixed labels preserved, entered text black."
+    },
+    {
+      "id": "TOC-ACCESS-FINAL",
+      "file": "testkopier/27okt-fersk-master-v3.docx",
+      "result": "passed_alternative_access",
+      "observed": "Virke > Insert TOC opens native dialog, From template and three levels. Insert, modify heading, full field update and command-click navigation passed. Native gallery does not list custom entry."
+    },
+    {
+      "id": "EXAMPLES",
+      "result": "passed_visual_review",
+      "observed": "All 17 examples (18 pages) reviewed in Word using copies. Both landscape documents one page after removing an unnecessary end spacer. Final adjacent-table gaps rechecked in examples 09, 13 and 16. No opening prompts after detachment."
+    },
+    {
+      "id": "DETACH",
+      "result": "passed",
+      "observed": "All 17 final DOCX: attachedTemplate and its relationship removed; linkStyles absent; updateFields false; zero external relationships. Word copies opened without field or missing-template prompts."
+    },
+    {
+      "id": "GUIDE",
+      "result": "passed",
+      "observed": "All 21 actual components present; all 18 Word pages reviewed. Final PDF exported in Word, all pages inspected; page numbers 1–18 correct. Final DOCX render also inspected."
+    }
+  ],
+  "baseline_regression_reference": "Virke-med-komponentguide-2026-10-21/TESTRESULTATER.txt",
+  "coverage_note": "All 21 blocks were inserted in the earlier baseline test. This revision repeats changed behaviors with representative native insertions and reviews every component in the rebuilt guide. It does not claim 21 separate new insertion tests on 27 October."
+}

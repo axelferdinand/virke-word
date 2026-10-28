@@ -1,0 +1,275 @@
+[
+  {
+    "file": "01_Protokoll_styremote.docx",
+    "sha256": "823dd021548055b87232f457c49e4a4e485cfb158998c7a0dffedaeb28ec12c4",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "02_Balance_scorecard.docx",
+    "sha256": "4d3f633fb49c5bcd210367d9740c28374440ca93e82174d9dfc7feb3beb95d88",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "03_Utfyllingsskjema.docx",
+    "sha256": "7264f94d745242558c3e669951c197f4ef22c1bb7d5debb3584a909183db1bdd",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "04_Aksjeeierbok_liggende.docx",
+    "sha256": "ae124f31be9fc7718e579b88b002bb6098d96d2d1383676eda823fc1507fc190",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "05_Protokoll_liggende_ni_kolonner.docx",
+    "sha256": "b2400c66c54d66470468f114810cdfe9fe8f903f3e49145ffcacfe94f37a1bdc",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "06_Protokoll_Prototypen_AS.docx",
+    "sha256": "50178a726d785b9ab102d32481e7fb59a3706602e76e920eefae62248b061ec2",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "07_Innholdsfortegnelse_og_avtale.docx",
+    "sha256": "2f66e45566860eb99bcacb0aa529a06e2f2960639941d803d1f684b741347a69",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "08_Avtalemal.docx",
+    "sha256": "ad1f2184204525d78494432881fa697631ae2ca52f72ee1cc0b67804833bb267",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "09_Sjekkliste_arsregnskap.docx",
+    "sha256": "241a430aee38f4e02eceeef01e50b1232760082aed3d7546c556a7b18d969459",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "10_Utviklingssamtale.docx",
+    "sha256": "0fff4f92b5b5b8fb7343d71be2f5873f4605a3bbb76e599c1de821b8a3dc9307",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "11_Diagrammer.docx",
+    "sha256": "d24e56df71f94577c0ed8a3bcb5d22b6aa3050ba979eb17dae5caefca8371353",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "12_Tekststiler_Clan.docx",
+    "sha256": "99fdcda4a783faebc3b72eef65fbdafbf089c3611cfdfb4a5c83c50812a0775c",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "13_Tekststiler_Arial.docx",
+    "sha256": "26bef6132498478ea49b223b11d2992a646325b58aaef7db3c7417f70f114eca",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "14_Marger_og_tekstflyt.docx",
+    "sha256": "43a98de4715e8823f3002866d140c17c5b42d0f90bb4cc95b5d6ae4feb1bd366",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "15_Avstand_mellom_tekststiler.docx",
+    "sha256": "4045970734a7eb0fde8510cc11fa7a3792b6cd7f0f846d837978dcf294c84271",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "16_Avstand_tabeller_og_signatur.docx",
+    "sha256": "a68f98f6c56a110130c4311a93e4a1405c670bd939c0755c32abf6214b8dd9f3",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "17_Flernivanummerering_og_saksliste.docx",
+    "sha256": "10cc55be0c0603ad49412f23304fe1d6a73255e877d966f12ec264a2f9a71eff",
+    "changed_parts": [
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  },
+  {
+    "file": "Virke_master_test.dotx",
+    "sha256": "74d641efa36287eeb70d34cd38036d2c09de31288e5d1d1a6e22399752e44740",
+    "changed_parts": [
+      "_rels/.rels",
+      "word/document.xml",
+      "word/settings.xml",
+      "word/glossary/document.xml",
+      "word/glossary/settings.xml",
+      "word/styles.xml",
+      "word/glossary/styles.xml",
+      "docProps/core.xml",
+      "customUI/customUI.xml"
+    ],
+    "structural_validation": "passed",
+    "word_qa": "completed_see_native_results",
+    "word_qa_record": "Word-QA-2026-10-21/native-results.json"
+  }
+]

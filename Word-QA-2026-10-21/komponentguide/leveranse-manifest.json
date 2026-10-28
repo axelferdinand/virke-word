@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-21",
+  "zip": "Virke-med-komponentguide-2026-10-21.zip",
+  "zip_sha256": "7f8de7bbf1e12777b6513befe3966330a85cf346ae9f085be477f8c440f196df",
+  "zip_bytes": 2582711,
+  "file_count": 26,
+  "guide_version": "2.0",
+  "guide_pages": 18,
+  "components": 21,
+  "unchanged_from_prior": [
+    "02_Balance_scorecard.docx",
+    "16_Avstand_tabeller_og_signatur.docx",
+    "03_Utfyllingsskjema.docx",
+    "05_Protokoll_liggende_ni_kolonner.docx",
+    "Virke_master_test.dotx",
+    "07_Innholdsfortegnelse_og_avtale.docx",
+    "11_Diagrammer.docx",
+    "13_Tekststiler_Arial.docx",
+    "09_Sjekkliste_arsregnskap.docx",
+    "15_Avstand_mellom_tekststiler.docx",
+    "17_Flernivanummerering_og_saksliste.docx",
+    "14_Marger_og_tekstflyt.docx",
+    "04_Aksjeeierbok_liggende.docx",
+    "10_Utviklingssamtale.docx",
+    "12_Tekststiler_Clan.docx",
+    "01_Protokoll_styremote.docx",
+    "06_Protokoll_Prototypen_AS.docx",
+    "08_Avtalemal.docx",
+    "Fonter/INSTALLASJON.txt",
+    "Fonter/ClanOffc-Bold.ttf",
+    "Fonter/ClanOffc-News.ttf"
+  ],
+  "pdf_fonts_embedded": {
+    "/AAAAAB+ClanOffc-News": true,
+    "/AAAAAC+ClanOffc-Bold": true,
+    "/AAAAAD+ClanOffc-News": true,
+    "/AAAAAE+ClanOffc-Bold": true,
+    "/AAAAAG+ArialMT": true,
+    "/AAAAAH+ClanOffc-News": true,
+    "/AAAAAI+ClanOffc-Bold": true,
+    "/AAAAAJ+ClanOffc-Bold": true,
+    "/AAAAAK+ClanOffc-Bold": true,
+    "/AAAAAL+SymbolMT": true,
+    "/AAAAAM+ClanOffc-News": true,
+    "/AAAAAN+SymbolMT": true,
+    "/AAAAAP+ArialMT": true,
+    "/AAAAAR+Arial-BoldMT": true,
+    "/AAAAAS+ClanOffc-News": true
+  },
+  "files": [
+    {
+      "path": "01_Protokoll_styremote.docx",
+      "sha256": "823dd021548055b87232f457c49e4a4e485cfb158998c7a0dffedaeb28ec12c4",
+      "bytes": 140967
+    },
+    {
+      "path": "02_Balance_scorecard.docx",
+      "sha256": "4d3f633fb49c5bcd210367d9740c28374440ca93e82174d9dfc7feb3beb95d88",
+      "bytes": 139369
+    },
+    {
+      "path": "03_Utfyllingsskjema.docx",
+      "sha256": "7264f94d745242558c3e669951c197f4ef22c1bb7d5debb3584a909183db1bdd",
+      "bytes": 139084
+    },
+    {
+      "path": "04_Aksjeeierbok_liggende.docx",
+      "sha256": "ae124f31be9fc7718e579b88b002bb6098d96d2d1383676eda823fc1507fc190",
+      "bytes": 140691
+    },
+    {
+      "path": "05_Protokoll_liggende_ni_kolonner.docx",
+      "sha256": "b2400c66c54d66470468f114810cdfe9fe8f903f3e49145ffcacfe94f37a1bdc",
+      "bytes": 140445
+    },
+    {
+      "path": "06_Protokoll_Prototypen_AS.docx",
+      "sha256": "50178a726d785b9ab102d32481e7fb59a3706602e76e920eefae62248b061ec2",
+      "bytes": 140332
+    },
+    {
+      "path": "07_Innholdsfortegnelse_og_avtale.docx",
+      "sha256": "2f66e45566860eb99bcacb0aa529a06e2f2960639941d803d1f684b741347a69",
+      "bytes": 140290
+    },
+    {
+      "path": "08_Avtalemal.docx",
+      "sha256": "ad1f2184204525d78494432881fa697631ae2ca52f72ee1cc0b67804833bb267",
+      "bytes": 140087
+    },
+    {
+      "path": "09_Sjekkliste_arsregnskap.docx",
+      "sha256": "241a430aee38f4e02eceeef01e50b1232760082aed3d7546c556a7b18d969459",
+      "bytes": 139776
+    },
+    {
+      "path": "10_Utviklingssamtale.docx",
+      "sha256": "0fff4f92b5b5b8fb7343d71be2f5873f4605a3bbb76e599c1de821b8a3dc9307",
+      "bytes": 140033
+    },
+    {
+      "path": "11_Diagrammer.docx",
+      "sha256": "d24e56df71f94577c0ed8a3bcb5d22b6aa3050ba979eb17dae5caefca8371353",
+      "bytes": 133941
+    },
+    {
+      "path": "12_Tekststiler_Clan.docx",
+      "sha256": "99fdcda4a783faebc3b72eef65fbdafbf089c3611cfdfb4a5c83c50812a0775c",
+      "bytes": 140122
+    },
+    {
+      "path": "13_Tekststiler_Arial.docx",
+      "sha256": "26bef6132498478ea49b223b11d2992a646325b58aaef7db3c7417f70f114eca",
+      "bytes": 141582
+    },
+    {
+      "path": "14_Marger_og_tekstflyt.docx",
+      "sha256": "43a98de4715e8823f3002866d140c17c5b42d0f90bb4cc95b5d6ae4feb1bd366",
+      "bytes": 140408
+    },
+    {
+      "path": "15_Avstand_mellom_tekststiler.docx",
+      "sha256": "4045970734a7eb0fde8510cc11fa7a3792b6cd7f0f846d837978dcf294c84271",
+      "bytes": 140689
+    },
+    {
+      "path": "16_Avstand_tabeller_og_signatur.docx",
+      "sha256": "a68f98f6c56a110130c4311a93e4a1405c670bd939c0755c32abf6214b8dd9f3",
+      "bytes": 142611
+    },
+    {
+      "path": "17_Flernivanummerering_og_saksliste.docx",
+      "sha256": "10cc55be0c0603ad49412f23304fe1d6a73255e877d966f12ec264a2f9a71eff",
+      "bytes": 142061
+    },
+    {
+      "path": "ENDRINGER_OG_ETTERKONTROLL.txt",
+      "sha256": "bfb938c1451cb2fee308027b76d77fb921c620ba27a4525ef38df09d6f12164e",
+      "bytes": 2574
+    },
+    {
+      "path": "Fonter/ClanOffc-Bold.ttf",
+      "sha256": "50ee4716fdff0aea424ef900a45b1cf8d4c51b550f2d0e8c58d0071514698ae0",
+      "bytes": 100876
+    },
+    {
+      "path": "Fonter/ClanOffc-News.ttf",
+      "sha256": "f281515f9d9e341199180c528eee305353ed40b3a9fc85168ef84ebda5f7b6bd",
+      "bytes": 100812
+    },
+    {
+      "path": "Fonter/INSTALLASJON.txt",
+      "sha256": "3d58080075865548caa25d9d66c0ca83d09f5ce57d75acb71b9abe4098239fb9",
+      "bytes": 421
+    },
+    {
+      "path": "START_HER.txt",
+      "sha256": "d267124d3094d97e66bce05807108be6f7f69e7caff148d58f008547ecbfb37e",
+      "bytes": 1526
+    },
+    {
+      "path": "TESTRESULTATER.txt",
+      "sha256": "044ab7a0d1ad15674038f77fa8f154e46221cdaf8fccedda513bf5e1ccec763e",
+      "bytes": 8090
+    },
+    {
+      "path": "Virke_master_test.dotx",
+      "sha256": "74d641efa36287eeb70d34cd38036d2c09de31288e5d1d1a6e22399752e44740",
+      "bytes": 137806
+    },
+    {
+      "path": "Virke_mastermal_brukerveiledning.docx",
+      "sha256": "7a00940fc60f94cae15369f4604f9a97cddc7ba4f7500d38ada9d076e9fac800",
+      "bytes": 157652
+    },
+    {
+      "path": "Virke_mastermal_brukerveiledning.pdf",
+      "sha256": "f27d717fe022cd854b87c08a71416da7f6576d8fac8261a0bc21a4daed681909",
+      "bytes": 217954
+    }
+  ]
+}

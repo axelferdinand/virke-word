@@ -1,0 +1,4 @@
+[render_docx] $ /Users/afg/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/soffice -env:UserInstallation=file:///private/tmp/soffice_profile_nz9bxepo --invisible --headless --norestore --convert-to pdf --outdir /private/tmp/soffice_convert_ghcekle2 /Users/afg/Nettsteder/virke-word/Virke-revidert-2026-10-21/02_Balance_scorecard.docx
+convert /Users/afg/Nettsteder/virke-word/Virke-revidert-2026-10-21/02_Balance_scorecard.docx as a Writer document -> /private/tmp/soffice_convert_ghcekle2/02_Balance_scorecard.pdf using filter : writer_pdf_Export
+
+Pages rendered to /Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/render/02_Balance_scorecard

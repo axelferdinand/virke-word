@@ -1,0 +1,97 @@
+[
+  {
+    "page": "page-1.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-10.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-11.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-12.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-13.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-14.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-15.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-16.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-17.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-18.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-2.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-3.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-4.png",
+    "pixel_identical": false,
+    "changed_bounds": [
+      248,
+      566,
+      1260,
+      663
+    ]
+  },
+  {
+    "page": "page-5.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-6.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-7.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-8.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  },
+  {
+    "page": "page-9.png",
+    "pixel_identical": true,
+    "changed_bounds": null
+  }
+]

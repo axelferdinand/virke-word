@@ -1,0 +1,182 @@
+Window: "08_Avtalemal", App: Microsoft Word.
+0 standardvindu 08_Avtalemal, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/08_Avtalemal.docx, Secondary Actions: Raise
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 08_Avtalemal
+					5 container
+						6 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						7 Tabell, 2 Rader, 5 Kolonner, , 
+							8 row (disabled)
+								9 celle (disabled) 0-4
+									10 container 0-4
+										11 tekstinnskrivingsområde (disabled, settable) [Sted/dato]
+							12 row (disabled)
+								13 celle (disabled)
+									14 container
+										15 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+								16 celle (disabled)
+								17 celle (disabled)
+									18 container
+										19 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+								20 celle (disabled)
+								21 celle (disabled)
+									22 container
+										23 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+						24 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Eksempel på avtalemal
+Mellom
+Navn: Ola Nordmann
+Org.nr/fødselsnr: 010185 12345
+Og
+Navn: Ola Nordmann
+Org.nr/fødselsnr: 010185 12345
+Er det pr dags dato inngått følgende avtale:
+    * Kari Nordmann leier en parkeringsplass av Ola Nordmann i perioden 01.09.2026 til 31.12.2026.
+1. Bakgrunn og virksomhetens formål
+Bakgrunnen for avtalen er at partene ønsker å kombinere sin kompetanse for å utvikle nye digitale løsninger, samt styrke sin posisjon i det nordiske markedet gjennom et langsiktig og gjensidig forpliktende samarbeid.
+Virksomheten driver virksomhet innen utvikling av programvare, skybaserte tjenester og IT-rådgivning for bank- og finanssektoren.
+2. Overdragelse av aksjer
+5.1 Forkjøpsrett
+Øvrige aksjonærer har forkjøpsrett når en aksje avhendes eller for øvrig skifter eier. Forkjøpsrett til aksjer i Virksomheten følger de til enhver tid gjeldende regler i aksjeloven jf. asl. §§ 4-19 til 4-23. Forkjøpsretten må gjøres gjeldende for hele den aktuelle aksjeposten.
+Tabell, 2 Rader, 5 Kolonner, ,  
+						25 Felt page
+						26 Felt numpages
+						27 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	Eksempel på avtalemal
+				28 rullefelt (disabled, settable, float) 0
+					29 verdiindikator (disabled, settable, float) 0
+				30 rullefelt (disabled, settable, float) 0
+					31 verdiindikator (disabled, settable, float) 0
+		32 deler (disabled, settable, float) 1728
+	33 container Statuslinje
+		34 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		35 valgknapp Sideutforming, Value: 1
+		36 valgknapp Weboppsett, Value: 0
+		37 valgknapp Disposisjon, Value: 0
+		38 valgknapp Kladd, Value: 0
+		39 knapp Zoom ut
+		40 knapp Zoom inn
+		41 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			42 verdiindikator (settable, float) 1015
+		43 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+		44 tekst 08_Avtalemal.docx: 915 tegn (omtrentlig verdi).
+	45 fanegruppe Description: bånd, Details: Hjem
+		46 rullefeltområde Hjem-fanekommandoer
+			47 container
+				48 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				49 knapp (disabled) Klipp ut, Value: 0
+				50 knapp (disabled) Kopier, Value: 0
+				51 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			52 container
+				53 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					54 knapp
+				55 kombinert rute (settable) Description: Skriftstørrelse:, Value: 18, Secondary Actions: Confirm
+					56 knapp
+				57 knapp Øk skriftstørrelse, Value: 0
+				58 knapp Reduser skriftstørrelse, Value: 0
+				59 menyknapp Endre bokstavtype, Value: 0
+				60 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				61 veksleknapp Fet, Value: on
+				62 veksleknapp Kursiv, Value: off
+				63 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				64 veksleknapp Gjennomstreking, Value: off
+				65 veksleknapp Senket skrift, Value: off
+				66 veksleknapp Hevet skrift, Value: off
+				67 menyknapp Teksteffekter, Value: 0
+				68 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				69 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			70 container
+				71 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				72 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				73 menyknapp Liste med flere nivåer, Value: 0
+				74 knapp Reduser innrykk, Value: 0
+				75 knapp Øk innrykk, Value: 0
+				76 knapp Sorter, Value: 0
+				77 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				78 veksleknapp Venstrejuster, Value: on
+				79 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				80 veksleknapp Høyrejuster, Value: off
+				81 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				82 menyknapp Linje- og avsnittsavstand, Value: 0
+				83 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				84 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			85 container
+				86 galleri Description: Stiler, Help: galleri
+					87 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					88 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					89 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					90 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					91 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					92 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					93 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					94 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				95 veksleknapp Stiler-rute, Value: off
+			96 veksleknapp Dikter, Help: Office-diktering, Value: off
+			97 menyknapp (disabled) Følsomhet, Value: 0
+			98 knapp Tillegg, Value: 0
+			99 container
+				100 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				101 veksleknapp Copilot, Value: off
+			102 container
+				103 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				104 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		105 fane Hjem, Help: Skjul båndet, Value: 1
+		106 fane Sett inn
+		107 fane Tegn
+		108 fane Utforming
+		109 fane Oppsett
+		110 fane Referanser
+		111 fane Masseutsendelser
+		112 fane Se gjennom
+		113 fane Visning
+		114 fane Acrobat
+		115 knapp Kommentarer
+		116 knapp Redigering, Help: Modus for dokumenttilgang
+		117 knapp Del
+	118 verktøylinje
+		119 container Secondary Actions: Fjern fra verktøylinjen
+			120 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			121 knapp Hjem, Value: 0
+			122 knapp Lagre, Value: 0
+			123 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			124 knapp (disabled) Kan ikke gjenta, Value: 0
+			125 knapp Skriv ut, Value: 0
+			126 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			127 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				128 knapp Søk
+			129 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			130 text Value: 08_Avtalemal Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			131 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	132 lukkeknapp
+	133 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	134 minimeringsknapp
+135 menu bar
+	136 Word, ID: AppMenu_MenuItem
+	137 Fil
+	138 Rediger, ID: EditMenu_MenuItem
+	139 Vis, ID: ViewMenu_MenuItem
+	140 Sett inn
+	141 Formater
+	142 Verktøy
+	143 Tabell
+	144 Vindu, ID: WindowMenu_MenuItem
+	145 Hjelp, ID: HelpMenu_MenuItem
+
+The focused UI element is 24 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Eksempel på avtalemal
+Mellom
+Navn: Ola Nordmann
+Org.nr/fødselsnr: 010185 12345
+Og
+Navn: Ola Nordmann
+Org.nr/fødselsnr: 010185 12345
+Er det pr dags dato inngått følgende avtale:
+    * Kari Nordmann leier en parkeringsplass av Ola Nordmann i perioden 01.09.2026 til 31.12.2026.
+1. Bakgrunn og virksomhetens formål
+Bakgrunnen for avtalen er at partene ønsker å kombinere sin kompetanse for å utvikle nye digitale løsninger, samt styrke sin posisjon i det nordiske markedet gjennom et langsiktig og gjensidig forpliktende samarbeid.
+Virksomheten driver virksomhet innen utvikling av programvare, skybaserte tjenester og IT-rådgivning for bank- og finanssektoren.
+2. Overdragelse av aksjer
+5.1 Forkjøpsrett
+Øvrige aksjonærer har forkjøpsrett når en aksje avhendes eller for øvrig skifter eier. Forkjøpsrett til aksjer i Virksomheten følger de til enhver tid gjeldende regler i aksjeloven jf. asl. §§ 4-19 til 4-23. Forkjøpsretten må gjøres gjeldende for hele den aktuelle aksjeposten.
+Tabell, 2 Rader, 5 Kolonner, ,  

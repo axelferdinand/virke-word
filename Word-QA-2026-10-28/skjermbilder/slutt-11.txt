@@ -1,0 +1,222 @@
+Window: "11_Diagrammer", App: Microsoft Word.
+0 standardvindu 11_Diagrammer, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/11_Diagrammer.docx, Secondary Actions: Raise
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 11_Diagrammer
+					5 container
+						6 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						7 container Description: Diagramområde, Help: Eksempeldiagram i Virkes farger
+							8 container Stolpediagram (satt i H3)
+								9 tekstinnskrivingsområde (disabled) Description: Diagramtittel, Value: Stolpediagram (satt i H3)
+							10 Diagramelement (disabled) Forklaring
+								11 Diagramelement (disabled) Description: Serie "Caption" Forklaringstekst, Help: Caption
+								12 Diagramelement (disabled) Description: Serie "Caption" Forklaringstekst, Help: Caption
+								13 Diagramelement (disabled) Description: Serie "Caption" Forklaringstekst, Help: Caption
+								14 Diagramelement (disabled) Description: Serie "Caption" Forklaringstekst, Help: Caption
+								15 Diagramelement (disabled) Description: Serie "Caption" Forklaringstekst, Help: Caption
+							16 container Tegneområde
+								17 Diagramelement (disabled) Akse: Loddrett (Verdi) 
+									18 Diagramelement (disabled) Akseetikett Verdi: 1
+									19 Diagramelement (disabled) Akseetikett Verdi: 2
+									20 Diagramelement (disabled) Akseetikett Verdi: 3
+									21 Diagramelement (disabled) Akseetikett Verdi: 4
+									22 Diagramelement (disabled) Akseetikett Verdi: 5
+									23 Diagramelement (disabled) Akseetikett Verdi: 6
+									24 Diagramelement (disabled) Akseetikett Verdi: 7
+								25 Diagramelement (disabled) Akse: Vannrett (Kategori) 
+								26 container Hovedstøttelinjer for Akse: Loddrett (Verdi)  
+								27 container Serie "Caption"
+									28 container Serie "Caption" Punkt 1
+Verdi: 6
+								29 container Serie "Caption"
+									30 container Serie "Caption" Punkt 1
+Verdi: 5
+								31 container Serie "Caption"
+									32 container Serie "Caption" Punkt 1
+Verdi: 4
+								33 container Serie "Caption"
+									34 container Serie "Caption" Punkt 1
+Verdi: 3
+								35 container Serie "Caption"
+									36 container Serie "Caption" Punkt 1
+Verdi: 2
+						37 container Description: Diagramområde, Help: Eksempeldiagram i Virkes farger
+							38 container Kakediagram (satt i H3)
+								39 tekstinnskrivingsområde (disabled) Description: Diagramtittel, Value: Kakediagram (satt i H3)
+							40 Diagramelement (disabled) Forklaring
+								41 Diagramelement (disabled) Description: Forklaringstekst 1, Help: Caption
+								42 Diagramelement (disabled) Description: Forklaringstekst 2, Help: Caption
+								43 Diagramelement (disabled) Description: Forklaringstekst 3, Help: Caption
+								44 Diagramelement (disabled) Description: Forklaringstekst 4, Help: Caption
+								45 Diagramelement (disabled) Description: Forklaringstekst 5, Help: Caption
+							46 container Tegneområde
+								47 container Serie "Caption"
+									48 container Serie "Caption" Punkt "Caption"
+Verdi: 35 (35 %)
+									49 container Serie "Caption" Punkt "Caption"
+Verdi: 25 (25 %)
+									50 container Serie "Caption" Punkt "Caption"
+Verdi: 15 (15 %)
+									51 container Serie "Caption" Punkt "Caption"
+Verdi: 17 (17 %)
+									52 container Serie "Caption" Punkt "Caption"
+Verdi: 8 (8 %)
+						53 Tabell, 2 Rader, 9 Kolonner, , 
+							54 row (disabled)
+								55 celle (disabled)
+								56 celle (disabled)
+								57 celle (disabled)
+								58 celle (disabled)
+								59 celle (disabled)
+								60 celle (disabled)
+								61 celle (disabled)
+								62 celle (disabled)
+								63 celle (disabled)
+							64 row (disabled)
+								65 celle (disabled)
+									66 tekstinnskrivingsområde (disabled, settable) Signatur Rosa
+#C9007F
+								67 celle (disabled)
+								68 celle (disabled)
+									69 tekstinnskrivingsområde (disabled, settable) Base rosa
+#F9CFE3
+								70 celle (disabled)
+								71 celle (disabled)
+									72 tekstinnskrivingsområde (disabled, settable) Rosa 400
+#851E59
+								73 celle (disabled)
+								74 celle (disabled)
+									75 tekstinnskrivingsområde (disabled, settable) Signatur Orange
+#F57F00
+								76 celle (disabled)
+								77 celle (disabled)
+									78 tekstinnskrivingsområde (disabled, settable) Base orange
+#FDE0BF
+						79 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Eksempel på 2 diagrammer
+￼
+
+￼
+
+Tabell, 2 Rader, 9 Kolonner, ,  
+						80 Felt page
+						81 Felt numpages
+						82 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	Diagrammer
+				83 rullefelt (disabled, settable, float) 0
+					84 verdiindikator (disabled, settable, float) 0
+				85 rullefelt (disabled, settable, float) 0
+					86 verdiindikator (disabled, settable, float) 0
+		87 deler (disabled, settable, float) 1728
+	88 container Statuslinje
+		89 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		90 valgknapp Sideutforming, Value: 1
+		91 valgknapp Weboppsett, Value: 0
+		92 valgknapp Disposisjon, Value: 0
+		93 valgknapp Kladd, Value: 0
+		94 knapp Zoom ut
+		95 knapp Zoom inn
+		96 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			97 verdiindikator (settable, float) 1015
+		98 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+		99 tekst 11_Diagrammer.docx: 120 tegn (omtrentlig verdi).
+	100 fanegruppe Description: bånd, Details: Hjem
+		101 rullefeltområde Hjem-fanekommandoer
+			102 container
+				103 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				104 knapp (disabled) Klipp ut, Value: 0
+				105 knapp (disabled) Kopier, Value: 0
+				106 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			107 container
+				108 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					109 knapp
+				110 kombinert rute (settable) Description: Skriftstørrelse:, Value: 18, Secondary Actions: Confirm
+					111 knapp
+				112 knapp Øk skriftstørrelse, Value: 0
+				113 knapp Reduser skriftstørrelse, Value: 0
+				114 menyknapp Endre bokstavtype, Value: 0
+				115 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				116 veksleknapp Fet, Value: on
+				117 veksleknapp Kursiv, Value: off
+				118 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				119 veksleknapp Gjennomstreking, Value: off
+				120 veksleknapp Senket skrift, Value: off
+				121 veksleknapp Hevet skrift, Value: off
+				122 menyknapp Teksteffekter, Value: 0
+				123 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				124 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			125 container
+				126 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				127 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				128 menyknapp Liste med flere nivåer, Value: 0
+				129 knapp Reduser innrykk, Value: 0
+				130 knapp Øk innrykk, Value: 0
+				131 knapp Sorter, Value: 0
+				132 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				133 veksleknapp Venstrejuster, Value: on
+				134 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				135 veksleknapp Høyrejuster, Value: off
+				136 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				137 menyknapp Linje- og avsnittsavstand, Value: 0
+				138 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				139 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			140 container
+				141 galleri Description: Stiler, Help: galleri
+					142 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					143 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					144 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					145 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					146 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					147 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					148 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					149 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				150 veksleknapp Stiler-rute, Value: off
+			151 veksleknapp Dikter, Help: Office-diktering, Value: off
+			152 menyknapp (disabled) Følsomhet, Value: 0
+			153 knapp Tillegg, Value: 0
+			154 container
+				155 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				156 veksleknapp Copilot, Value: off
+			157 container
+				158 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				159 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		160 fane Hjem, Help: Skjul båndet, Value: 1
+		161 fane Sett inn
+		162 fane Tegn
+		163 fane Utforming
+		164 fane Oppsett
+		165 fane Referanser
+		166 fane Masseutsendelser
+		167 fane Se gjennom
+		168 fane Visning
+		169 fane Acrobat
+		170 knapp Kommentarer
+		171 knapp Redigering, Help: Modus for dokumenttilgang
+		172 knapp Del
+	173 verktøylinje
+		174 container Secondary Actions: Fjern fra verktøylinjen
+			175 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			176 knapp Hjem, Value: 0
+			177 knapp Lagre, Value: 0
+			178 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			179 knapp (disabled) Kan ikke gjenta, Value: 0
+			180 knapp Skriv ut, Value: 0
+			181 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			182 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				183 knapp Søk
+			184 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			185 text Value: 11_Diagrammer Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			186 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	187 lukkeknapp
+	188 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	189 minimeringsknapp
+190 menu bar
+	191 Word, ID: AppMenu_MenuItem
+	192 Fil
+	193 Rediger, ID: EditMenu_MenuItem
+	194 Vis, ID: ViewMenu_MenuItem
+	195 Sett inn
+	196 Formater
+	197 Verktøy
+	198 Tabell
+	199 Vindu, ID: WindowMenu_MenuItem
+	200 Hjelp, ID: HelpMenu_MenuItem

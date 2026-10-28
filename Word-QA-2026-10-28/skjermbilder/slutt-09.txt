@@ -1,0 +1,187 @@
+Window: "09_Sjekkliste_arsregnskap", App: Microsoft Word.
+0 standardvindu 09_Sjekkliste_arsregnskap, Secondary Actions: Raise, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/09_Sjekkliste_arsregnskap.docx
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 09_Sjekkliste_arsregnskap
+					5 container
+						6 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						7 Tabell, 2 Rader, 5 Kolonner, , 
+							8 row (disabled)
+								9 celle (disabled)
+									10 tekstinnskrivingsområde (disabled, settable) Avstemninger
+								11 celle (disabled)
+									12 tekstinnskrivingsområde (disabled, settable) OK
+								13 celle (disabled)
+									14 tekstinnskrivingsområde (disabled, settable) I/A
+								15 celle (disabled)
+									16 tekstinnskrivingsområde (disabled, settable) Oppfølgingsansvar
+								17 celle (disabled)
+									18 tekstinnskrivingsområde (disabled, settable) Merknad
+							19 row (disabled)
+								20 celle (disabled)
+									21 tekstinnskrivingsområde (disabled, settable) Er det foretatt avstemminger og tilfredsstillende dokumentert:
+Kassetelling
+Bank – åpne poster
+								22 celle (disabled)
+								23 celle (disabled)
+								24 celle (disabled)
+								25 celle (disabled)
+							26 kolonne (disabled) Avstemninger
+							27 kolonne (disabled) OK
+							28 kolonne (disabled) I/A
+							29 kolonne (disabled) Oppfølgingsansvar
+							30 kolonne (disabled) Merknad
+						31 Tabell, 2 Rader, 5 Kolonner, , 
+							32 row (disabled)
+								33 celle (disabled)
+									34 tekstinnskrivingsområde (disabled, settable) Avstemninger
+								35 celle (disabled)
+									36 tekstinnskrivingsområde (disabled, settable) OK
+								37 celle (disabled)
+									38 tekstinnskrivingsområde (disabled, settable) I/A
+								39 celle (disabled)
+									40 tekstinnskrivingsområde (disabled, settable) Oppfølgingsansvar
+								41 celle (disabled)
+									42 tekstinnskrivingsområde (disabled, settable) Merknad
+							43 row (disabled)
+								44 celle (disabled)
+									45 tekstinnskrivingsområde (disabled, settable) Er det foretatt avstemminger og tilfredsstillende dokumentert:
+Kassetelling
+Bank – åpne poster
+								46 celle (disabled)
+								47 celle (disabled)
+								48 celle (disabled)
+								49 celle (disabled)
+							50 kolonne (disabled) Avstemninger
+							51 kolonne (disabled) OK
+							52 kolonne (disabled) I/A
+							53 kolonne (disabled) Oppfølgingsansvar
+							54 kolonne (disabled) Merknad
+						55 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Sjekkliste for kvalitetssikring av årsregnskapet
+Dato: [xx.xx.xxxx]
+Tid: [xx:xx]
+Sted: [Sted]
+Tabell, 2 Rader, 5 Kolonner, ,  
+Tabell, 2 Rader, 5 Kolonner, ,  
+						56 Felt page
+						57 Felt numpages
+						58 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	Sjekkliste for årsregnskapet
+				59 rullefelt (disabled, settable, float) 0
+					60 verdiindikator (disabled, settable, float) 0
+				61 rullefelt (disabled, settable, float) 0
+					62 verdiindikator (disabled, settable, float) 0
+		63 deler (disabled, settable, float) 1728
+	64 container Statuslinje
+		65 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		66 valgknapp Sideutforming, Value: 1
+		67 valgknapp Weboppsett, Value: 0
+		68 valgknapp Disposisjon, Value: 0
+		69 valgknapp Kladd, Value: 0
+		70 knapp Zoom ut
+		71 knapp Zoom inn
+		72 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			73 verdiindikator (settable, float) 1015
+		74 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+		75 tekst 09_Sjekkliste_arsregnskap.docx: 321 tegn (omtrentlig verdi).
+	76 fanegruppe Description: bånd, Details: Hjem
+		77 rullefeltområde Hjem-fanekommandoer
+			78 container
+				79 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				80 knapp (disabled) Klipp ut, Value: 0
+				81 knapp (disabled) Kopier, Value: 0
+				82 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			83 container
+				84 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					85 knapp
+				86 kombinert rute (settable) Description: Skriftstørrelse:, Value: 18, Secondary Actions: Confirm
+					87 knapp
+				88 knapp Øk skriftstørrelse, Value: 0
+				89 knapp Reduser skriftstørrelse, Value: 0
+				90 menyknapp Endre bokstavtype, Value: 0
+				91 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				92 veksleknapp Fet, Value: on
+				93 veksleknapp Kursiv, Value: off
+				94 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				95 veksleknapp Gjennomstreking, Value: off
+				96 veksleknapp Senket skrift, Value: off
+				97 veksleknapp Hevet skrift, Value: off
+				98 menyknapp Teksteffekter, Value: 0
+				99 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				100 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			101 container
+				102 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				103 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				104 menyknapp Liste med flere nivåer, Value: 0
+				105 knapp Reduser innrykk, Value: 0
+				106 knapp Øk innrykk, Value: 0
+				107 knapp Sorter, Value: 0
+				108 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				109 veksleknapp Venstrejuster, Value: on
+				110 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				111 veksleknapp Høyrejuster, Value: off
+				112 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				113 menyknapp Linje- og avsnittsavstand, Value: 0
+				114 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				115 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			116 container
+				117 galleri Description: Stiler, Help: galleri
+					118 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					119 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					120 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					121 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					122 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					123 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					124 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					125 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				126 veksleknapp Stiler-rute, Value: off
+			127 veksleknapp Dikter, Help: Office-diktering, Value: off
+			128 menyknapp (disabled) Følsomhet, Value: 0
+			129 knapp Tillegg, Value: 0
+			130 container
+				131 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				132 veksleknapp Copilot, Value: off
+			133 container
+				134 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				135 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		136 fane Hjem, Help: Skjul båndet, Value: 1
+		137 fane Sett inn
+		138 fane Tegn
+		139 fane Utforming
+		140 fane Oppsett
+		141 fane Referanser
+		142 fane Masseutsendelser
+		143 fane Se gjennom
+		144 fane Visning
+		145 fane Acrobat
+		146 knapp Kommentarer
+		147 knapp Redigering, Help: Modus for dokumenttilgang
+		148 knapp Del
+	149 verktøylinje
+		150 container Secondary Actions: Fjern fra verktøylinjen
+			151 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			152 knapp Hjem, Value: 0
+			153 knapp Lagre, Value: 0
+			154 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			155 knapp (disabled) Kan ikke gjenta, Value: 0
+			156 knapp Skriv ut, Value: 0
+			157 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			158 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				159 knapp Søk
+			160 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			161 text Value: 09_Sjekkliste_arsregnskap Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			162 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	163 lukkeknapp
+	164 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	165 minimeringsknapp
+166 menu bar
+	167 Word, ID: AppMenu_MenuItem
+	168 Fil
+	169 Rediger, ID: EditMenu_MenuItem
+	170 Vis, ID: ViewMenu_MenuItem
+	171 Sett inn
+	172 Formater
+	173 Verktøy
+	174 Tabell
+	175 Vindu, ID: WindowMenu_MenuItem
+	176 Hjelp, ID: HelpMenu_MenuItem

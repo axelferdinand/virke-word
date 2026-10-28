@@ -1,0 +1,225 @@
+{
+  "master_sha256": "3e4f4d5d2fb37e62f7a91df24d6b9d85acd1071dff78a87bc75eee6eecedae5c",
+  "docx_sha256": "ce6c0c332f4ab4365e5fb2a04d2bf204f16fb9ec68b52f2dd124623f439ac251",
+  "changed_parts": [
+    "[Content_Types].xml",
+    "docProps/core.xml",
+    "word/_rels/document.xml.rels",
+    "word/document.xml",
+    "word/footer1.xml",
+    "word/footerGuideLandscape.xml",
+    "word/header1.xml",
+    "word/numbering.xml"
+  ],
+  "preserved_parts": 40,
+  "existing_numbering_preserved": true,
+  "style_definitions": 425,
+  "logical_pages": 18,
+  "components_expected": [
+    "Avtale",
+    "Diagram sektor",
+    "Diagram søyle",
+    "Hjelpetekst",
+    "Innholdsfortegnelse",
+    "Lovtekst",
+    "Møteinformasjon – detaljert",
+    "Møteinformasjon – enkel",
+    "Saksliste",
+    "Signatur",
+    "Store celler",
+    "Tabell",
+    "Tabell med 2 kolonner",
+    "Tabell med 3 kolonner",
+    "Tabell med 4 kolonner",
+    "Tabell med 5 kolonner",
+    "Tabell med 9 kolonner liggende",
+    "Tabell med 9 like kolonner liggende",
+    "Utfyllingsmal",
+    "Virke bunntekst",
+    "Virke topptekst"
+  ],
+  "components_shown": [
+    "Avtale",
+    "Diagram sektor",
+    "Diagram søyle",
+    "Hjelpetekst",
+    "Innholdsfortegnelse",
+    "Lovtekst",
+    "Møteinformasjon – detaljert",
+    "Møteinformasjon – enkel",
+    "Saksliste",
+    "Signatur",
+    "Store celler",
+    "Tabell",
+    "Tabell med 2 kolonner",
+    "Tabell med 3 kolonner",
+    "Tabell med 4 kolonner",
+    "Tabell med 5 kolonner",
+    "Tabell med 9 kolonner liggende",
+    "Tabell med 9 like kolonner liggende",
+    "Utfyllingsmal",
+    "Virke bunntekst",
+    "Virke topptekst"
+  ],
+  "component_instances": [
+    {
+      "module": "Hjelpetekst",
+      "logical_page": 1,
+      "bookmark": "GuideModule01",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Innholdsfortegnelse",
+      "logical_page": 4,
+      "bookmark": "GuideModule02",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Lovtekst",
+      "logical_page": 4,
+      "bookmark": "GuideModule03",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Utfyllingsmal",
+      "logical_page": 5,
+      "bookmark": "GuideModule04",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Møteinformasjon – enkel",
+      "logical_page": 6,
+      "bookmark": "GuideModule05",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Møteinformasjon – detaljert",
+      "logical_page": 6,
+      "bookmark": "GuideModule06",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Tabell",
+      "logical_page": 7,
+      "bookmark": "GuideModule07",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Tabell med 2 kolonner",
+      "logical_page": 7,
+      "bookmark": "GuideModule08",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Tabell med 3 kolonner",
+      "logical_page": 8,
+      "bookmark": "GuideModule09",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Tabell med 4 kolonner",
+      "logical_page": 8,
+      "bookmark": "GuideModule10",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Tabell med 5 kolonner",
+      "logical_page": 9,
+      "bookmark": "GuideModule11",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Store celler",
+      "logical_page": 9,
+      "bookmark": "GuideModule12",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Tabell med 9 kolonner liggende",
+      "logical_page": 10,
+      "bookmark": "GuideModule13",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Tabell med 9 like kolonner liggende",
+      "logical_page": 11,
+      "bookmark": "GuideModule14",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Saksliste",
+      "logical_page": 12,
+      "bookmark": "GuideModule15",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Signatur",
+      "logical_page": 13,
+      "bookmark": "GuideModule16",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Avtale",
+      "logical_page": 14,
+      "bookmark": "GuideModule17",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Diagram søyle",
+      "logical_page": 15,
+      "bookmark": "GuideModule18",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Diagram sektor",
+      "logical_page": 16,
+      "bookmark": "GuideModule19",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Virke topptekst",
+      "logical_page": 17,
+      "bookmark": "GuideModule20",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Virke bunntekst",
+      "logical_page": 17,
+      "bookmark": "GuideModule21",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    },
+    {
+      "module": "Tabell med 2 kolonner",
+      "logical_page": 18,
+      "bookmark": "GuideModule08",
+      "source": "word/glossary/document.xml",
+      "actual_component": true
+    }
+  ],
+  "native_word_review": "passed",
+  "pdf_export": "Microsoft Word for Mac",
+  "native_field_source": "Word-QA-2026-10-28/testkopier/Komponentguide-2.2-Word.docx",
+  "native_toc_entries": 3,
+  "review_record": "Word-QA-2026-10-28/guide-review-final.json"
+}

@@ -1,0 +1,21 @@
+{
+  "guide_version": "1.2",
+  "date": "2026-10-21",
+  "content_source": "docs/brukerveiledning-master.json",
+  "docx_builder": "scripts/virke-build/build_master_guide_docx.py",
+  "builder": "scripts/virke-build/build_master_guide.py",
+  "docx": "output/docx/Virke_mastermal_brukerveiledning.docx",
+  "docx_sha256": "22d01716242a9997e870c061bd0de7b6cf114f66a034d5f1db22f9d4384e62d5",
+  "pdf": "output/pdf/Virke_mastermal_brukerveiledning.pdf",
+  "pdf_sha256": "0eaeee6d67c150aba49cb6a4db143d8d5285ddea30a5be0200dd7e842832987a",
+  "master": "Virke-revidert-2026-10-21/Virke_master_test.dotx",
+  "master_sha256": "74d641efa36287eeb70d34cd38036d2c09de31288e5d1d1a6e22399752e44740",
+  "change_note": "Redigerbar Word-veiledning bygget med masterens stiler og komponenter. Oppdatert etter native Word-test: stabile tabelloverskrifter, Enter i Avtale, diagramlagring, liggende marger og begrensning ved TOC-sidetall.",
+  "revision_rule": "Oppdater JSON og DOCX ved relevante endringer. Kontroller i Word, eksporter PDF, inspiser alle sider og oppdater manifest og leveranse-ZIP.",
+  "pdf_export": "Microsoft Word for Mac, Lagre som PDF, Best for utskrift",
+  "qa_status": "native_word_and_all_rendered_pages_reviewed",
+  "rendered_pages": 7,
+  "review_record": "Word-QA-2026-10-21/guide-review.json",
+  "render_review": "Alle sju sider kontrollert i Word, DOCX-render og Word-eksportert PDF. Ingen klipping, overlapp eller feil i sidetall.",
+  "platform_scope": "Word for Mac. Windows og Word på nett er ikke verifisert."
+}

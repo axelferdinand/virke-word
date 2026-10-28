@@ -1,0 +1,164 @@
+Window: "10_Utviklingssamtale", App: Microsoft Word.
+0 standardvindu 10_Utviklingssamtale, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/10_Utviklingssamtale.docx, Secondary Actions: Raise
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 10_Utviklingssamtale
+					5 container
+						6 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						7 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Utviklingssamtale mellom styreleder og daglig leder
+Partene bør være godt forberedt til samtalen. Etter samtalene lages et kort referat som tar utgangspunkt for kommende samtaler og oppfølging.
+    1. [Arbeidsoppgave]
+        2. Hvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?
+[Fyll ut]
+        1. Hvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?
+[Fyll ut]
+    1. [Arbeidsoppgave]
+        2. Hvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?
+[Fyll ut]
+        1. Hvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?
+[Fyll ut]
+    1. [Arbeidsoppgave]
+        2. Hvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?
+[Fyll ut]
+        1. Hvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?
+[Fyll ut]
+						8 Felt page
+						9 Felt numpages
+						10 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	Utviklingssamtale
+				11 rullefelt (disabled, settable, float) 0
+					12 verdiindikator (disabled, settable, float) 0
+				13 rullefelt (disabled, settable, float) 0
+					14 verdiindikator (disabled, settable, float) 0
+		15 deler (disabled, settable, float) 1728
+	16 container Statuslinje
+		17 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		18 valgknapp Sideutforming, Value: 1
+		19 valgknapp Weboppsett, Value: 0
+		20 valgknapp Disposisjon, Value: 0
+		21 valgknapp Kladd, Value: 0
+		22 knapp Zoom ut
+		23 knapp Zoom inn
+		24 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			25 verdiindikator (settable, float) 1015
+		26 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+		27 tekst 10_Utviklingssamtale.docx: 685 tegn (omtrentlig verdi).
+	28 fanegruppe Description: bånd, Details: Hjem
+		29 rullefeltområde Hjem-fanekommandoer
+			30 container
+				31 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				32 knapp (disabled) Klipp ut, Value: 0
+				33 knapp (disabled) Kopier, Value: 0
+				34 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			35 container
+				36 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					37 knapp
+				38 kombinert rute (settable) Description: Skriftstørrelse:, Value: 18, Secondary Actions: Confirm
+					39 knapp
+				40 knapp Øk skriftstørrelse, Value: 0
+				41 knapp Reduser skriftstørrelse, Value: 0
+				42 menyknapp Endre bokstavtype, Value: 0
+				43 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				44 veksleknapp Fet, Value: on
+				45 veksleknapp Kursiv, Value: off
+				46 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				47 veksleknapp Gjennomstreking, Value: off
+				48 veksleknapp Senket skrift, Value: off
+				49 veksleknapp Hevet skrift, Value: off
+				50 menyknapp Teksteffekter, Value: 0
+				51 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				52 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			53 container
+				54 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				55 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				56 menyknapp Liste med flere nivåer, Value: 0
+				57 knapp Reduser innrykk, Value: 0
+				58 knapp Øk innrykk, Value: 0
+				59 knapp Sorter, Value: 0
+				60 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				61 veksleknapp Venstrejuster, Value: on
+				62 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				63 veksleknapp Høyrejuster, Value: off
+				64 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				65 menyknapp Linje- og avsnittsavstand, Value: 0
+				66 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				67 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			68 container
+				69 galleri Description: Stiler, Help: galleri
+					70 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					71 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					72 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					73 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					74 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					75 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					76 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					77 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				78 veksleknapp Stiler-rute, Value: off
+			79 veksleknapp Dikter, Help: Office-diktering, Value: off
+			80 menyknapp (disabled) Følsomhet, Value: 0
+			81 knapp Tillegg, Value: 0
+			82 container
+				83 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				84 veksleknapp Copilot, Value: off
+			85 container
+				86 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				87 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		88 fane Hjem, Help: Skjul båndet, Value: 1
+		89 fane Sett inn
+		90 fane Tegn
+		91 fane Utforming
+		92 fane Oppsett
+		93 fane Referanser
+		94 fane Masseutsendelser
+		95 fane Se gjennom
+		96 fane Visning
+		97 fane Acrobat
+		98 knapp Kommentarer
+		99 knapp Redigering, Help: Modus for dokumenttilgang
+		100 knapp Del
+	101 verktøylinje
+		102 container Secondary Actions: Fjern fra verktøylinjen
+			103 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			104 knapp Hjem, Value: 0
+			105 knapp Lagre, Value: 0
+			106 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			107 knapp (disabled) Kan ikke gjenta, Value: 0
+			108 knapp Skriv ut, Value: 0
+			109 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			110 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				111 knapp Søk
+			112 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			113 text Value: 10_Utviklingssamtale Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			114 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	115 lukkeknapp
+	116 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	117 minimeringsknapp
+118 menu bar
+	119 Word, ID: AppMenu_MenuItem
+	120 Fil
+	121 Rediger, ID: EditMenu_MenuItem
+	122 Vis, ID: ViewMenu_MenuItem
+	123 Sett inn
+	124 Formater
+	125 Verktøy
+	126 Tabell
+	127 Vindu, ID: WindowMenu_MenuItem
+	128 Hjelp, ID: HelpMenu_MenuItem
+
+The focused UI element is 7 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Utviklingssamtale mellom styreleder og daglig leder
+Partene bør være godt forberedt til samtalen. Etter samtalene lages et kort referat som tar utgangspunkt for kommende samtaler og oppfølging.
+    1. [Arbeidsoppgave]
+        2. Hvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?
+[Fyll ut]
+        1. Hvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?
+[Fyll ut]
+    1. [Arbeidsoppgave]
+        2. Hvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?
+[Fyll ut]
+        1. Hvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?
+[Fyll ut]
+    1. [Arbeidsoppgave]
+        2. Hvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?
+[Fyll ut]
+        1. Hvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?
+[Fyll ut]

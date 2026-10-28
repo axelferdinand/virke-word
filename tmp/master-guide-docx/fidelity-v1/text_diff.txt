@@ -1,0 +1,133 @@
+--- a
++++ b
+@@ -1,3 +1,127 @@
+-[Dokumenttittel]
+-[Overskrift]
+-[Skriv dokumentteksten her]
++Brukerveiledning for Virke mastermal
++Mastermalen gir nye Word-dokumenter Virkes typografi, farger, marger og ferdige innholdsblokker. Bruk den når du skal lage et nytt dokumentoppsett.
++Velg riktig utgangspunktNår en ferdig bruksmal dekker behovet, lager du en kopi av den og fyller ut kopien. Masteren trenger ikke åpnes for vanlig utfylling.
++Før du starter
++Bruk Word i skrivebordsappen. Arbeidsmåtene i denne veiledningen gjelder ikke nødvendigvis Word på nett.
++Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fonter lastes ikke automatisk fra en mappe ved siden av dokumentet.
++Ha en lokal kopi av DOTX-masteren tilgjengelig mens du setter inn byggeblokker. Lagre ferdige dokumenter i Virkes Microsoft 365-arkiv.
++Lag et nytt dokument
++Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Kontroller at Word oppretter et nytt dokument, som «Dokument1».
++Fyll ut [Dokumenttittel] før første lagring. Word kan da foreslå tittelen som filnavn. Kontroller navnet og velg Word-dokument (.docx).
++Fyll ut overskrift og brødtekst, og sett inn blokker fra Virke-fanen. Lagre i riktig arkivmappe.
++Versjon 1.2. Masterfilen heter fortsatt «test» i denne detaljeringen. De 40 eldre Styres-malene konverteres i neste fase.
++Bruk stiler og fyll ut feltene
++Velg stil etter tekstens rolle. Da beholder dokumentet riktig skrift og avstand, og overskriftene kan brukes i innholdsfortegnelsen.
++Velg stil fra Hjem
++Innhold
++Stil og arbeidsmåte
++Vanlig tekst
++Normal. Bruk fet skrift til korte fremhevinger.
++Overskrifter
++Overskrift 1, 2 og 3. Bruk nivåene i rekkefølge. Stor eller fet tekst alene gir ikke et overskriftsnivå.
++Lister
++Fortsett en eksisterende liste med Enter. Bruk listeknappene for nummerering og nivå.
++Tabell og signatur
++Behold stilene som følger med den innsatte blokken. De ligger i dokumentet selv om de er skjult i stilgalleriet.
++Tekst du limer inn
++Velg Behold bare tekst og bruk riktig stil. Kontroller at tekst limt inn i et rosa felt blir svart; velg svart skriftfarge ved behov.
++Fyll ut rosa plassholdere
++Klikk i feltet og erstatt plassholderen, for eksempel [Fyll ut]. Den utfylte teksten skal bli svart.
++I Utfyllingsmal flytter Tab til neste felt og Skift + Tab tilbake. Etiketten «Navn:» skal bli stående. I vanlige tabeller flytter Tab mellom cellene.
++Fjern ubrukte plassholdere og eksempelverdier før deling. Les hjelpeteksten før du eventuelt fjerner den.
++Fortsett en liste
++Enter etter et listepunkt gir et nytt punkt. Enter en gang til på et tomt punkt avslutter listen. Endre innrykksnivå med listefunksjonene under Hjem; unngå mellomrom og manuelt skrevne tall.
++Finn Virke-blokkene
++Masteren inneholder 21 Autotekst-oppføringer. En blokk tar med seg formatering, felt og eventuell tabellstruktur.
++På Mac: bruk Virke-fanen
++Plasser markøren i et tomt avsnitt der innholdet skal stå. Da unngår du at eksisterende tekst følger med inn i tabellen.
++Velg Virke > Virke-blokker. Word åpner dialogen Autokorrektur med fanen Autotekst.
++Velg Virke_master_test.dotx under Søk i. Listen viser da bare masterens oppføringer.
++Marker ønsket blokk og trykk Sett inn. Fyll ut de rosa feltene.
++Alternativ menyvei på Mac: Sett inn > Autotekst > Autotekst i menylinjen. Words vanlige Autotekst-galleri kan vise standardoppføringer; bruk dialogen og velg masteren under Søk i.
++På Windows
++Bruk Sett inn > Hurtigdeler > Autotekst, eventuelt Byggeblokkassistent. Velg oppføringen fra Virke-masteren. Menynavn kan variere med språk og Word-versjon. Virke-fanens virkemåte skal kontrolleres i Virkes Windows-miljø før utrulling.
++Avtale og signatur
++Avtale gir et redigerbart utgangspunkt med tittel, parter, avsnitt og signaturer. Erstatt plassholderne med relevant innhold. Signatur setter inn sted, dato og tre signaturfelt. Navn og stillingstittel er rosa plassholdere. Når du fyller ut avsnittsteksten, blir den vanlig redigerbar tekst. Enter lager et nytt avsnitt.
++Hvis masteren mangler i Søk iÅpne et nytt dokument fra riktig DOTX-fil, eller tilknytt masteren via Verktøy > Maler og tillegg på Mac. La automatisk oppdatering av dokumentstiler være avslått.
++Velg innholdet du trenger
++Navnene nedenfor er oppføringene du finner i masterens Autotekst-liste.
++Oppføring
++Bruksområde
++Avtale
++Redigerbart utgangspunkt med parter, avsnitt og signaturfelt.
++Signatur
++Sted, dato, navn og stillingstittel for tre signaturer.
++Innholdsfortegnelse
++Automatisk fortegnelse fra overskriftsnivå 1 til 3.
++Utfyllingsmal
++Navnefelt med faste etiketter og feltflyt med Tab.
++TabellTabell med 2, 3, 4 eller 5 kolonner
++Ferdige tabeller. Hvert kolonneantall er en egen oppføring.
++Store celler
++Tabell med god plass til lengre innhold.
++Tabell med 9 kolonner liggendeTabell med 9 like kolonner liggende
++Brede tabeller med ulik eller lik kolonnebredde.
++Saksliste
++Oppsett for saker og saksnumre.
++LovtekstHjelpetekst
++Ferdig formatering for sitert og veiledende tekst.
++Møteinformasjon – enkelMøteinformasjon – detaljert
++Utfyllbare møteopplysninger. Dette er felter du fyller ut selv, uten ekstern flettedatakilde.
++Diagram søyleDiagram sektor
++Diagrammer med innebygde Excel-data.
++Virke topptekstVirke bunntekst
++Innhold for dokumentets topp- og bunntekst.
++Møteinformasjon het tidligere «Mergefield 1» og «Mergefield 2». Innholdsfortegnelse het «Innhold_Virke». Innhold som er satt inn, blir en del av dokumentet og erstattes ikke automatisk når masteren endres.
++La dokumentet vokse
++Bruk Words egne funksjoner for rader og felt. Behold malens skriftstørrelser og marger når innholdet blir lengre.
++Utvid en tabell
++Plasser markøren i tabellen og velg Tabelloppsett > Sett inn under. Tab fra siste celle lager også en ny rad. La radhøyden vokse med teksten, og kontroller at overskriftsraden gjentas når tabellen går over flere sider.
++Datatabellene bruker toppjusterte celler og 7,5 pt tekst. Overskriftsraden skal være fet i alle celler. Kontroller formateringen etter innliming fra andre dokumenter eller regneark.
++Bruk liggende tabell
++Den enkleste starten er eksempel 04 eller 05, som allerede har liggende A4 og riktige marger. Ved innsetting i et annet dokument: velg liggende A4 for aktuell inndeling og sett margene til 1,25 cm venstre/høyre, 3,52 cm topp og 2,49 cm bunn. Blokken endrer ikke sideoppsettet automatisk. Kontroller også siden etter tabellen.
++Oppdater innholdsfortegnelsen
++Bruk Overskrift 1, 2 og 3 på avsnittene som skal med. Overskrift 1 er øverste nivå; 2 og 3 blir undernivåer.
++Sett inn blokken Innholdsfortegnelse. Klikk i fortegnelsen og velg Virke > Oppdater felt eller Words Oppdater tabell.
++Velg Oppdater hele tabellen når overskrifter er lagt til eller endret. F9 kan også oppdatere felt; enkelte tastaturer krever Fn + F9.
++Kontroller overskrifter, innrykk og sidetall før PDF-eksport. Oppdater igjen etter større endringer.
++Stilen Tittel er ikke et overskriftsnivå i innholdsfortegnelsen. Bruk Overskrift 1 når en stor tittel skal inngå i fortegnelsen.
++Word-begrensning: ved full oppdatering følger sidetallene fargen til sitt nivå. Øverste nivå får derfor svarte sidetall; undernivåene er grå. Hvis alle sidetall skal være grå som i Figma, må tallene på øverste nivå farges manuelt etter siste fulloppdatering og før PDF-eksport. Dette er en sluttjustering, ikke automatikk i masteren.
++Kontroller før du deler
++Lagre en redigerbar DOCX-fil. Eksporter også en PDF når du trenger en fast visnings- eller utskriftsversjon.
++Rediger diagramdata
++Sett inn Diagram søyle eller Diagram sektor, og lagre Word-dokumentet etter innsetting. Høyreklikk deretter diagrammet og velg Rediger data i Excel. Denne arbeidsmåten krever Excel.
++Erstatt eksempelverdier og navn i regnearket. Lukk dataarket og kontroller at diagrammet i Word er oppdatert.
++Tilpass tittel og tegnforklaring. Kontroller at navnene får plass, og lagre Word-dokumentet.
++Topptekst og bunntekst
++Dobbeltklikk øverst eller nederst på siden for å fylle ut kategori og dokumentnavn. Behold feltene «Side X av Y». Plasser markøren i riktig topp- eller bunntekst før du setter inn en tilsvarende blokk.
++Sjekk før du deler
++Rosa plassholdere, hjelpetekst og eksempelverdier er fylt ut, erstattet eller fjernet etter behov.
++Overskrifter og nummerering har riktig rekkefølge. Innholdsfortegnelsen er oppdatert.
++Tabeller holder seg innenfor margene. Tekst er ikke klippet, og signaturfeltene står samlet og hensiktsmessig.
++Dokumentnavn, kategori, sidetall og fonter stemmer.
++Lagre som DOCX. Eksporter til PDF med Lagre som eller Eksporter, og åpne PDF-en for en siste kontroll.
++Ta vare på mal og dokumenter
++Masteren er et felles utgangspunkt. Eksisterende utfylte dokumenter skal beholde sin formatering når masteren videreutvikles.
++Problem
++Første tiltak
++Feil font eller linjeskift
++Installer begge Clan-fontene, start Word på nytt og kontroller i skrivebordsappen.
++Rosa tekst etter utfylling
++Ved innliming: velg Behold bare tekst, bruk riktig stil og kontroller skriftfargen. Velg svart ved behov. Vanlig skriving i plassholderen gir svart tekst.
++Feil innhold i fortegnelsen
++Kontroller overskriftsstilene og velg Oppdater hele tabellen.
++Virke-blokker mangler
++Bruk skrivebordsappen og velg masteren under Søk i. Se side 3.
++Varsel om eksterne felt
++Hvis du ikke bruker en kjent ekstern datakilde, velg Nei. Oppdater aktuelle felt målrettet.
++Vedlikehold masteren
++Lag en arbeidskopi. Åpne DOTX-filen via Fil > Åpne, oppdater aktuelle stiler og blokker, og lagre som DOTX. Endret startinnhold oppdaterer ikke automatisk en lagret Autotekst-blokk. Kontroller begge deler.
++Overfør relevante rettelser til eksempeldokumenter og bruksmaler, og test kopier før ny publisering. Oppdater denne veiledningen når funksjoner, menysteg, fonter eller filnavn endres. Øk versjon og dato.
++Plassering i Microsoft 365
++Oppbevar master, fonter og veiledning samlet i Virkes arkiv. Ferdige bruksmaler skal distribueres som selvstendige DOCX-filer med nødvendig formatering innebygd. Automatisk stiloppdatering skal være avslått. Masteren trengs for innsetting av nye blokker, ikke for å lese innhold som allerede er satt inn.
++Eksempelfilene i denne detaljeringen har fortsatt en relativ tilknytning til DOTX-masteren. De demonstrerer design og funksjoner; konverteringen av de 40 Styres-malene er neste fase.
++Mer hjelp fra Microsoft
++Microsoft: Opprette og bruke maler
++Microsoft: Autotekst og gjenbrukbart innhold
++Microsoft: Installere fonter i Office

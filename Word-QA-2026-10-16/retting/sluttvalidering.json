@@ -1,0 +1,128 @@
+[
+  {
+    "file": "01_Protokoll_styremote.docx",
+    "sha256": "4e6bc1a9f4c9e8edb3ea828795921fb90da10680aa3690a6f87cdf98ff2ed140",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "02_Balance_scorecard.docx",
+    "sha256": "2f0e80c5f71376c9c68dcedbec9ad34d31e2250d4b91451b107a2196975e4c46",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "03_Utfyllingsskjema.docx",
+    "sha256": "b2dfd5bb62a3dc0a8bc6aba829d5cd33c1b626207c63d0ad17f815d1547c38a4",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "04_Aksjeeierbok_liggende.docx",
+    "sha256": "78fbafce70ba9ec2018e2707b2befcf0f712eec0123bd991c0286dbe74f2439e",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "05_Protokoll_liggende_ni_kolonner.docx",
+    "sha256": "acd163b14ff6351b78213b8b0b5d260098504b9432406a07b10a16970e25c71c",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "06_Protokoll_Prototypen_AS.docx",
+    "sha256": "0e5b7b829981bd6485b3e208f13824596f22277e7be0d0cfcaba70848ac70357",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "07_Innholdsfortegnelse_og_avtale.docx",
+    "sha256": "56bf4c7fb953ca063c796c2cfdfe9cfbef1f1749d7d45be36ddd70b39685864e",
+    "body_text_preserved": false,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "08_Avtalemal.docx",
+    "sha256": "c668e6022bd8cee7a415c740736635417584151633fad92f296a8df06c263741",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "09_Sjekkliste_arsregnskap.docx",
+    "sha256": "43a6f92f3fda69c4b19dd9c472833e31537e432f5a92850be9a3daa48daad8e1",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "10_Utviklingssamtale.docx",
+    "sha256": "4ea5440ae90a76605fe1729762699d4647b9433a871fdb4f9299fc7d7c996d3c",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "11_Diagrammer.docx",
+    "sha256": "e7b4cbf1e66ed40f02e658ed988510b1958fd43e7a35cf429d2117f07cbdba47",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "12_Tekststiler_Clan.docx",
+    "sha256": "d62b91ec6f54055d9566536830329969c754f6a83c3b1ade888fd53bab246a47",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "13_Tekststiler_Arial.docx",
+    "sha256": "1c088a4295c62fea2c7a8bf800b0d64065faee23b647dd89d0cdc820c0d6519c",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "14_Marger_og_tekstflyt.docx",
+    "sha256": "bc4086fb1afe4975f02df81e92d056f5bc2f7bba95a192ea2306b913aebe124a",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "15_Avstand_mellom_tekststiler.docx",
+    "sha256": "3db8e2ab395c68a27af68cae20ef0815e95644af06a006514bff392f451f0348",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "16_Avstand_tabeller_og_signatur.docx",
+    "sha256": "afb607740836cddfeaf6eb8725ff919259f0a85084b28be91acdc7a9e94e83cd",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "17_Flernivanummerering_og_saksliste.docx",
+    "sha256": "47f650386e08b21a0f7b22c5557090dee693ac36b6a6bc375aaff08a05c69bf4",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  },
+  {
+    "file": "Virke_master_test.dotx",
+    "sha256": "a6a2759fc972bc107e7747cbdcfb9d90a938cbf35d644d523f27e4670bc5943c",
+    "body_text_preserved": true,
+    "page_setup_preserved": true,
+    "theme_preserved": true
+  }
+]

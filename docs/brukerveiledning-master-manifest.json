@@ -1,0 +1,21 @@
+{
+  "guide_version": "2.2",
+  "date": "2026-10-28",
+  "content_source": "docs/brukerveiledning-master.json",
+  "docx_builder": "scripts/virke-build/build_master_guide_docx.py",
+  "builder": "scripts/virke-build/build_master_guide.py",
+  "docx": "output/docx/Virke_mastermal_brukerveiledning.docx",
+  "docx_sha256": "ce6c0c332f4ab4365e5fb2a04d2bf204f16fb9ec68b52f2dd124623f439ac251",
+  "pdf": "output/pdf/Virke_mastermal_brukerveiledning.pdf",
+  "pdf_sha256": "8d81acf890e5a59030691f5f53206165a4cb24bf6546c7c8ff1bafe793011cb0",
+  "master": "Virke-revidert-2026-10-28/Virke_master_test.dotx",
+  "master_sha256": "3e4f4d5d2fb37e62f7a91df24d6b9d85acd1071dff78a87bc75eee6eecedae5c",
+  "change_note": "Tabellstiler og cellemarger revidert. Nye standardtabeller bruker 7,5 pkt og fet overskriftsrad. Alle 21 redigerbare komponenter er bevart.",
+  "revision_rule": "Oppdater JSON og DOCX ved relevante endringer. Kontroller i Word, eksporter PDF, inspiser alle sider og oppdater manifest og leveranse-ZIP.",
+  "pdf_export": "Microsoft Word for Mac, Lagre som PDF, Best for utskrift",
+  "qa_status": "native_word_and_all_rendered_pages_reviewed",
+  "rendered_pages": 18,
+  "review_record": "Word-QA-2026-10-28/guide-review-final.json",
+  "render_review": "Alle 18 sider kontrollert i rendret DOCX og Word-eksportert PDF, med visuell kontroll i Word. Ingen klipping, overlapp eller feil i sidetall.",
+  "platform_scope": "Word for Mac. Windows og Word på nett er ikke verifisert."
+}

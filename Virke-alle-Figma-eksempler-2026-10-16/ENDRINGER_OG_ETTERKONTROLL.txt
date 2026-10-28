@@ -1,0 +1,69 @@
+VIRKE – RETTELSER OG ETTERKONTROLL 16.10.2026
+
+STATUS
+De fem funnene F1–F5 fra den første Word-testen er utbedret.
+Leveransen består av én oppdatert DOTX-master og 17 oppdaterte DOCX-eksempler.
+Før-versjonen er sikkerhetskopiert. Testtekst og testverdier er ikke med i
+leveransen. Endelig pakke erstatter mappen og ZIP-en med samme navn.
+
+ETTERTEST DIREKTE I MICROSOFT WORD FOR MAC 16.90.2
+Alle interaktive endringer ble gjort på kopier med innebygd datamaskinbruk.
+Den første rapporten beskriver gjennomgangen av alle 18 filer. Denne
+rapporten dokumenterer de målrettede kontrollene etter retting.
+
+F1 – Diagramdokumentet: BESTÅTT
+11_Diagrammer åpner normalt uten varsel om uleselig innhold. Dokumentets
+og Autotekstens diagrammer har separate pakkedeler. De innebygde Excel-
+arbeidsbøkene er bygget på nytt; serier og verdier er bevart. Begge diagrammer,
+tegnforklaringer og fargetabell vises på én side. «Rediger data i Excel» er
+prøvd for begge diagrammer. Søyleverdi 6 → 7 og sektorverdi 35 → 40 ble lagret
+tilbake i testkopien. Søyleendringen ble bekreftet visuelt i Word, og begge
+endringene er bekreftet i de lagrede diagramverdiene. Rene leveranseverdier
+er fortsatt 6 og 35. Masterens egne diagramdesign og data er bevart.
+
+F2 – Utfylling og Tab: BESTÅTT
+Navnefeltene er varige kontroller for ren tekst. I 03 og 16 ble første
+navnefelt fylt ut, Tab trykket og neste felt fylt ut. «Navn:» ble beholdt
+ved begge felt, og inntastet tekst var svart. Dokumentene holdt én side.
+Den samme rettelsen er prøvd i Utfyllingsmal satt inn fra DOTX-masteren.
+
+F3 – Innholdsfortegnelse og sidefordeling: BESTÅTT
+07 åpner på én side med faktisk overskrift og sidetall 1. Signaturene er
+på samme side. «Oppdater hele tabellen» via F9 er prøvd; dokumentet forblir
+på én side. Den tidligere testen verifiserte også at en ny overskrift på
+nivå 2 tas med, og at grå TOC-tekst og sidetall bevares. Demooppføringene
+med sidetall 3–13 er fjernet fra leveransefilens lagrede TOC-visning.
+
+F4 – Listefortsettelse: BESTÅTT
+Listeavsnitt bruker nå samme stil for neste avsnitt i både dokument- og
+byggeblokkstiler. I 12 ga Enter etter «Steg nummer to» automatisk punkt 3.
+Testkopien viser «3 QA-test tredje steg». Dokumentet beholdt én side.
+Arial-eksemplet 13 ble visuelt kontrollert etter stilendringen og holdt én
+side. Andre nummereringsdefinisjoner er ikke endret.
+
+F5 – Nye sjekklisterader: BESTÅTT
+09 og Store celler-blokken bruker 18 pt minimumshøyde i stedet for 177 pt.
+I 09 ble en rad fylt ut, inkludert ansvarlig og merknad; Tab fra siste celle
+opprettet en normal, lav rad. Begge tabeller fikk fortsatt plass på én side.
+Radhøyden er fortsatt fleksibel og vokser med innholdet.
+
+MASTER OG FILKONTROLL
+Masteren åpner og lagres som DOTX. Alle 20 Autotekst-blokker vises i Words
+Autotekst-dialog og er bevart i lagret masterkopi. Utfyllingsmal og Diagram
+søyle ble satt inn fra masteren. Søylediagrammets data åpnet i Excel, og
+4,3 → 5 ble lagret tilbake til testkopien. Alle 20 blokkene er ikke testet
+interaktivt hver for seg.
+Alle 18 leveransefiler: XML og interne relasjoner validert; ingen QA-tekst.
+Marger, sidestørrelser og tema er bevart. Brødtekst er uendret utenom den
+korrigerte fortegnelsen i 07. Originale diagramverdier er bevart. Dette er
+Word- og layoutkontroll, ikke en juridisk vurdering av eksempeltekstene.
+
+FILER OG SPORBARHET
+Leveranse: Virke-alle-Figma-eksempler-2026-10-16/
+ZIP: Virke-alle-Figma-eksempler-2026-10-16.zip
+Før-versjon: Word-QA-2026-10-16/retting/for-retting.zip
+Testkopier etter retting: Word-QA-2026-10-16/retting/ettertest/
+Strukturkontroll: Word-QA-2026-10-16/retting/sluttvalidering.json
+Rettelseslogg: Word-QA-2026-10-16/retting/rettinger.json
+Reproduserbart skript: scripts/virke-build/repair_word_qa.py
+Den første Testrapport.txt/.html beholdes som historikk før retting.

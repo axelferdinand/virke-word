@@ -1,0 +1,1215 @@
+[
+  {
+    "file": "01_Protokoll_styremote.docx",
+    "tables": 2,
+    "controls": [
+      {
+        "name": "foretaksnavn",
+        "text": "[foretaksnavn]"
+      },
+      {
+        "name": "Dato",
+        "text": "[Dato]"
+      },
+      {
+        "name": "Sted",
+        "text": "[Sted]"
+      },
+      {
+        "name": "Tid",
+        "text": "[Tid]"
+      },
+      {
+        "name": "Tid",
+        "text": "[Tid]"
+      },
+      {
+        "name": "Navn og ev. stilling på tilstedeværende",
+        "text": "[Navn og ev. stilling på tilstedeværende]"
+      },
+      {
+        "name": "Navn på innkalte som hadde forfall",
+        "text": "[Navn på innkalte som hadde forfall]"
+      },
+      {
+        "name": "Navn på referenten",
+        "text": "[Navn på referenten]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "1.500.000",
+        "text": "[1.500.000]"
+      },
+      {
+        "name": "kr. 1.000.000,-",
+        "text": "[kr. 1.000.000,-]"
+      },
+      {
+        "name": "kr. 500.000,-",
+        "text": "[kr. 500.000,-]"
+      },
+      {
+        "name": "kr. 1.500.000,-",
+        "text": "[kr. 1.500.000,-]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "innta",
+        "text": "[innta]"
+      },
+      {
+        "name": "dato",
+        "text": "[dato]"
+      },
+      {
+        "name": "enten møtested/møteform (digitalt)",
+        "text": "[enten møtested/møteform (digitalt)]"
+      },
+      {
+        "name": "dato",
+        "text": "[dato]"
+      },
+      {
+        "name": "Sted/dato",
+        "text": "[Sted/dato]"
+      }
+    ],
+    "fields": [],
+    "text": "Protokoll fra styremøte i [foretaksnavn]\nDato: [Dato]  Sted: [Sted]  Møtestart: [Tid]  Møteslutt: [Tid]\nTil stede: [Navn og ev. stilling på tilstedeværende]\nForfall: [Navn på innkalte som hadde forfall]\nReferent: [Navn på referenten]\nStyret var beslutningsdyktig. Styreleder ledet møtet. Det var ingen innvendinger til innkallingen eller dagsorden. Møtet ble erklært for lovlig satt. Følgende saker forelå til behandling:\nSak 1 Årsregnskap\nDet ble fremlagt forslag til årsregnskap for regnskapsåret [årstall].\nForslag til årsberetning, resultatregnskap, balanse og noter ble gjennomgått. Styret besluttet enstemmig å foreslå følgende disponering av årets overskudd på kr. [1.500.000],-\n\n\nStyret vedtok enstemmig forslaget til årsregnskap, den fremlagte årsberetningen, resultatregnskapets disponeringer, balanse og noter som selskapets regnskap for [årstall].\nKort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.\nStyret vedtok å fremlegge årsregnskapet m.v. for generalforsamlingen for godkjenning.\nSak 2 Honorar til styret\nStyret besluttet å foreslå for generalforsamlingen at styrehonoraret ble satt til [innta]\nSak 3 Innkalling til generalforsamling\nStyret besluttet å innkalle til ordinær generalforsamling i selskapet for behandling av angitte saker.\nGeneralforsamlingen innkalles til [dato] og avholdes [enten møtested/møteform (digitalt)]\nAlle beslutninger var enstemmige,\nDet var ingen flere saker til behandling. Møtet ble hevet.\nNeste styremøte er i henhold til styreplan: [dato].\n\n"
+  },
+  {
+    "file": "02_Balance_scorecard.docx",
+    "tables": 2,
+    "controls": [
+      {
+        "name": "Måned",
+        "text": "[Måned]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      }
+    ],
+    "fields": [],
+    "text": "Balance scorecard\nInnledning\nDet er viktig at måltall og parameter tilpasses virksomheten og brukerne. Start med noen enkel parameter og bygg deretter opp nye måltall som forteller dere om egen utvikling. Et godt råd er at styret og ledelsen tar et møte og diskuterer hvilke måltall og parameter som bør inngå.\nTabell med tall\n\nTabell med ord\n"
+  },
+  {
+    "file": "03_Utfyllingsskjema.docx",
+    "tables": 1,
+    "controls": [
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      }
+    ],
+    "fields": [],
+    "text": "Utfyllingsskjema\n"
+  },
+  {
+    "file": "04_Aksjeeierbok_liggende.docx",
+    "tables": 2,
+    "controls": [
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      }
+    ],
+    "fields": [],
+    "text": "Aksjeeierbok\n\n"
+  },
+  {
+    "file": "05_Protokoll_liggende_ni_kolonner.docx",
+    "tables": 1,
+    "controls": [
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      }
+    ],
+    "fields": [],
+    "text": "Protokoll fra styremøte i Prototypen AS\nDato: Emil Steinhov  Sted: Oslo  Møtestart: 10:30  Møteslutt: 12:30\nTil stede: Erling Kvaale, administrerende direktør\nForfall: Britt Brittnes\nReferent: Åse Andersen\n"
+  },
+  {
+    "file": "06_Protokoll_Prototypen_AS.docx",
+    "tables": 2,
+    "controls": [
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "1.500.000",
+        "text": "[1.500.000]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      }
+    ],
+    "fields": [],
+    "text": "Protokoll fra styremøte i Prototypen AS\nDato: Emil Steinhov  Sted: Oslo  Møtestart: 10:30  Møteslutt: 12:30\nTil stede: Erling Kvaale, administrerende direktør\nForfall: Britt Brittnes\nReferent: Åse Andersen\nSak 1 Årsregnskap\nDet ble fremlagt forslag til årsregnskap for regnskapsåret [årstall].\nForslag til årsberetning, resultatregnskap, balanse og noter ble gjennomgått. Styret besluttet enstemmig å foreslå følgende disponering av årets overskudd på kr. [1.500.000],-\n\n\nStyret vedtok enstemmig forslaget til årsregnskap, den fremlagte årsberetningen, resultatregnskapets disponeringer, balanse og noter som selskapets regnskap for [årstall].\nKort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.\nStyret vedtok å fremlegge årsregnskapet m.v. for generalforsamlingen for godkjenning.\nVennlig hilsen\n"
+  },
+  {
+    "file": "07_Innholdsfortegnelse_og_avtale.docx",
+    "tables": 1,
+    "controls": [
+      {
+        "name": null,
+        "text": "InnholdStyresak for forankring av ansvarlighet3Oppskrift for bruk av pakken5Etablere retningslinjer for ansvarlighet6Styresak for forankring av ansvarlighet7Etablere retningslinjer for ansvarlighet8Gjennomfør retningslinjer for ansvarlighet løpende9Gjennomfør retningslinjer for ansvarlighet løpende9Spørreskjema til leverandører9Forslag til kontraktsvilkårVerktøy for kartlegging og aktsomhetsvurderinger10Styresak for forankring av ansvarlighet10Hvilket budsjett bør virksomheten ha for arbeidet?11Svar på innsynsbegjæring12Virkes mal for redegjørelse på nettside13Styresak for forankring av ansvarlighet13"
+      },
+      {
+        "name": "Sted/dato",
+        "text": "[Sted/dato]"
+      }
+    ],
+    "fields": [
+      " TOC \\o \"1-3\" \\h \\z \\u \\* MERGEFORMAT "
+    ],
+    "text": "Eksempel på innholdsfortegnelse\n1. Bakgrunn og Virksomhetens formål\nBakgrunnen for avtalen er at partene ønsker å kombinere sin kompetanse for å utvikle nye digitale løsninger, samt styrke sin posisjon i det nordiske markedet gjennom et langsiktig og gjensidig forpliktende samarbeid.\nVirksomheten driver virksomhet innen utvikling av programvare, skybaserte tjenester og IT-rådgivning for bank- og finanssektoren.\n\n"
+  },
+  {
+    "file": "08_Avtalemal.docx",
+    "tables": 1,
+    "controls": [
+      {
+        "name": "Sted/dato",
+        "text": "[Sted/dato]"
+      }
+    ],
+    "fields": [],
+    "text": "Eksempel på avtalemal\nMellom\nNavn: Ola Nordmann\nOrg.nr/fødselsnr: 010185 12345\nOg\nNavn: Ola Nordmann\nOrg.nr/fødselsnr: 010185 12345\nEr det pr dags dato inngått følgende avtale:\nKari Nordmann leier en parkeringsplass av Ola Nordmann i perioden 01.09.2026 til 31.12.2026.\n1. Bakgrunn og virksomhetens formål\nBakgrunnen for avtalen er at partene ønsker å kombinere sin kompetanse for å utvikle nye digitale løsninger, samt styrke sin posisjon i det nordiske markedet gjennom et langsiktig og gjensidig forpliktende samarbeid.\nVirksomheten driver virksomhet innen utvikling av programvare, skybaserte tjenester og IT-rådgivning for bank- og finanssektoren.\n2. Overdragelse av aksjer\n5.1 Forkjøpsrett\nØvrige aksjonærer har forkjøpsrett når en aksje avhendes eller for øvrig skifter eier. Forkjøpsrett til aksjer i Virksomheten følger de til enhver tid gjeldende regler i aksjeloven jf. asl. §§ 4-19 til 4-23. Forkjøpsretten må gjøres gjeldende for hele den aktuelle aksjeposten.\n\n"
+  },
+  {
+    "file": "09_Sjekkliste_arsregnskap.docx",
+    "tables": 2,
+    "controls": [
+      {
+        "name": "xx.xx.xxxx",
+        "text": "[xx.xx.xxxx]"
+      },
+      {
+        "name": "xx:xx",
+        "text": "[xx:xx]"
+      },
+      {
+        "name": "Sted",
+        "text": "[Sted]"
+      }
+    ],
+    "fields": [],
+    "text": "Sjekkliste for kvalitetssikring av årsregnskapet\nDato: [xx.xx.xxxx]\nTid: [xx:xx]\nSted: [Sted]\n\n\n"
+  },
+  {
+    "file": "10_Utviklingssamtale.docx",
+    "tables": 0,
+    "controls": [
+      {
+        "name": "Arbeidsoppgave",
+        "text": "[Arbeidsoppgave]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Arbeidsoppgave",
+        "text": "[Arbeidsoppgave]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Arbeidsoppgave",
+        "text": "[Arbeidsoppgave]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      }
+    ],
+    "fields": [],
+    "text": "Utviklingssamtale mellom styreleder og daglig leder\nPartene bør være godt forberedt til samtalen. Etter samtalene lages et kort referat som tar utgangspunkt for kommende samtaler og oppfølging.\n[Arbeidsoppgave]\nHvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?\n[Fyll ut]\nHvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?\n[Fyll ut]\n[Arbeidsoppgave]\nHvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?\n[Fyll ut]\nHvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?\n[Fyll ut]\n[Arbeidsoppgave]\nHvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?\n[Fyll ut]\nHvilke oppgaver finner du stimulerende og tilfredsstillende, mindre tilfredsstillende?\n[Fyll ut]"
+  },
+  {
+    "file": "11_Diagrammer.docx",
+    "tables": 1,
+    "controls": [],
+    "fields": [],
+    "text": "Eksempel på 2 diagrammer\n\n\n\n\n"
+  },
+  {
+    "file": "12_Tekststiler_Clan.docx",
+    "tables": 1,
+    "controls": [
+      {
+        "name": "Utfyllingsstil",
+        "text": "[Utfyllingsstil]"
+      }
+    ],
+    "fields": [],
+    "text": "H1 (24 px/18 pt på 1,35)\nH2 (18 px/13,5 pt på 1,35)\nH3 (14 px/10,5 pt – minst 16,8 pt)\nParagraph (12 px/9 pt på 1.6). Det har vært to [Utfyllingsstil], begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.\nParagraph Bold (12 px/9 pt på 1.6)\n\n\nCaption (10px/7,5 pt på 1.6)       Caption Bold (10px/7,5 pt på 1.6)\nParagraph (12 px/9 pt på 1.6) + (List spacing 8px/6 pt)\nParagraph (12 px/9 pt på 1.6) + (List spacing 8px/6 pt)\nSteg nummer én\nSteg nummer to"
+  },
+  {
+    "file": "13_Tekststiler_Arial.docx",
+    "tables": 4,
+    "controls": [
+      {
+        "name": "Utfyllingsstil",
+        "text": "[Utfyllingsstil]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Sted/dato",
+        "text": "[Sted/dato]"
+      },
+      {
+        "name": "kr. 1.000.000,-",
+        "text": "[kr. 1.000.000,-]"
+      },
+      {
+        "name": "kr. 500.000,-",
+        "text": "[kr. 500.000,-]"
+      },
+      {
+        "name": "kr. 1.500.000,-",
+        "text": "[kr. 1.500.000,-]"
+      }
+    ],
+    "fields": [],
+    "text": "H1 (24 px/18 pt på 1,35)\nH2 (18 px/13,5 pt på 1,35)\nH3 (14 px/10,5 pt – minst 16,8 pt)\nParagraph (12 px/9 pt på 1.6). Det har vært to [Utfyllingsstil], begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.\nParagraph Bold (12 px/9 pt på 1.6)\n\n\nCaption (10px/7,5 pt på 1.6)\nParagraph (12 px/9 pt på 1.6) + (List spacing 8px/6 pt)\nParagraph (12 px/9 pt på 1.6) + (List spacing 8px/6 pt)\nSteg nummer én\nSteg nummer to\n\n\n\n"
+  },
+  {
+    "file": "14_Marger_og_tekstflyt.docx",
+    "tables": 0,
+    "controls": [
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      }
+    ],
+    "fields": [],
+    "text": "Tittel som flyter over på flere linjer fordi den består av veldig mange bokstaver\nKort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.\nUnderoverskrift som er litt mindre\nKort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.\nMindre underoverskrift\nKort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.\nKort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.\nMindre underoverskrift\nKort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år."
+  },
+  {
+    "file": "15_Avstand_mellom_tekststiler.docx",
+    "tables": 0,
+    "controls": [
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      },
+      {
+        "name": "årstall",
+        "text": "[årstall]"
+      }
+    ],
+    "fields": [],
+    "text": "Tittel som flyter over på flere linjer fordi den består av veldig mange bokstaver\nKort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.\nUnderoverskrift som er litt mindre\nKort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.\nMindre underoverskrift\nKort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.\nKort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.\nMindre underoverskrift\nKort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år."
+  },
+  {
+    "file": "16_Avstand_tabeller_og_signatur.docx",
+    "tables": 5,
+    "controls": [
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Måned",
+        "text": "[Måned]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "kr. 1.000.000,-",
+        "text": "[kr. 1.000.000,-]"
+      },
+      {
+        "name": "kr. 500.000,-",
+        "text": "[kr. 500.000,-]"
+      },
+      {
+        "name": "kr. 1.500.000,-",
+        "text": "[kr. 1.500.000,-]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Fyll ut",
+        "text": "[Fyll ut]"
+      },
+      {
+        "name": "Sted/dato",
+        "text": "[Sted/dato]"
+      }
+    ],
+    "fields": [],
+    "text": "\n\n\n\n"
+  },
+  {
+    "file": "17_Flernivanummerering_og_saksliste.docx",
+    "tables": 1,
+    "controls": [
+      {
+        "name": "kr. 1.000.000,-",
+        "text": "[kr. 1.000.000,-]"
+      },
+      {
+        "name": "kr. 500.000,-",
+        "text": "[kr. 500.000,-]"
+      },
+      {
+        "name": "kr. 1.500.000,-",
+        "text": "[kr. 1.500.000,-]"
+      }
+    ],
+    "fields": [],
+    "text": "Flernivånumre for revisor- og advokatdokumenter\nLovparagraf 1\nStyreleder har det overordnede ansvaret i styret, samt for å planlegge hvilke oppgaver som styret skal arbeide med og prioritere, behandle til hensiktsmessig tid på året og vedta. Styreleder er også ansvarlig for å avstemme mål, premisser og føringer fra generalforsamlingen og selskapets vedtekter, slik at dette blir ivaretatt på en hensiktsmessig og forsvarlig måte og ikke unnlatt i styrebehandlingen.\nInstruksen skal blant annet inneholde regler om hvilke saker som skal styrebehandles og daglig leders arbeidsoppgaver og plikter overfor styret. Instruksen skal også inneholde regler for innkalling og møtebehandling.\nInstruksen skal blant annet inneholde regler om hvilke saker som skal styrebehandles og daglig leders arbeidsoppgaver og plikter overfor styret. Instruksen skal også inneholde regler for innkalling og møtebehandling.\nInstruksen skal blant annet inneholde regler om hvilke saker som skal styrebehandles og daglig leders arbeidsoppgaver og plikter overfor styret. Instruksen skal også inneholde regler for innkalling og møtebehandling.\nSaksliste\nFortegnelse og godkjenning av aksjer og fullmakter\nGodkjenning av innkallingen til generalforsamling\nValg av deltakere til å underskrive protokoll fra møtet sammen med møteleder\nValg av deltaker til å underskrive protokollen fra møtet sammen med møteleder\nDet er viktig at måltall og parameter tilpasses virksomheten og brukerne. Start med noen enkel parameter og bygg deretter opp nye måltall som forteller dere om egen utvikling. Et godt råd er at styret og ledelsen tar et møte og diskuterer hvilke måltall og parameter som bør inngå.\n"
+  },
+  {
+    "file": "Virke_master_test.dotx",
+    "tables": 0,
+    "controls": [
+      {
+        "name": "Dokumenttittel",
+        "text": "[Dokumenttittel]"
+      },
+      {
+        "name": "Overskrift",
+        "text": "[Overskrift]"
+      },
+      {
+        "name": "Skriv dokumentteksten her",
+        "text": "[Skriv dokumentteksten her]"
+      }
+    ],
+    "fields": [],
+    "text": "[Dokumenttittel]\n[Overskrift]\n[Skriv dokumentteksten her]"
+  }
+]

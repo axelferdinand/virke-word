@@ -1,0 +1,212 @@
+Window: "01_Protokoll_styremote", App: Microsoft Word.
+0 standardvindu 01_Protokoll_styremote, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/01_Protokoll_styremote.docx, Secondary Actions: Raise
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 01_Protokoll_styremote
+					5 container Description: Copilot-sammendrag, ID: Summary_Container_Test_ID
+						6 ukjent
+							7 tekstinnskrivingsområde Value: **Copilot-sammendrag**, ID: Initial_Header_ID
+						8 bilde Description: Informasjon, Help: Copilot analyserer innholdet i dette dokumentet så snart det åpnes, for å generere et sammendrag.
+						9 knapp Description: Utvid sammendrag, ID: Collapse_Expand_Summary_Button
+					10 container
+						11 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						12 Tabell, 3 Rader, 2 Kolonner, , 
+							13 row (disabled)
+								14 celle (disabled)
+									15 tekstinnskrivingsområde (disabled, settable) Utbytte
+								16 celle (disabled)
+									17 container
+										18 tekstinnskrivingsområde (disabled, settable) [kr. 1.000.000,-]
+							19 row (disabled)
+								20 celle (disabled)
+									21 tekstinnskrivingsområde (disabled, settable) Annen egenkapital
+								22 celle (disabled)
+									23 container
+										24 tekstinnskrivingsområde (disabled, settable) [kr. 500.000,-]
+							25 row (disabled)
+								26 celle (disabled)
+									27 tekstinnskrivingsområde (disabled, settable) Sum disponert
+								28 celle (disabled)
+									29 container
+										30 tekstinnskrivingsområde (disabled, settable) [kr. 1.500.000,-]
+						31 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Protokoll fra styremøte i [foretaksnavn]
+Dato: [Dato]  Sted: [Sted]  Møtestart: [Tid]  Møteslutt: [Tid]
+Til stede: [Navn og ev. stilling på tilstedeværende]
+Forfall: [Navn på innkalte som hadde forfall]
+Referent: [Navn på referenten]
+Styret var beslutningsdyktig. Styreleder ledet møtet. Det var ingen innvendinger til innkallingen eller dagsorden. Møtet ble erklært for lovlig satt. Følgende saker forelå til behandling:
+Sak 1 Årsregnskap
+Det ble fremlagt forslag til årsregnskap for regnskapsåret [årstall].
+Forslag til årsberetning, resultatregnskap, balanse og noter ble gjennomgått. Styret besluttet enstemmig å foreslå følgende disponering av årets overskudd på kr. [1.500.000],-
+Tabell, 3 Rader, 2 Kolonner, ,  Styret vedtok enstemmig forslaget til årsregnskap, den fremlagte årsberetningen, resultatregnskapets disponeringer, balanse og noter som selskapets regnskap for [årstall].
+Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.
+Styret vedtok å fremlegge årsregnskapet m.v. for generalforsamlingen for godkjenning.
+Sak 2 Honorar til styret
+Styret besluttet å foreslå for generalforsamlingen at styrehonoraret ble satt til [innta]
+Sak 3 Innkalling til generalforsamling
+Styret besluttet å innkalle til ordinær generalforsamling i selskapet for behandling av angitte saker.
+
+						32 Felt page
+						33 Felt numpages
+						34 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 2	Protokoll fra styremøte
+					35 container
+						36 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						37 Tabell, 2 Rader, 5 Kolonner, , 
+							38 row (disabled)
+								39 celle (disabled) 0-4
+									40 container 0-4
+										41 tekstinnskrivingsområde (disabled, settable) [Sted/dato]
+							42 row (disabled)
+								43 celle (disabled)
+									44 container
+										45 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+								46 celle (disabled)
+								47 celle (disabled)
+									48 container
+										49 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+								50 celle (disabled)
+								51 celle (disabled)
+									52 container
+										53 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+						54 tekstinnskrivingsområde (disabled, settable) Description: Side 2-innhold, Value: Protokoll fra styremøte i [foretaksnavn]
+Dato: [Dato]  Sted: [Sted]  Møtestart: [Tid]  Møteslutt: [Tid]
+Til stede: [Navn og ev. stilling på tilstedeværende]
+Forfall: [Navn på innkalte som hadde forfall]
+Referent: [Navn på referenten]
+Styret var beslutningsdyktig. Sty
+						55 Felt page
+						56 Felt numpages
+						57 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 2	Protokoll fra styremøte
+				58 rullefelt (disabled, settable, float) 0
+					59 verdiindikator (disabled, settable, float) 0
+				60 rullefelt (disabled, settable, float) 1
+					61 verdiindikator (disabled, settable, float) 1
+		62 deler (disabled, settable, float) 1728
+	63 container Statuslinje
+		64 knapp Side 2 av 2, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten.
+		65 knapp 250 ord, Help: Antall ord i dokument. Klikk eller trykk for å åpne dialogboksen Ordtelling.
+		66 knapp Ingen korrekturfeil.
+		67 knapp Norsk (bokmål), Help: Språk
+		68 veksleknapp Tilgjengelighet: Alt er klart, Help: Tilgjengelighetskontrollen er fullført. Klikk her for å finne ut mer., Value: off
+		69 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		70 valgknapp Sideutforming, Value: 1
+		71 valgknapp Weboppsett, Value: 0
+		72 valgknapp Disposisjon, Value: 0
+		73 valgknapp Kladd, Value: 0
+		74 knapp Zoom ut
+		75 knapp Zoom inn
+		76 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			77 verdiindikator (settable, float) 1015
+		78 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+	79 fanegruppe Description: bånd, Details: Hjem
+		80 rullefeltområde Hjem-fanekommandoer
+			81 container
+				82 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				83 knapp (disabled) Klipp ut, Value: 0
+				84 knapp (disabled) Kopier, Value: 0
+				85 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			86 container
+				87 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Brødtekst), Secondary Actions: Confirm
+					88 knapp
+				89 kombinert rute (settable) Description: Skriftstørrelse:, Value: 1, Secondary Actions: Confirm
+					90 knapp
+				91 knapp Øk skriftstørrelse, Value: 0
+				92 knapp Reduser skriftstørrelse, Value: 0
+				93 menyknapp Endre bokstavtype, Value: 0
+				94 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				95 veksleknapp Fet, Value: off
+				96 veksleknapp Kursiv, Value: off
+				97 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				98 veksleknapp Gjennomstreking, Value: off
+				99 veksleknapp Senket skrift, Value: off
+				100 veksleknapp Hevet skrift, Value: off
+				101 menyknapp Teksteffekter, Value: 0
+				102 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				103 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			104 container
+				105 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				106 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				107 menyknapp Liste med flere nivåer, Value: 0
+				108 knapp Reduser innrykk, Value: 0
+				109 knapp Øk innrykk, Value: 0
+				110 knapp Sorter, Value: 0
+				111 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				112 veksleknapp Venstrejuster, Value: on
+				113 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				114 veksleknapp Høyrejuster, Value: off
+				115 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				116 menyknapp Linje- og avsnittsavstand, Value: 0
+				117 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				118 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			119 container
+				120 galleri Description: Stiler, Help: galleri
+					121 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					122 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					123 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					124 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					125 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					126 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					127 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					128 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				129 veksleknapp Stiler-rute, Value: off
+			130 veksleknapp Dikter, Help: Office-diktering, Value: off
+			131 menyknapp (disabled) Følsomhet, Value: 0
+			132 knapp Tillegg, Value: 0
+			133 container
+				134 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				135 veksleknapp Copilot, Value: off
+			136 container
+				137 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				138 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		139 fane Hjem, Help: Skjul båndet, Value: 1
+		140 fane Sett inn
+		141 fane Tegn
+		142 fane Utforming
+		143 fane Oppsett
+		144 fane Referanser
+		145 fane Masseutsendelser
+		146 fane Se gjennom
+		147 fane Visning
+		148 fane Acrobat
+		149 knapp Kommentarer
+		150 knapp Redigering, Help: Modus for dokumenttilgang
+		151 knapp Del
+	152 verktøylinje
+		153 container Secondary Actions: Fjern fra verktøylinjen
+			154 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			155 knapp Hjem, Value: 0
+			156 knapp Lagre, Value: 0
+			157 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			158 knapp (disabled) Kan ikke gjenta, Value: 0
+			159 knapp Skriv ut, Value: 0
+			160 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			161 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				162 knapp Søk
+			163 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			164 text Value: 01_Protokoll_styremote Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			165 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	166 lukkeknapp
+	167 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	168 minimeringsknapp
+169 menu bar
+	170 Word, ID: AppMenu_MenuItem
+	171 Fil
+	172 Rediger, ID: EditMenu_MenuItem
+	173 Vis, ID: ViewMenu_MenuItem
+	174 Sett inn
+	175 Formater
+	176 Verktøy
+	177 Tabell
+	178 Vindu, ID: WindowMenu_MenuItem
+	179 Hjelp, ID: HelpMenu_MenuItem
+
+The focused UI element is 54 tekstinnskrivingsområde (disabled, settable) Description: Side 2-innhold, Value: Protokoll fra styremøte i [foretaksnavn]
+Dato: [Dato]  Sted: [Sted]  Møtestart: [Tid]  Møteslutt: [Tid]
+Til stede: [Navn og ev. stilling på tilstedeværende]
+Forfall: [Navn på innkalte som hadde forfall]
+Referent: [Navn på referenten]
+Styret var beslutningsdyktig. Sty

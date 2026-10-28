@@ -1,0 +1,213 @@
+[
+  {
+    "file": "Word-QA-2026-10-27/kandidater/01_Protokoll_styremote.docx",
+    "sha256": "054f057a26f4da2860f162facfde46f22d05b27f4da2ba298171c964eddb4e65",
+    "changed_parts": [
+      "word/document.xml",
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/02_Balance_scorecard.docx",
+    "sha256": "25b183f55b7f346da0685a1e9e66933395187e611fd7d4288b552e461f6659a1",
+    "changed_parts": [
+      "word/document.xml",
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/03_Utfyllingsskjema.docx",
+    "sha256": "096c9ef59585936c12d5e1f28e45db00c75bece0fd0d8b8de031f23abbce8b6a",
+    "changed_parts": [
+      "word/document.xml",
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/04_Aksjeeierbok_liggende.docx",
+    "sha256": "19c8bb11f25b79a7c5a2949b0fd06abbcd36c42be47f45d5842f989ec582d114",
+    "changed_parts": [
+      "word/document.xml",
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/05_Protokoll_liggende_ni_kolonner.docx",
+    "sha256": "df571c98a3346d9410ba0e3012543a5dbe1d3ea29e3f1f5c9c57da033c2887da",
+    "changed_parts": [
+      "word/document.xml",
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/06_Protokoll_Prototypen_AS.docx",
+    "sha256": "9b9eeac15cd35b155678e6249e777ad5bc76f0a276208f40661279ee8703ddb2",
+    "changed_parts": [
+      "word/document.xml",
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/07_Innholdsfortegnelse_og_avtale.docx",
+    "sha256": "6f2ee6edf7efeba1bc3140d8a97852206ada030c1ecbd68a1f33bc81f14d9706",
+    "changed_parts": [
+      "word/document.xml",
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/08_Avtalemal.docx",
+    "sha256": "cfdc1cee51d735d938601cd9ef17667e43397a0f94c3a2234bb71cd7927594f3",
+    "changed_parts": [
+      "word/document.xml",
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/09_Sjekkliste_arsregnskap.docx",
+    "sha256": "e78ab9e8e48efee88decd8f77f90d65ce4f3affdaf5543a82045743eca08a553",
+    "changed_parts": [
+      "word/document.xml",
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/10_Utviklingssamtale.docx",
+    "sha256": "88036c7f082b6869859ad4cb928021322881bf766049c236f526c038f5a0a285",
+    "changed_parts": [
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/11_Diagrammer.docx",
+    "sha256": "8328bf4f538ee86ddfe3b210e1a48786848b8e91ae99fb76b08b9e7983933e93",
+    "changed_parts": [
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/12_Tekststiler_Clan.docx",
+    "sha256": "aaef06503a067f8c9cc5d01bc5aa1724352087111a1d6e531c7b4849d20d7043",
+    "changed_parts": [
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/13_Tekststiler_Arial.docx",
+    "sha256": "52a5cca1f2279f4ba588c9f84033e94418c023e0cefd81c22c41b9048c49380c",
+    "changed_parts": [
+      "word/document.xml",
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/14_Marger_og_tekstflyt.docx",
+    "sha256": "f05598d7767a7eb728e0253c53da560655c1dd2ad9e0e20b1941c1e5940ddc9b",
+    "changed_parts": [
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/15_Avstand_mellom_tekststiler.docx",
+    "sha256": "0380a9e008571979e66c44d57e46a35593f413d65496de259e8019d15e9555ea",
+    "changed_parts": [
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/16_Avstand_tabeller_og_signatur.docx",
+    "sha256": "361d853fea4feb4857d9a94a8f857602dd561c496d62c0ecb1f5240ddc782ece",
+    "changed_parts": [
+      "word/document.xml",
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/17_Flernivanummerering_og_saksliste.docx",
+    "sha256": "958c23d3317a7909e9796a8ec864c52d64da682f1c3dbd6f1914a5a9d597c233",
+    "changed_parts": [
+      "word/document.xml",
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml"
+    ]
+  },
+  {
+    "file": "Word-QA-2026-10-27/kandidater/Virke_master_test.dotx",
+    "sha256": "d2f20b2236e365aef203adfc1757d1955d4f1ffcbf43ac8628d940be9c5bf784",
+    "changed_parts": [
+      "word/glossary/document.xml",
+      "word/numbering.xml",
+      "word/styles.xml",
+      "word/glossary/numbering.xml",
+      "word/glossary/styles.xml",
+      "customUI/customUI.xml"
+    ]
+  }
+]

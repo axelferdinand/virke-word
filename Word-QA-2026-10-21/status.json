@@ -1,0 +1,20 @@
+{
+  "status": "complete_with_documented_limitations",
+  "date": "2026-10-21",
+  "native_word_revision_qa": "completed",
+  "native_word_platform": "Microsoft Word for Mac 16.90.2",
+  "examples_reviewed": 17,
+  "autotext_blocks_inserted": 21,
+  "static_documents_reviewed": 18,
+  "static_pages_reviewed": 19,
+  "guide_docx_pages_reviewed": 7,
+  "guide_pdf_pages_reviewed": 7,
+  "blocking_condition": null,
+  "final_zip": "Virke-revidert-2026-10-21.zip",
+  "final_zip_sha256": "958ec3f6acd07e1320408820bfff80d0689222ab75e6346114a2f2281d9273e9",
+  "test_report": "Word-QA-2026-10-21/native-results.json",
+  "limitations": "TOC H1 page numbers black after full update; top border differs from Figma; Windows/web not tested. See TESTRESULTATER.txt.",
+  "next_phase": "Convert 40 Styres templates to self-contained DOCX files. Not part of this completed detailing iteration.",
+  "guide_version": "1.3",
+  "toc_followup": "Four native Word experiments completed; no candidate adopted. Two design deviations remain. Guide design caveats removed."
+}

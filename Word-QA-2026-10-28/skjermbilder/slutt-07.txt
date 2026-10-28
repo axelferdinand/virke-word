@@ -1,0 +1,172 @@
+Window: "07_Innholdsfortegnelse_og_avtale", App: Microsoft Word.
+0 standardvindu 07_Innholdsfortegnelse_og_avtale, Secondary Actions: Raise, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/07_Innholdsfortegnelse_og_avtale.docx
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 07_Innholdsfortegnelse_og_avtale
+					5 container
+						6 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						7 Innholdsfortegnelse (disabled) Innholdsfortegnelse
+							8 Felt toc
+								9 lenke (disabled) Eksempel på innholdsfortegnelse	1
+								10 lenke (disabled) 1. Bakgrunn og Virksomhetens formål	1
+						11 Tabell, 2 Rader, 5 Kolonner, , 
+							12 row (disabled)
+								13 celle (disabled) 0-4
+									14 container 0-4
+										15 tekstinnskrivingsområde (disabled, settable) [Sted/dato]
+							16 row (disabled)
+								17 celle (disabled)
+									18 container
+										19 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+								20 celle (disabled)
+								21 celle (disabled)
+									22 container
+										23 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+								24 celle (disabled)
+								25 celle (disabled)
+									26 container
+										27 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+						28 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Eksempel på innholdsfortegnelse
+Innhold
+Felt Eksempel på innholdsfortegnelse	1
+1. Bakgrunn og Virksomhetens formål	1
+
+1. Bakgrunn og Virksomhetens formål
+Bakgrunnen for avtalen er at partene ønsker å kombinere sin kompetanse for å utvikle nye digitale løsninger, samt styrke sin posisjon i det nordiske markedet gjennom et langsiktig og gjensidig forpliktende samarbeid.
+Virksomheten driver virksomhet innen utvikling av programvare, skybaserte tjenester og IT-rådgivning for bank- og finanssektoren.
+Tabell, 2 Rader, 5 Kolonner, ,  
+						29 Felt page
+						30 Felt numpages
+						31 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	Eksempel på innholdsfortegnelse
+				32 rullefelt (disabled, settable, float) 0
+					33 verdiindikator (disabled, settable, float) 0
+				34 rullefelt (disabled, settable, float) 0
+					35 verdiindikator (disabled, settable, float) 0
+		36 deler (disabled, settable, float) 1728
+	37 container Statuslinje
+		38 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		39 valgknapp Sideutforming, Value: 1
+		40 valgknapp Weboppsett, Value: 0
+		41 valgknapp Disposisjon, Value: 0
+		42 valgknapp Kladd, Value: 0
+		43 knapp Zoom ut
+		44 knapp Zoom inn
+		45 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			46 verdiindikator (settable, float) 1015
+		47 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+		48 tekst 07_Innholdsfortegnelse_og_avtale.docx: 663 tegn (omtrentlig verdi).
+	49 fanegruppe Description: bånd, Details: Hjem
+		50 rullefeltområde Hjem-fanekommandoer
+			51 container
+				52 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				53 knapp (disabled) Klipp ut, Value: 0
+				54 knapp (disabled) Kopier, Value: 0
+				55 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			56 container
+				57 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					58 knapp
+				59 kombinert rute (settable) Description: Skriftstørrelse:, Value: 18, Secondary Actions: Confirm
+					60 knapp
+				61 knapp Øk skriftstørrelse, Value: 0
+				62 knapp Reduser skriftstørrelse, Value: 0
+				63 menyknapp Endre bokstavtype, Value: 0
+				64 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				65 veksleknapp Fet, Value: on
+				66 veksleknapp Kursiv, Value: off
+				67 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				68 veksleknapp Gjennomstreking, Value: off
+				69 veksleknapp Senket skrift, Value: off
+				70 veksleknapp Hevet skrift, Value: off
+				71 menyknapp Teksteffekter, Value: 0
+				72 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				73 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			74 container
+				75 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				76 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				77 menyknapp Liste med flere nivåer, Value: 0
+				78 knapp Reduser innrykk, Value: 0
+				79 knapp Øk innrykk, Value: 0
+				80 knapp Sorter, Value: 0
+				81 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				82 veksleknapp Venstrejuster, Value: on
+				83 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				84 veksleknapp Høyrejuster, Value: off
+				85 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				86 menyknapp Linje- og avsnittsavstand, Value: 0
+				87 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				88 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			89 container
+				90 galleri Description: Stiler, Help: galleri
+					91 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					92 knapp Description: Overskrift 1, Value: 1, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					93 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					94 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					95 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					96 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					97 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					98 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				99 veksleknapp Stiler-rute, Value: off
+			100 veksleknapp Dikter, Help: Office-diktering, Value: off
+			101 menyknapp (disabled) Følsomhet, Value: 0
+			102 knapp Tillegg, Value: 0
+			103 container
+				104 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				105 veksleknapp Copilot, Value: off
+			106 container
+				107 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				108 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		109 fane Hjem, Help: Skjul båndet, Value: 1
+		110 fane Sett inn
+		111 fane Tegn
+		112 fane Utforming
+		113 fane Oppsett
+		114 fane Referanser
+		115 fane Masseutsendelser
+		116 fane Se gjennom
+		117 fane Visning
+		118 fane Acrobat
+		119 knapp Kommentarer
+		120 knapp Redigering, Help: Modus for dokumenttilgang
+		121 knapp Del
+	122 verktøylinje
+		123 container Secondary Actions: Fjern fra verktøylinjen
+			124 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			125 knapp Hjem, Value: 0
+			126 knapp Lagre, Value: 0
+			127 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			128 knapp (disabled) Kan ikke gjenta, Value: 0
+			129 knapp Skriv ut, Value: 0
+			130 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			131 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				132 knapp Søk
+			133 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			134 text Value: 07_Innholdsfortegnelse_og_avtale Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			135 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	136 lukkeknapp
+	137 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	138 minimeringsknapp
+139 menu bar
+	140 Word, ID: AppMenu_MenuItem
+	141 Fil
+	142 Rediger, ID: EditMenu_MenuItem
+	143 Vis, ID: ViewMenu_MenuItem
+	144 Sett inn
+	145 Formater
+	146 Verktøy
+	147 Tabell
+	148 Vindu, ID: WindowMenu_MenuItem
+	149 Hjelp, ID: HelpMenu_MenuItem
+
+The focused UI element is 28 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Eksempel på innholdsfortegnelse
+Innhold
+Felt Eksempel på innholdsfortegnelse	1
+1. Bakgrunn og Virksomhetens formål	1
+
+1. Bakgrunn og Virksomhetens formål
+Bakgrunnen for avtalen er at partene ønsker å kombinere sin kompetanse for å utvikle nye digitale løsninger, samt styrke sin posisjon i det nordiske markedet gjennom et langsiktig og gjensidig forpliktende samarbeid.
+Virksomheten driver virksomhet innen utvikling av programvare, skybaserte tjenester og IT-rådgivning for bank- og finanssektoren.
+Tabell, 2 Rader, 5 Kolonner, ,  

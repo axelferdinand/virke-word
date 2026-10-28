@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-21",
+  "application": "Microsoft Word for Mac",
+  "version": "16.90.2",
+  "method": "Codex innebygd datamaskinbruk. Testendringer kun i kopier. Supplerende LibreOffice-render er separat og erstatter ikke Word-testene.",
+  "scope": "Master, 17 eksempler, 21 AutoText-blokker og veiledning 1.3.",
+  "examples": [
+    {
+      "file": "01_Protokoll_styremote.docx",
+      "clean_pages": 2,
+      "result": "kontrollert",
+      "observation": "Begge sider gjennomgått. Tabell, signaturer, marger og Side 2 av 2 korrekte.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/01_Protokoll_styremote.docx",
+      "delivery_sha256": "823dd021548055b87232f457c49e4a4e485cfb158998c7a0dffedaeb28ec12c4"
+    },
+    {
+      "file": "02_Balance_scorecard.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Begge tabeller kontrollert. Lang norsk tekst utvidet testkopien til fem sider; overskriftsrad gjentatt, ingen kolonneklipping.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/02_Balance_scorecard.docx",
+      "delivery_sha256": "4d3f633fb49c5bcd210367d9740c28374440ca93e82174d9dfc7feb3beb95d88"
+    },
+    {
+      "file": "03_Utfyllingsskjema.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Ni utfyllingsfelt og etiketter kontrollert visuelt. Tab/Skift+Tab og svart utfylt tekst ettertestet i masterens Utfyllingsmal.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/03_Utfyllingsskjema.docx",
+      "delivery_sha256": "7264f94d745242558c3e669951c197f4ef22c1bb7d5debb3584a909183db1bdd"
+    },
+    {
+      "file": "04_Aksjeeierbok_liggende.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Liggende A4, ni kolonner og fete overskrifter innenfor margene.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/04_Aksjeeierbok_liggende.docx",
+      "delivery_sha256": "ae124f31be9fc7718e579b88b002bb6098d96d2d1383676eda823fc1507fc190"
+    },
+    {
+      "file": "05_Protokoll_liggende_ni_kolonner.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Liggende A4, hele tabellen og bunntekst kontrollert.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/05_Protokoll_liggende_ni_kolonner.docx",
+      "delivery_sha256": "b2400c66c54d66470468f114810cdfe9fe8f903f3e49145ffcacfe94f37a1bdc"
+    },
+    {
+      "file": "06_Protokoll_Prototypen_AS.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Brødtekst, tabell og rosa signaturfelt gjennomgått.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/06_Protokoll_Prototypen_AS.docx",
+      "delivery_sha256": "50178a726d785b9ab102d32481e7fb59a3706602e76e920eefae62248b061ec2"
+    },
+    {
+      "file": "07_Innholdsfortegnelse_og_avtale.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Hele fortegnelsen oppdatert i Word. H1 og H2 inngår. Kun oppdatert feltresultat og tilhørende bokmerker overført til ren leveranse.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/07_Innholdsfortegnelse_og_avtale.docx",
+      "delivery_sha256": "2f66e45566860eb99bcacb0aa529a06e2f2960639941d803d1f684b741347a69"
+    },
+    {
+      "file": "08_Avtalemal.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Signaturfelt og avsnitt kontrollert. Enter i avtaletekst gir nytt avsnitt med stabilt innrykk. Eksempeltekstens manuelt skrevne 5.1 er videreført fra designgrunnlaget.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/08_Avtalemal.docx",
+      "delivery_sha256": "ad1f2184204525d78494432881fa697631ae2ca52f72ee1cc0b67804833bb267"
+    },
+    {
+      "file": "09_Sjekkliste_arsregnskap.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Femkolonnetabeller med fete overskrifter, møtefelt og sideskift kontrollert. OK/I-A er tomme tabellceller, ikke avkrysningskontroller.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/09_Sjekkliste_arsregnskap.docx",
+      "delivery_sha256": "241a430aee38f4e02eceeef01e50b1232760082aed3d7546c556a7b18d969459"
+    },
+    {
+      "file": "10_Utviklingssamtale.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Tre hovedgrupper og undernummerering 1.1/1.2 osv. Kontrollert for overlapp og plass til utfyllingsfelt.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/10_Utviklingssamtale.docx",
+      "delivery_sha256": "0fff4f92b5b5b8fb7343d71be2f5873f4605a3bbb76e599c1de821b8a3dc9307"
+    },
+    {
+      "file": "11_Diagrammer.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Begge diagrammer, farger og bildetekster kontrollert. Dataredigering ettertestet med masterens søylediagram; se funksjonstest.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/11_Diagrammer.docx",
+      "delivery_sha256": "d24e56df71f94577c0ed8a3bcb5d22b6aa3050ba979eb17dae5caefca8371353"
+    },
+    {
+      "file": "12_Tekststiler_Clan.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Typografi og lister kontrollert. Enter gir nytt punkt 3; Enter på tomt punkt avslutter listen og gir Normal.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/12_Tekststiler_Clan.docx",
+      "delivery_sha256": "99fdcda4a783faebc3b72eef65fbdafbf089c3611cfdfb4a5c83c50812a0775c"
+    },
+    {
+      "file": "13_Tekststiler_Arial.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Arial-varianten, tabell, signaturer og summer kontrollert.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/13_Tekststiler_Arial.docx",
+      "delivery_sha256": "26bef6132498478ea49b223b11d2992a646325b58aaef7db3c7417f70f114eca"
+    },
+    {
+      "file": "14_Marger_og_tekstflyt.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Lang H1 brytes over to linjer. Tekstflyt og marger kontrollert.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/14_Marger_og_tekstflyt.docx",
+      "delivery_sha256": "43a98de4715e8823f3002866d140c17c5b42d0f90bb4cc95b5d6ae4feb1bd366"
+    },
+    {
+      "file": "15_Avstand_mellom_tekststiler.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Avstander rundt overskrifter og avsnitt kontrollert.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/15_Avstand_mellom_tekststiler.docx",
+      "delivery_sha256": "4045970734a7eb0fde8510cc11fa7a3792b6cd7f0f846d837978dcf294c84271"
+    },
+    {
+      "file": "16_Avstand_tabeller_og_signatur.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "Tabelltyper, avstander, fete hoder og signaturer kontrollert uten overlapp.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/16_Avstand_tabeller_og_signatur.docx",
+      "delivery_sha256": "a68f98f6c56a110130c4311a93e4a1405c670bd939c0755c32abf6214b8dd9f3"
+    },
+    {
+      "file": "17_Flernivanummerering_og_saksliste.docx",
+      "clean_pages": 1,
+      "result": "kontrollert",
+      "observation": "1.1/1.2/1.3/1.3.1 og Sak 1–3 kontrollert. Enter fortsetter til 1.3.2; Reduser innrykk gir 1.4.",
+      "test_copy": "Word-QA-2026-10-21/ettertest-v3/17_Flernivanummerering_og_saksliste.docx",
+      "delivery_sha256": "10cc55be0c0603ad49412f23304fe1d6a73255e877d966f12ec264a2f9a71eff"
+    }
+  ],
+  "functional_checks": [
+    {
+      "name": "Opprettelse og lagring",
+      "result": "bestått",
+      "observation": "DOTX åpnet som nytt Dokument. Utfylt H1 ble foreslått som navn ved første lagring til DOCX.",
+      "evidence": "/Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/testkopier/QA Kontroll av Virke master.docx"
+    },
+    {
+      "name": "Stiler og tegnavstand",
+      "result": "bestått",
+      "observation": "Kort anbefalt stiloversikt med Normal og H1–H3. H1/H2 viste Normal/0 pt i avansert skriftdialog. Alle stildefinisjoner beholdt.",
+      "evidence": "Interaktiv Word-observasjon i denne chatten"
+    },
+    {
+      "name": "Avtale og signatur",
+      "result": "bestått",
+      "observation": "Ny Avtale-blokk satt inn. Rosa signaturfelt kan fylles ut. Brødtekst blir vanlig svart tekst; Enter lager nytt avsnitt.",
+      "evidence": "/Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/native-bevis/QA Avtale Enter bestatt.docx"
+    },
+    {
+      "name": "Tabellhoder, rad og kolonne",
+      "result": "bestått",
+      "observation": "Første/andre og ny overskriftscelle beholdt fet 7,5 pt etter skriving. Tab fra siste celle laget ny rad med normal 7,5 pt tekst.",
+      "evidence": "/Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/testkopier/QA Tabell fet ny kolonne ny rad bestatt.docx"
+    },
+    {
+      "name": "Lovtekst",
+      "result": "bestått",
+      "observation": "Innsetting beholder alle tre nummereringsnivåer: 1., 1.1 og 1.1.1.",
+      "evidence": "/Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/testkopier/QA Lovtekst tre nivaer bestatt.docx"
+    },
+    {
+      "name": "Liggende tabell",
+      "result": "bestått",
+      "observation": "Ni kolonner passet med liggende A4 og eksplisitte marger 1,25 cm venstre/høyre, 3,52 cm topp, 2,49 cm bunn.",
+      "evidence": "/Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/testkopier/QA Liggende tabell bestatt.docx"
+    },
+    {
+      "name": "Feltflyt",
+      "result": "bestått",
+      "observation": "Tab og Skift+Tab i Utfyllingsmal flyttet mellom felt. Utfylt tekst ble svart; faste Navn-etiketter ble stående.",
+      "evidence": "Interaktiv Word-observasjon i denne chatten"
+    },
+    {
+      "name": "Innholdsfortegnelse og sidetall",
+      "result": "bestått med dokumenterte forbehold",
+      "observation": "Tre nivåer og nytt kapittel på side 3 tatt med ved full oppdatering. Rosa punkter/innrykk og grå undernivåer bestod. H1-sidetall blir svarte.",
+      "evidence": "/Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/testkopier/QA TOC tre nivaer fulloppdatert.docx"
+    },
+    {
+      "name": "Topp- og bunntekst",
+      "result": "bestått",
+      "observation": "Begge blokker satt inn og fylt ut. PAGE/NUMPAGES reagerte på sideskift; Side 1 av 2/3 kontrollert.",
+      "evidence": "/Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/testkopier/QA TOC tre nivaer fulloppdatert.docx"
+    },
+    {
+      "name": "Diagramdata",
+      "result": "bestått",
+      "observation": "Søylediagram satt inn og dokumentet lagret. Rediger data i Excel åpnet datasettet; B2 endret fra 4,3 til 8, og stolpen i Word fulgte endringen.",
+      "evidence": "/Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/testkopier/QA Diagram blokk.docx"
+    },
+    {
+      "name": "Veiledning",
+      "result": "bestått",
+      "observation": "Alle sju DOCX-sider gjennomgått i Word. PDF eksportert fra Word og alle sju PDF-sider inspisert. Sidetall 1–7 av 7, fonter innebygd og tre kildelenker bevart.",
+      "evidence": "/Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/guide-review.json"
+    }
+  ],
+  "autotext_insertion": {
+    "all_inserted": [
+      "Signatur",
+      "Innholdsfortegnelse",
+      "Lovtekst",
+      "Tabell",
+      "Saksliste",
+      "Møteinformasjon – enkel",
+      "Møteinformasjon – detaljert",
+      "Tabell med 2 kolonner",
+      "Tabell med 3 kolonner",
+      "Tabell med 4 kolonner",
+      "Tabell med 5 kolonner",
+      "Utfyllingsmal",
+      "Hjelpetekst",
+      "Store celler",
+      "Tabell med 9 kolonner liggende",
+      "Tabell med 9 like kolonner liggende",
+      "Virke topptekst",
+      "Virke bunntekst",
+      "Diagram søyle",
+      "Diagram sektor",
+      "Avtale"
+    ],
+    "count": 21,
+    "result": "Alle 21 satt inn i Word. Avtale, tabellhoder og Lovtekst ettertestet etter retting i siste masterrevisjon."
+  },
+  "limitations": [
+    "Kontrollert i Microsoft Word for Mac. Windows og Word på nett er ikke testet; Virke-fanen må kontrolleres i Virkes Windows-miljø før utrulling der.",
+    "Innholdsfortegnelsens øverste nivå får svarte sidetall ved full oppdatering, og en ekstra øverste skillelinje består. Fire isolerte Word-eksperimenter gav ingen stabil retting som samtidig bevarer vanlige overskriftsstiler, klikkbare kapitteltekster og skillelinjer mellom kapittelgruppene. Dette er gjenværende designavvik; funksjonen med innhold og sidetall er bevart.",
+    "Blokkene med ni kolonner endrer ikke sideorientering eller marger automatisk. Bruk eksempel 04/05 eller sett dette eksplisitt som beskrevet i veiledningen.",
+    "Lagre dokumentet etter innsetting av et diagram, før Rediger data i Excel. Forsøk før første lagring gav feilmelding; etter lagring virket redigeringen.",
+    "Vanlig skriving i rosa plassholdere blir svart. Innliming kan beholde rosa formatering; kontroller skriftfargen etter innliming.",
+    "Eksemplene har fortsatt relativ tilknytning til masteren, med automatisk stiloppdatering avslått. Ferdige Styres-bruksmaler skal distribueres som selvstendige DOCX-filer. De 40 konverteringene inngår ikke i denne iterasjonen.",
+    "Avtaleeksempelets manuelt skrevne 5.1 og øvrig eksempelinnhold er videreført fra designgrunnlaget. Automatisk flernivånummerering er testet særskilt i Lovtekst og eksempel 17."
+  ],
+  "test_artifacts": "QA-kopier kan inneholde testtekst og skal ikke distribueres.",
+  "toc_followup": {
+    "report": "Word-QA-2026-10-21/toc-etterkontroll/resultater.json",
+    "native_experiments": 4,
+    "adopted_changes": 0,
+    "result": "Ingen stabil forbedring funnet blant testede varianter; begge designavvik består."
+  },
+  "guide_followup": {
+    "version": "1.3",
+    "review_record": "Word-QA-2026-10-21/guide-review.json",
+    "design_caveats_removed": true
+  }
+}

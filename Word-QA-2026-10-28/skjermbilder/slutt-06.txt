@@ -1,0 +1,178 @@
+Window: "06_Protokoll_Prototypen_AS", App: Microsoft Word.
+0 standardvindu 06_Protokoll_Prototypen_AS, Secondary Actions: Raise, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/06_Protokoll_Prototypen_AS.docx
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 06_Protokoll_Prototypen_AS
+					5 container Description: Copilot-sammendrag, ID: Summary_Container_Test_ID
+						6 ukjent Copilot-sammendrag
+							7 tekstinnskrivingsområde Value: **Copilot-sammendrag**, ID: Initial_Header_ID
+						8 bilde Description: Informasjon, Help: Copilot analyserer innholdet i dette dokumentet så snart det åpnes, for å generere et sammendrag.
+						9 knapp Description: Utvid sammendrag, ID: Collapse_Expand_Summary_Button
+					10 container
+						11 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						12 Tabell, 2 Rader, 3 Kolonner, , 
+							13 row (disabled)
+								14 celle (disabled)
+									15 tekstinnskrivingsområde (disabled, settable) Navn
+								16 celle (disabled)
+									17 tekstinnskrivingsområde (disabled, settable) Navn
+								18 celle (disabled)
+									19 tekstinnskrivingsområde (disabled, settable) Navn
+							20 row (disabled)
+								21 celle (disabled)
+									22 container
+										23 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								24 celle (disabled)
+									25 container
+										26 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								27 celle (disabled)
+									28 container
+										29 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							30 kolonne (disabled) Navn
+							31 kolonne (disabled) Navn
+							32 kolonne (disabled) Navn
+						33 Tabell, 1 Rad, 1 Kolonne, , 
+							34 row (disabled)
+								35 celle (disabled)
+									36 container
+										37 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+						38 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Protokoll fra styremøte i Prototypen AS
+Dato: Emil Steinhov  Sted: Oslo  Møtestart: 10:30  Møteslutt: 12:30
+Til stede: Erling Kvaale, administrerende direktør
+Forfall: Britt Brittnes
+Referent: Åse Andersen
+Sak 1 Årsregnskap
+Det ble fremlagt forslag til årsregnskap for regnskapsåret [årstall].
+Forslag til årsberetning, resultatregnskap, balanse og noter ble gjennomgått. Styret besluttet enstemmig å foreslå følgende disponering av årets overskudd på kr. [1.500.000],-
+Tabell, 2 Rader, 3 Kolonner, ,  Styret vedtok enstemmig forslaget til årsregnskap, den fremlagte årsberetningen, resultatregnskapets disponeringer, balanse og noter som selskapets regnskap for [årstall].
+Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.
+Styret vedtok å fremlegge årsregnskapet m.v. for generalforsamlingen for godkjenning.
+Vennlig hilsen
+Tabell, 1 Rad, 1 Kolonne, ,  
+						39 Felt page
+						40 Felt numpages
+						41 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	Protokoll Prototypen AS
+				42 rullefelt (disabled, settable, float) 0
+					43 verdiindikator (disabled, settable, float) 0
+				44 rullefelt (disabled, settable, float) 0.2897669706180345
+					45 verdiindikator (disabled, settable, float) 0.2897669706180345
+		46 deler (disabled, settable, float) 1728
+	47 container Statuslinje
+		48 knapp Side 1 av 1, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten.
+		49 knapp 144 ord, Help: Antall ord i dokument. Klikk eller trykk for å åpne dialogboksen Ordtelling.
+		50 knapp Ingen korrekturfeil.
+		51 knapp Norsk (bokmål), Help: Språk
+		52 veksleknapp Tilgjengelighet: Alt er klart, Help: Tilgjengelighetskontrollen er fullført. Klikk her for å finne ut mer., Value: off
+		53 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		54 valgknapp Sideutforming, Value: 1
+		55 valgknapp Weboppsett, Value: 0
+		56 valgknapp Disposisjon, Value: 0
+		57 valgknapp Kladd, Value: 0
+		58 knapp Zoom ut
+		59 knapp Zoom inn
+		60 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			61 verdiindikator (settable, float) 1015
+		62 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+	63 fanegruppe Description: bånd, Details: Hjem
+		64 rullefeltområde Hjem-fanekommandoer
+			65 container
+				66 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				67 knapp Klipp ut, Value: 0
+				68 knapp Kopier, Value: 0
+				69 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			70 container
+				71 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Brødtekst), Secondary Actions: Confirm
+					72 knapp
+				73 kombinert rute (settable) Description: Skriftstørrelse:, Value: 1, Secondary Actions: Confirm
+					74 knapp
+				75 knapp Øk skriftstørrelse, Value: 0
+				76 knapp Reduser skriftstørrelse, Value: 0
+				77 menyknapp Endre bokstavtype, Value: 0
+				78 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				79 veksleknapp Fet, Value: off
+				80 veksleknapp Kursiv, Value: off
+				81 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				82 veksleknapp Gjennomstreking, Value: off
+				83 veksleknapp Senket skrift, Value: off
+				84 veksleknapp Hevet skrift, Value: off
+				85 menyknapp Teksteffekter, Value: 0
+				86 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				87 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			88 container
+				89 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				90 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				91 menyknapp Liste med flere nivåer, Value: 0
+				92 knapp Reduser innrykk, Value: 0
+				93 knapp Øk innrykk, Value: 0
+				94 knapp Sorter, Value: 0
+				95 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				96 veksleknapp Venstrejuster, Value: on
+				97 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				98 veksleknapp Høyrejuster, Value: off
+				99 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				100 menyknapp Linje- og avsnittsavstand, Value: 0
+				101 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				102 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			103 container
+				104 galleri Description: Stiler, Help: galleri
+					105 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					106 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					107 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					108 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					109 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					110 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					111 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					112 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				113 veksleknapp Stiler-rute, Value: off
+			114 veksleknapp Dikter, Help: Office-diktering, Value: off
+			115 menyknapp (disabled) Følsomhet, Value: 0
+			116 knapp Tillegg, Value: 0
+			117 container
+				118 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				119 veksleknapp Copilot, Value: off
+			120 container
+				121 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				122 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		123 fane Hjem, Help: Skjul båndet, Value: 1
+		124 fane Sett inn
+		125 fane Tegn
+		126 fane Utforming
+		127 fane Oppsett
+		128 fane Referanser
+		129 fane Masseutsendelser
+		130 fane Se gjennom
+		131 fane Visning
+		132 fane Acrobat
+		133 knapp Kommentarer
+		134 knapp Redigering, Help: Modus for dokumenttilgang
+		135 knapp Del
+	136 verktøylinje
+		137 container Secondary Actions: Fjern fra verktøylinjen
+			138 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			139 knapp Hjem, Value: 0
+			140 knapp Lagre, Value: 0
+			141 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			142 knapp (disabled) Kan ikke gjenta, Value: 0
+			143 knapp Skriv ut, Value: 0
+			144 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			145 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				146 knapp Søk
+			147 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			148 text Value: 06_Protokoll_Prototypen_AS Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			149 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	150 lukkeknapp
+	151 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	152 minimeringsknapp
+153 menu bar
+	154 Word, ID: AppMenu_MenuItem
+	155 Fil
+	156 Rediger, ID: EditMenu_MenuItem
+	157 Vis, ID: ViewMenu_MenuItem
+	158 Sett inn
+	159 Formater
+	160 Verktøy
+	161 Tabell
+	162 Vindu, ID: WindowMenu_MenuItem
+	163 Hjelp, ID: HelpMenu_MenuItem

@@ -1,0 +1,22 @@
+VIRKE – MASTER OG KOMPONENTGUIDE
+Revidert 28. oktober 2026. Veiledning 2.2.
+
+1. Installer de to Clan-fontene fra Fonter og start Word på nytt.
+2. Les Virke_mastermal_brukerveiledning.pdf. DOCX-utgaven er redigerbar
+   og viser alle 21 komponentene med praktiske forklaringer.
+3. Åpne Virke_master_test.dotx for å opprette et nytt dokument med
+   masterens stiler og Virke-blokker. Lagre dokumentet som DOCX.
+4. Bruk kopier av de nummererte eksempeldokumentene når oppsettet passer.
+   De 17 DOCX-filene viser til sammen 18 eksempelsider.
+
+Eksemplene er selvstendige og kan flyttes til Virkes Microsoft 365-arkiv.
+Formateringen ligger i hver fil. Det kreves ingen tilknytning til
+masterfilens plassering, og automatisk stil- og feltoppdatering ved
+åpning er slått av. Oppdater innholdsfortegnelsen etter innholdsendringer.
+
+Bruk Word på skrivebordet. Arbeidsmåtene er kontrollert i Word for Mac.
+Fontene må installeres; de lastes ikke automatisk fra leveransemappen.
+Master, fonter og veiledning oppbevares samlet for videre vedlikehold.
+
+Notat_til_Emil.txt og TESTRESULTATER.txt dokumenterer denne revisjonen.
+De 40 Styres-malene er neste leveransefase og inngår ikke i denne ZIP-en.

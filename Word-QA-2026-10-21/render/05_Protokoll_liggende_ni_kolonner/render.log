@@ -1,0 +1,4 @@
+[render_docx] $ /Users/afg/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/soffice -env:UserInstallation=file:///private/tmp/soffice_profile_hjcdp9ne --invisible --headless --norestore --convert-to pdf --outdir /private/tmp/soffice_convert__yq8bugf /Users/afg/Nettsteder/virke-word/Virke-revidert-2026-10-21/05_Protokoll_liggende_ni_kolonner.docx
+convert /Users/afg/Nettsteder/virke-word/Virke-revidert-2026-10-21/05_Protokoll_liggende_ni_kolonner.docx as a Writer document -> /private/tmp/soffice_convert__yq8bugf/05_Protokoll_liggende_ni_kolonner.pdf using filter : writer_pdf_Export
+
+Pages rendered to /Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/render/05_Protokoll_liggende_ni_kolonner

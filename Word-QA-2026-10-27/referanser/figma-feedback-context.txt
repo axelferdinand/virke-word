@@ -1,0 +1,519 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/420e1dfa-4526-49af-a1b9-c0149c72d469";
+const imgImage53 = `${assetPathPrefix}/9c5ea.png`;
+const imgImage47 = `${assetPathPrefix}/f7cbe.png`;
+const imgImage48 = `${assetPathPrefix}/cc823.png`;
+const imgImage60 = `${assetPathPrefix}/0cbb3.png`;
+const imgImage40 = `${assetPathPrefix}/a8807.png`;
+const imgImage56 = `${assetPathPrefix}/17aeb.png`;
+const imgImage55 = `${assetPathPrefix}/7e96f.png`;
+const imgImage58 = `${assetPathPrefix}/8755f.png`;
+const imgImage62 = `${assetPathPrefix}/5333d.png`;
+const imgImage61 = `${assetPathPrefix}/6304f.png`;
+const imgImage50 = `${assetPathPrefix}/abdfd.png`;
+const imgImage63 = `${assetPathPrefix}/938a0.png`;
+const imgImage64 = `${assetPathPrefix}/572d5.png`;
+const imgImage65 = `${assetPathPrefix}/56a84.png`;
+const imgImage66 = `${assetPathPrefix}/6f7ae.png`;
+const imgImage67 = `${assetPathPrefix}/545bb.png`;
+const imgImage68 = `${assetPathPrefix}/0ee16.png`;
+const imgVector4 = `${assetPathPrefix}/bd4e0.svg`;
+const imgVector28 = `${assetPathPrefix}/2af94.svg`;
+const imgVector33 = `${assetPathPrefix}/53ac9.svg`;
+const imgVector29 = `${assetPathPrefix}/ee577.svg`;
+const imgVector31 = `${assetPathPrefix}/b23d4.svg`;
+const imgVector32 = `${assetPathPrefix}/d20eb.svg`;
+const imgVector6 = `${assetPathPrefix}/e5011.svg`;
+const imgVector34 = `${assetPathPrefix}/fa761.svg`;
+const imgVector35 = `${assetPathPrefix}/5fde4.svg`;
+const imgVector36 = `${assetPathPrefix}/0e6ca.svg`;
+const imgVector38 = `${assetPathPrefix}/fb5ea.svg`;
+const imgVector40 = `${assetPathPrefix}/553a3.svg`;
+const imgVector41 = `${assetPathPrefix}/2b317.svg`;
+const imgVector42 = `${assetPathPrefix}/2558d.svg`;
+const imgVector43 = `${assetPathPrefix}/295ae.svg`;
+const imgVector44 = `${assetPathPrefix}/38075.svg`;
+const imgVector45 = `${assetPathPrefix}/b4eb2.svg`;
+const imgVector47 = `${assetPathPrefix}/6c77f.svg`;
+const imgVector48 = `${assetPathPrefix}/3b848.svg`;
+const imgVector49 = `${assetPathPrefix}/56ed6.svg`;
+const imgVector50 = `${assetPathPrefix}/c9180.svg`;
+const imgVector51 = `${assetPathPrefix}/18075.svg`;
+const imgVector52 = `${assetPathPrefix}/cb6bb.svg`;
+const imgVector53 = `${assetPathPrefix}/2e64c.svg`;
+const imgVector30 = `${assetPathPrefix}/ce884.svg`;
+const imgVector54 = `${assetPathPrefix}/09daa.svg`;
+const imgVector55 = `${assetPathPrefix}/149f6.svg`;
+const imgVector56 = `${assetPathPrefix}/5c40c.svg`;
+const imgVector57 = `${assetPathPrefix}/3d910.svg`;
+const imgVector58 = `${assetPathPrefix}/9ef15.svg`;
+
+export default function Feedback() {
+  return (
+    <div className="bg-[#dbdbdb] relative size-full" data-node-id="3492:2132" data-name="Feedback">
+      <div className="absolute h-[1015px] left-[644px] top-[1846px] w-[1073px]" data-node-id="3497:2167" data-name="image 53">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage53} />
+      </div>
+      <div className="[word-break:break-word] absolute content-stretch flex flex-col gap-[3.055px] items-start left-[1864px] not-italic text-black top-[2518px] w-[1368px]" data-node-id="3492:2136" data-name="Component 15">
+        <p className="font-['Clan_Offc:Bold'] leading-[1.6] relative shrink-0 text-[61.1px] w-full" data-node-id="I3492:2136;3339:2804">
+          H1 i løpende tekst ser ikke bra ut i dag. H1 mangler avstand «før», og avstanden etter er litt for stor.
+        </p>
+        <div className="font-['Clan_Offc:News'] leading-[0] relative shrink-0 text-[36.73px] w-full whitespace-pre-wrap" data-node-id="I3492:2136;3339:2805">
+          <p className="leading-[1.6] mb-0">{`Jeg har gjort noen tester i Word og oppdatert dette i Figma-skissene. Endre avsnittsstilen til H1 til å ha følgende verdier: `}</p>
+          <p className="mb-0">
+            <span className="leading-[1.6]">{`FØR: `}</span>
+            <span className="[word-break:break-word] font-['Clan_Offc:Bold'] leading-[1.6] not-italic">22,5 pkt</span>
+          </p>
+          <p>
+            <span className="leading-[1.6]">{`ETTER: `}</span>
+            <span className="[word-break:break-word] font-['Clan_Offc:Bold'] leading-[1.6] not-italic">13,5 pkt</span>
+          </p>
+        </div>
+      </div>
+      <div className="[word-break:break-word] absolute content-stretch flex flex-col gap-[3.055px] items-start left-[1997px] not-italic text-black top-[4327px] w-[1368px]" data-node-id="3497:2209" data-name="Component 24">
+        <p className="font-['Clan_Offc:Bold'] leading-[1.6] relative shrink-0 text-[61.1px] w-full" data-node-id="I3497:2209;3339:2804">
+          Gjør også om på avstand før og etter for H3 til følgende (for hedre hierarki):
+        </p>
+        <div className="font-['Clan_Offc:News'] leading-[0] relative shrink-0 text-[36.73px] w-full" data-node-id="I3497:2209;3339:2805">
+          <p className="leading-[1.6] mb-0">Endre stilen til å ha:</p>
+          <p className="mb-0">
+            <span className="leading-[1.6]">{`FØR: `}</span>
+            <span className="[word-break:break-word] font-['Clan_Offc:Bold'] leading-[1.6] not-italic">18 pkt</span>
+          </p>
+          <p>
+            <span className="leading-[1.6]">{`ETTER: `}</span>
+            <span className="[word-break:break-word] font-['Clan_Offc:Bold'] leading-[1.6] not-italic">9 pkt</span>
+          </p>
+        </div>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[3.055px] items-start left-[1541px] top-[3884.42px] w-[323px]" data-node-id="3492:2188" data-name="Component 16">
+        <p className="[word-break:break-word] font-['Clan_Offc:Bold'] leading-[1.6] not-italic relative shrink-0 text-[61.1px] text-black w-full" data-node-id="I3492:2188;3339:2804">
+          Altså slik
+        </p>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[1.366px] items-start left-[1434px] top-[4017px] w-[215px]" data-node-id="3498:2222" data-name="Component 27">
+        <p className="[word-break:break-word] font-['Clan_Offc:Bold'] leading-[1.6] not-italic relative shrink-0 text-[27.31px] text-black w-full" data-node-id="I3498:2222;3339:2804">
+          Se annotations
+        </p>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[3.055px] items-start left-[1426px] top-[5125px] w-[323px]" data-node-id="3497:2214" data-name="Component 25">
+        <p className="[word-break:break-word] font-['Clan_Offc:Bold'] leading-[1.6] not-italic relative shrink-0 text-[61.1px] text-black w-full" data-node-id="I3497:2214;3339:2804">
+          Altså slik
+        </p>
+      </div>
+      <div className="absolute bg-[var(--surface\/surface-white,white)] content-stretch flex flex-col gap-[10px] h-[1123px] items-start left-[592px] overflow-clip pb-[94px] pt-[133px] px-[86px] top-[3575.42px] w-[794px]" data-node-id="3497:2173" data-name="Margins defined with auto-layout">
+        <div className="content-stretch flex flex-col gap-[30px] h-[896px] items-start relative shrink-0 w-full" data-node-id="3497:2174">
+          <div className="content-stretch flex flex-col gap-[18px] items-start relative shrink-0" data-node-id="3497:2175">
+            <p className="[word-break:break-word] font-[family-name:var(--family\/sans,'Clan_Offc:Bold')] leading-[1.5] not-italic relative shrink-0 text-[color:var(--text\/text-black,black)] text-[length:var(--font-size\/size-7,24px)] w-[622px]" data-node-id="3497:2176">
+              H1 Tittel som flyter over på flere linjer fordi den består av veldig mange bokstaver
+            </p>
+            <div className="content-stretch flex flex-col items-start relative shrink-0 w-[622px]" data-node-id="3497:2177">
+              <p className="[word-break:break-word] font-[family-name:var(--family\/sans,'Clan_Offc:News')] leading-[1.6] not-italic relative shrink-0 text-[color:var(--text\/text-black,black)] text-[length:var(--font-size\/size-2,12px)] w-full whitespace-pre-wrap" data-node-id="3497:2178">{`Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år. `}</p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0" data-node-id="3497:2179">
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[18px] items-start not-italic relative shrink-0 text-[color:var(--text\/text-black,black)] w-full" data-node-id="3497:2180">
+              <div className="content-stretch flex flex-col gap-[18px] items-start relative shrink-0 w-full" data-node-id="3497:2181">
+                <p className="font-[family-name:var(--family\/sans,'Clan_Offc:Bold')] leading-[1.5] min-w-full relative shrink-0 text-[length:var(--font-size\/size-5,18px)] w-[min-content]" data-node-id="3497:2182">
+                  H2 Underoverskrift som er litt mindre
+                </p>
+                <p className="font-[family-name:var(--family\/sans,'Clan_Offc:News')] leading-[1.6] relative shrink-0 text-[length:var(--font-size\/size-2,12px)] w-[622px] whitespace-pre-wrap" data-node-id="3497:2183">{`Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år. `}</p>
+              </div>
+              <div className="content-stretch flex flex-col gap-[24px] items-start leading-[1.6] relative shrink-0" data-node-id="3497:2184">
+                <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-[622px]" data-node-id="3497:2185">
+                  <p className="font-[family-name:var(--family\/sans,'Clan_Offc:Bold')] relative shrink-0 text-[length:var(--font-size\/size-3,14px)] w-full" data-node-id="3497:2186">
+                    H3 Mindre underoverskrift
+                  </p>
+                  <p className="font-[family-name:var(--family\/sans,'Clan_Offc:News')] relative shrink-0 text-[length:var(--font-size\/size-2,12px)] w-full whitespace-pre-wrap" data-node-id="3497:2187">{`Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år. `}</p>
+                </div>
+                <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-[622px]" data-node-id="3497:2188">
+                  <p className="font-[family-name:var(--family\/sans,'Clan_Offc:Bold')] relative shrink-0 text-[length:var(--font-size\/size-3,14px)] w-full" data-node-id="3497:2189">
+                    H3 Mindre underoverskrift
+                  </p>
+                  <p className="font-[family-name:var(--family\/sans,'Clan_Offc:News')] relative shrink-0 text-[length:var(--font-size\/size-2,12px)] w-full whitespace-pre-wrap" data-node-id="3497:2190">{`Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år. `}</p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[18px] items-start relative shrink-0" data-node-id="3497:2191">
+              <p className="[word-break:break-word] font-[family-name:var(--family\/sans,'Clan_Offc:Bold')] leading-[1.5] not-italic relative shrink-0 text-[color:var(--text\/text-black,black)] text-[length:var(--font-size\/size-7,24px)] w-[622px]" data-node-id="3497:2192">
+                H1 Tittel over en linje lenger nede i artikkelen
+              </p>
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-[622px]" data-node-id="3497:2193">
+                <p className="[word-break:break-word] font-[family-name:var(--family\/sans,'Clan_Offc:News')] leading-[1.6] not-italic relative shrink-0 text-[color:var(--text\/text-black,black)] text-[length:var(--font-size\/size-2,12px)] w-full whitespace-pre-wrap" data-node-id="3497:2194">{`Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år. `}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="-translate-x-1/2 -translate-y-1/2 absolute contents left-1/2 top-[calc(50%+0.5px)]" data-node-id="3497:2195">
+          <div className="-translate-x-1/2 absolute content-stretch flex items-center justify-between left-1/2 top-[48px] w-[622px]" data-node-id="3497:2196">
+            <p className="[word-break:break-word] font-[family-name:var(--family\/sans,'Clan_Offc:News')] leading-[1.6] not-italic relative shrink-0 text-[color:var(--text\/text-gray,#616161)] text-[length:var(--font-size\/size-1,10px)] whitespace-nowrap" data-node-id="3497:2198">
+              Arbeidsmiljø, HMS og likestilling
+            </p>
+          </div>
+          <div className="-translate-x-1/2 [word-break:break-word] absolute bottom-[47px] content-stretch flex font-[family-name:var(--family\/sans,'Clan_Offc:News')] items-center justify-between leading-[1.6] left-1/2 not-italic text-[color:var(--text\/text-gray,#616161)] text-[length:var(--font-size\/size-1,10px)] w-[622px] whitespace-nowrap" data-node-id="3497:2199">
+            <p className="relative shrink-0" data-node-id="3497:2200">
+              Side 1 av 4
+            </p>
+            <p className="relative shrink-0" data-node-id="3497:2201">
+              [Tema]
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[914px] left-[1997px] top-[3261px] w-[1212px]" data-node-id="3492:2176" data-name="image 47">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage47} />
+      </div>
+      <div className="absolute flex h-[403.273px] items-center justify-center left-[1300px] top-[2186px] w-[781.777px]" data-node-id="3492:2179">
+        <div className="flex-none rotate-[100.84deg]">
+          <div className="h-[744.661px] relative w-[268px]">
+            <div className="absolute inset-[-0.67%_-1.87%]">
+              <img alt="" className="block max-w-none size-full" src={imgVector4} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[280px] left-[2322px] top-[2950px] w-[237px]" data-node-id="3492:2181">
+        <div className="absolute inset-[-1.79%_-2.11%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector28} />
+        </div>
+      </div>
+      <div className="absolute h-[317px] left-[1375px] top-[1478px] w-[204px]" data-node-id="3497:2220">
+        <div className="absolute inset-[-1.58%_-2.45%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector33} />
+        </div>
+      </div>
+      <div className="absolute flex h-[461.14px] items-center justify-center left-[1420px] top-[3532.6px] w-[532px]" data-node-id="3492:2187">
+        <div className="-scale-y-100 flex-none rotate-[-121.98deg]">
+          <div className="h-[471.577px] relative w-[249.216px]">
+            <div className="absolute inset-[-1.06%_-2.01%]">
+              <img alt="" className="block max-w-none size-full" src={imgVector29} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute flex h-[331.115px] items-center justify-center left-[2750px] top-[4577px] w-[331.5px]" data-node-id="3497:2212">
+        <div className="flex-none rotate-[50.82deg]">
+          <div className="h-[236.828px] relative w-[234.143px]">
+            <div className="absolute inset-[-2.11%_-2.14%]">
+              <img alt="" className="block max-w-none size-full" src={imgVector31} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute flex h-[706.657px] items-center justify-center left-[1181.25px] top-[4621.16px] w-[668.569px]" data-node-id="3497:2213">
+        <div className="flex-none rotate-[143.35deg]">
+          <div className="h-[584.132px] relative w-[398.725px]">
+            <div className="absolute inset-[-0.86%_-1.25%]">
+              <img alt="" className="block max-w-none size-full" src={imgVector32} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[497px] left-[4227px] top-[1663px] w-[1314px]" data-node-id="3492:2376" data-name="image 48">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage48} />
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[3.055px] items-start left-[4237px] top-[2250px] w-[1234px]" data-node-id="3492:2378" data-name="Component 18">
+        <p className="[word-break:break-word] font-['Clan_Offc:Bold'] leading-[1.6] not-italic relative shrink-0 text-[61.1px] text-black w-full" data-node-id="I3492:2378;3339:2804">
+          Når jeg legger inn en tabell via «Sett inn» så oppretter Word tabeller uten header rows i bold. Teksten i Header rows bør være satt til Clan Bold by default
+        </p>
+      </div>
+      <div className="[word-break:break-word] absolute content-stretch flex flex-col gap-[33.06px] items-start leading-[1.6] left-[5654px] not-italic text-black top-[2006px] w-[1189px]" data-node-id="3492:2379" data-name="Component 19">
+        <p className="font-['Clan_Offc:Bold'] relative shrink-0 text-[61.1px] w-full" data-node-id="I3492:2379;3339:2804">
+          Teksten inne i cellene er fortsatt visuelt sett ubalanserte vertikalt
+        </p>
+        <p className="font-['Clan_Offc:News'] relative shrink-0 text-[56.1px] w-full" data-node-id="I3492:2379;3339:2805">{`Dette er ikke noen stor krise. Men litt Sørg for at det er litt mer luft i toppen. Det er nok Line-Heighten som skaper litt ekstra marg under. Dette kan kompenseres ved å la margen i bunnen være mindre i toppen. `}</p>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Clan_Offc:News'] leading-[1.6] left-[6975px] not-italic text-[36.727px] text-black top-[2277px] w-[1189px]" data-node-id="3498:2267">
+        Disse eksemplene viser hvor uryddig det ser ut med den ujevne spacingen vertikalt
+      </p>
+      <p className="[word-break:break-word] absolute font-['Clan_Offc:News'] leading-[1.6] left-[6494px] not-italic text-[36.727px] text-black top-[3669px] w-[285px]" data-node-id="3498:2308">
+        Det samme gjelder her:
+      </p>
+      <p className="[word-break:break-word] absolute font-['Clan_Offc:News'] leading-[1.6] left-[7518px] not-italic text-[36.727px] text-black top-[3433px] w-[367px]" data-node-id="3498:2314">{`Det bør se slik ut: `}</p>
+      <div className="absolute content-stretch flex flex-col gap-[3.055px] items-start left-[4461px] top-[5316px] w-[1189px]" data-node-id="3493:2427" data-name="Component 20">
+        <div className="[word-break:break-word] font-['Clan_Offc:Bold'] leading-[0] not-italic relative shrink-0 text-[61.1px] text-black w-full whitespace-pre-wrap" data-node-id="I3493:2427;3339:2804">
+          <p className="mb-0">
+            <span className="leading-[1.6]">
+              {`I Word-malen har ikke tabeller noen som helst avstand etter seg. Sett alle tabellenes «avstand før» til `}
+              <br aria-hidden />
+            </span>
+            <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[1.6] underline">9 pkt(12 px)</span>
+            <span className="leading-[1.6]">{` og «avstand etter» `}</span>
+          </p>
+          <p>
+            <span className="leading-[1.6]">{`til `}</span>
+            <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[1.6] underline">{`18pkt. `}</span>
+          </p>
+        </div>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[3.055px] items-start left-[5852px] top-[5371px] w-[1189px]" data-node-id="3498:2333" data-name="Component 30">
+        <p className="[word-break:break-word] font-['Clan_Offc:Bold'] leading-[0] not-italic relative shrink-0 text-[61.1px] text-black w-full" data-node-id="I3498:2333;3339:2804">
+          <span className="leading-[1.6]">{`Signaturer, sakslisteblokker og oppsummeringsfelt bør også få en avstand etter på `}</span>
+          <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[1.6] underline">9 pkt</span>
+        </p>
+      </div>
+      <div className="absolute h-[826px] left-[8668px] top-[1466px] w-[764px]" data-node-id="3498:2282" data-name="image 60">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage60} />
+      </div>
+      <div className="[word-break:break-word] absolute content-stretch flex flex-col gap-[3.055px] items-start leading-[1.6] left-[8686px] not-italic text-black top-[4032px] w-[844px]" data-node-id="3493:2432" data-name="Component 23">
+        <p className="font-['Clan_Offc:Bold'] relative shrink-0 text-[61.1px] w-full" data-node-id="I3493:2432;3339:2804">
+          Jeg sliter fortsatt med å finne innholdsfortegnelsen vi har designet
+        </p>
+        <p className="font-['Clan_Offc:News'] relative shrink-0 text-[56.1px] w-full" data-node-id="I3493:2432;3339:2805">
+          Det er mange andre innholdsfortegnelser her inne, men ikke Virkes
+        </p>
+      </div>
+      <div className="[word-break:break-word] absolute content-stretch flex flex-col gap-[43.06px] items-start leading-[1.6] left-[12888px] not-italic text-black top-[1818px] w-[931px]" data-node-id="3498:2323" data-name="Component 29">
+        <p className="font-['Clan_Offc:Bold'] relative shrink-0 text-[61.1px] w-full" data-node-id="I3498:2323;3339:2804">
+          Gjør rosa kultpunkter til default når du taster [bindestrek + mellomrom.
+        </p>
+        <p className="font-['Clan_Offc:News'] relative shrink-0 text-[56.1px] w-full" data-node-id="I3498:2323;3339:2805">{`I dag dukker det opp en kulepunktliste med bindestrek(ikke dott). Og når jeg går til menyvalget for kulepunktet og velger en kule/dott, så blir den svart by default. Ikke rosa. `}</p>
+      </div>
+      <div className="[word-break:break-word] absolute content-stretch flex flex-col gap-[3.055px] items-start leading-[1.6] left-[10510px] not-italic text-black top-[5479px] w-[844px]" data-node-id="3498:2277" data-name="Component 28">
+        <p className="font-['Clan_Offc:Bold'] relative shrink-0 text-[61.1px] w-full" data-node-id="I3498:2277;3339:2804">
+          Jeg fant den her inne, men ikke i oversikten over.
+        </p>
+        <p className="font-['Clan_Offc:News'] relative shrink-0 text-[56.1px] w-full" data-node-id="I3498:2277;3339:2805">
+          <br aria-hidden />
+          {`Å gjøre denne tilgjengelig er viktig hvis vi vil at en redaktør skal bruke den. `}
+        </p>
+      </div>
+      <div className="absolute h-[999px] left-[9554px] top-[4430px] w-[1497px]" data-node-id="3493:2433" data-name="image 40">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage40} />
+      </div>
+      <div className="absolute h-[349.405px] left-[8997px] top-[4538px] w-[434.758px]" data-node-id="3493:2500">
+        <div className="absolute inset-[-1.43%_-1.15%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector6} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Clan_Offc:Bold'] leading-[1.6] left-[269px] not-italic text-[360.145px] text-black top-[285px] w-[3689px]" data-node-id="3497:2155">
+        Feedback 27.10.26
+      </p>
+      <div className="absolute border-2 border-[var(--pink\/signatur-rosa,#c9007f)] border-solid h-[366px] left-[1426px] top-[4077px] w-[268px]" data-node-id="3498:2226" data-name="image 56">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage56} />
+      </div>
+      <div className="absolute h-[415px] left-[1997px] top-[4759px] w-[753px]" data-node-id="3497:2207" data-name="image 55">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage55} />
+      </div>
+      <div className="absolute h-[139.697px] left-[2418.32px] top-[3699.01px] w-[155.215px]" data-node-id="3498:2221">
+        <div className="absolute inset-[-1.79%_-1.61%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector34} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Clan_Offc:Bold'] leading-[1.4] left-[309px] not-italic text-[126.866px] text-black top-[1087px] w-[1915px]" data-node-id="3498:2228">
+        Forbedring av rytme i luften før og etter overskrifter
+      </p>
+      <p className="[word-break:break-word] absolute font-['Clan_Offc:Bold'] leading-[1.4] left-[4161px] not-italic text-[126.866px] text-black top-[1087px] w-[1915px]" data-node-id="3498:2230">
+        Tabeller
+      </p>
+      <p className="[word-break:break-word] absolute font-['Clan_Offc:Bold'] leading-[1.4] left-[8623px] not-italic text-[126.866px] text-black top-[1087px] w-[1915px]" data-node-id="3498:2270">
+        Tabeller
+      </p>
+      <p className="[word-break:break-word] absolute font-['Clan_Offc:Bold'] leading-[1.4] left-[12611px] not-italic text-[126.866px] text-black top-[1087px] w-[1915px]" data-node-id="3498:2315">
+        Annet
+      </p>
+      <p className="[word-break:break-word] absolute font-['Clan_Offc:Bold'] leading-[1.4] left-[8623px] not-italic text-[126.866px] text-black top-[3653px] w-[1915px]" data-node-id="3498:2271">
+        Innholdsfortegnelse
+      </p>
+      <div className="absolute h-[4763.5px] left-[3678px] top-[1007px] w-0" data-node-id="3498:2231">
+        <div className="absolute inset-[0_-0.5px]">
+          <img alt="" className="block max-w-none size-full" src={imgVector35} />
+        </div>
+      </div>
+      <div className="absolute h-[4763.5px] left-[8427px] top-[1007px] w-0" data-node-id="3498:2269">
+        <div className="absolute inset-[0_-0.5px]">
+          <img alt="" className="block max-w-none size-full" src={imgVector35} />
+        </div>
+      </div>
+      <div className="absolute h-[4763.5px] left-[12146px] top-[1007px] w-0" data-node-id="3498:2298">
+        <div className="absolute inset-[0_-0.5px]">
+          <img alt="" className="block max-w-none size-full" src={imgVector35} />
+        </div>
+      </div>
+      <div className="absolute h-[538.364px] left-[4168.34px] top-[1791.46px] w-[290.149px]" data-node-id="3498:2240">
+        <div className="absolute inset-[-0.46%_-0.86%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector36} />
+        </div>
+      </div>
+      <div className="absolute h-[701px] left-[5938px] rounded-[350.5px] top-[2561px] w-[719px]" data-node-id="3498:2245" data-name="image 57">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[350.5px]">
+          <img alt="" className="absolute h-full left-0 max-w-none top-0 w-[257.67%]" src={imgImage48} />
+        </div>
+      </div>
+      <div className="absolute h-[701px] left-[6833px] rounded-[97px] top-[2561px] w-[598px]" data-node-id="3498:2261" data-name="image 58">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[97px]">
+          <img alt="" className="absolute h-[108.16%] left-[-0.08%] max-w-none top-[-4.08%] w-[192.31%]" src={imgImage58} />
+        </div>
+      </div>
+      <div className="absolute h-[349.405px] left-[5685px] top-[2501px] w-[434.758px]" data-node-id="3498:2247">
+        <div className="absolute inset-[-1.43%_-1.15%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector6} />
+        </div>
+      </div>
+      <div className="absolute bg-[#c9007f] h-[37px] left-[6187px] opacity-30 top-[2822px] w-[156px]" data-node-id="3498:2256" />
+      <div className="absolute bg-[red] h-[18px] left-[6937px] opacity-30 top-[2980px] w-[156px]" data-node-id="3498:2265" />
+      <div className="absolute bg-[#c9007f] h-[37px] left-[6187px] opacity-20 top-[2904px] w-[156px]" data-node-id="3498:2258" />
+      <div className="absolute bg-[#c9007f] h-[28px] left-[6187px] opacity-30 top-[2777px] w-[156px]" data-node-id="3498:2257" />
+      <div className="absolute bg-[red] h-[32px] left-[6934px] opacity-30 top-[2931px] w-[156px]" data-node-id="3498:2266" />
+      <div className="absolute bg-[#c9007f] h-[28px] left-[6187px] opacity-20 top-[2859px] w-[156px]" data-node-id="3498:2259" />
+      <div className="absolute h-[549.367px] left-[6727.01px] top-[2430.28px] w-[152.394px]" data-node-id="3498:2264">
+        <div className="absolute inset-[-0.39%_-1.64%_-0.46%_-1.64%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector38} />
+        </div>
+      </div>
+      <div className="absolute h-[825px] left-[9228px] top-[5362px] w-[1100px]" data-node-id="3498:2300" data-name="image 62">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage62} />
+      </div>
+      <div className="absolute h-[108px] left-[9659px] top-[5553px] w-[656px]" data-node-id="3498:2275">
+        <div className="absolute inset-[-2.31%_-0.38%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector40} />
+        </div>
+      </div>
+      <div className="absolute h-0 left-[10311.47px] top-[5593px] w-[171.856px]" data-node-id="3498:2276">
+        <div className="absolute inset-[-2.5px_-1.45%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector41} />
+        </div>
+      </div>
+      <div className="absolute h-[550px] left-[8676px] top-[2499px] w-[770px]" data-node-id="3498:2286" data-name="image 61">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage61} />
+      </div>
+      <div className="absolute contents left-[9689px] top-[2481px]" data-node-id="3498:2295">
+        <div className="absolute h-[729px] left-[9689px] top-[2481px] w-[839px]" data-node-id="3492:2409" data-name="image 50">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage50} />
+        </div>
+        <p className="[word-break:break-word] absolute font-['Clan_Offc:Bold'] leading-[1.6] left-[10270px] not-italic text-[366.623px] text-[color:var(--pink\/signatur-rosa,#c9007f)] top-[2481px] whitespace-nowrap" data-node-id="3492:2418">
+          ?
+        </p>
+        <div className="absolute h-[83.793px] left-[9727.47px] top-[2514.61px] w-[795.419px]" data-node-id="3498:2284">
+          <div className="absolute inset-[-2.98%_-0.31%]">
+            <img alt="" className="block max-w-none size-full" src={imgVector42} />
+          </div>
+        </div>
+        <div className="[word-break:break-word] absolute content-stretch flex flex-col gap-[3.055px] items-start leading-[1.6] left-[10546px] not-italic text-black top-[2515px] w-[582px]" data-node-id="3498:2288" data-name="Component 21">
+          <p className="font-['Clan_Offc:Bold'] relative shrink-0 text-[61.1px] w-full" data-node-id="I3498:2288;3339:2804">
+            «Autotekst» er ikke å finne i menylinjen.
+          </p>
+          <p className="font-['Clan_Offc:News'] relative shrink-0 text-[56.1px] w-full" data-node-id="I3498:2288;3339:2805">
+            ​
+          </p>
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Clan_Offc:Bold'] leading-[1.6] left-[9239px] not-italic text-[31.352px] text-black top-[2071px] w-[471px] whitespace-pre-wrap" data-node-id="3498:2294">{`Jeg finner innholdsblokkene  inne her(Autotekst...). Men det hadde vært fint om de var mer tilgjengelige. `}</p>
+      <p className="[word-break:break-word] absolute font-['Clan_Offc:Bold'] leading-[1.6] left-[9739px] not-italic text-[31.352px] text-black top-[2341px] w-[471px]" data-node-id="3498:2297">
+        F.eks i menylinjen
+      </p>
+      <div className="absolute h-[51.661px] left-[9098.52px] top-[1978.52px] w-[122.221px]" data-node-id="3498:2292">
+        <div className="absolute inset-[-4.84%_-2.05%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector43} />
+        </div>
+      </div>
+      <div className="absolute h-[430.152px] left-[9154.51px] top-[2026.47px] w-[154.103px]" data-node-id="3498:2293">
+        <div className="absolute inset-[-0.58%_-1.62%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector44} />
+        </div>
+      </div>
+      <div className="absolute h-[149.91px] left-[9499.95px] top-[2316px] w-[284.403px]" data-node-id="3498:2296">
+        <div className="absolute inset-[-1.67%_-0.88%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector45} />
+        </div>
+      </div>
+      <div className="absolute h-[39.869px] left-[9624.11px] top-[5135.39px] w-[320.085px]" data-node-id="3498:2303">
+        <div className="absolute inset-[-6.27%_-0.78%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector47} />
+        </div>
+      </div>
+      <div className="absolute h-[289.682px] left-[9877.09px] top-[5175.3px] w-[113.462px]" data-node-id="3498:2304">
+        <div className="absolute inset-[-0.86%_-2.2%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector48} />
+        </div>
+      </div>
+      <div className="absolute h-[441px] left-[6799px] top-[3475px] w-[495px]" data-node-id="3498:2306" data-name="image 63">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          <img alt="" className="absolute h-full left-0 max-w-none top-0 w-[131.32%]" src={imgImage63} />
+        </div>
+      </div>
+      <div className="absolute h-[85.648px] left-[6729.85px] top-[3680.18px] w-[154.194px]" data-node-id="3498:2309">
+        <div className="absolute inset-[-2.92%_-1.62%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector49} />
+        </div>
+      </div>
+      <div className="absolute h-[85.648px] left-[7329px] top-[3680.18px] w-[154.194px]" data-node-id="3498:2313">
+        <div className="absolute inset-[-2.92%_-1.62%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector50} />
+        </div>
+      </div>
+      <div className="absolute h-[519px] left-[7518px] top-[3508px] w-[485px]" data-node-id="3498:2311" data-name="image 64">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage64} />
+      </div>
+      <div className="absolute h-[291px] left-[12572px] top-[1446px] w-[853px]" data-node-id="3498:2317" data-name="image 65">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage65} />
+      </div>
+      <div className="absolute h-[106.17px] left-[12749.51px] top-[1621.51px] w-[28.239px]" data-node-id="3498:2320">
+        <div className="absolute inset-[-2.35%_-8.85%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector51} />
+        </div>
+      </div>
+      <div className="absolute h-0 left-[12749.48px] top-[1616.42px] w-[50.247px]" data-node-id="3498:2321">
+        <div className="absolute inset-[-2.5px_-4.98%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector52} />
+        </div>
+      </div>
+      <div className="absolute h-[226.718px] left-[12650.17px] top-[1664.11px] w-[152.823px]" data-node-id="3498:2322">
+        <div className="absolute inset-[-1.1%_-1.64%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector53} />
+        </div>
+      </div>
+      <div className="absolute h-[897px] left-[5546px] top-[4294px] w-[1188px]" data-node-id="3498:2327" data-name="image 66">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage66} />
+      </div>
+      <div className="absolute flex h-[492.378px] items-center justify-center left-[5237.74px] top-[4870.07px] w-[493.608px]" data-node-id="3498:2329">
+        <div className="-scale-y-100 flex-none rotate-[-134.78deg]">
+          <div className="h-[459.494px] relative w-[237.709px]">
+            <div className="absolute inset-[-1.09%_-2.1%]">
+              <img alt="" className="block max-w-none size-full" src={imgVector30} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[123.688px] left-[5723.12px] top-[4960.41px] w-[64.69px]" data-node-id="3498:2331">
+        <div className="absolute inset-[-2.02%_-3.86%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector54} />
+        </div>
+      </div>
+      <div className="absolute h-[116.111px] left-[6505.63px] top-[4718.66px] w-[55.262px]" data-node-id="3498:2336">
+        <div className="absolute inset-[-2.15%_-4.52%_-2.15%_-4.53%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector55} />
+        </div>
+      </div>
+      <div className="absolute h-[536.054px] left-[6552.62px] top-[4787.7px] w-[145.236px]" data-node-id="3498:2337">
+        <div className="absolute inset-[-0.47%_-1.72%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector56} />
+        </div>
+      </div>
+      <div className="absolute h-[450px] left-[7206px] top-[2461px] w-[1107px]" data-node-id="3498:2340" data-name="image 67">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage67} />
+      </div>
+      <div className="absolute h-[120.945px] left-[7091.68px] top-[2404.47px] w-[55.012px]" data-node-id="3498:2342">
+        <div className="absolute inset-[-2.07%_-4.55%_-2.07%_-4.54%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector57} />
+        </div>
+      </div>
+      <div className="absolute h-[238.739px] left-[7399.87px] top-[2351.88px] w-[151.432px]" data-node-id="3498:2344">
+        <div className="absolute inset-[-1.05%_-1.65%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector58} />
+        </div>
+      </div>
+      <div className="absolute h-[383px] left-[5232px] top-[5733px] w-[628px]" data-node-id="3498:2436" data-name="image 68">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage68} />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

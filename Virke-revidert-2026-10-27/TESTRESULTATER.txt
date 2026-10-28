@@ -1,0 +1,71 @@
+Virke – testresultater 27. oktober 2026
+
+OMFANG OG METODE
+Master DOTX, 17 eksempeldokumenter / 18 sider, og komponentguide 2.1
+med 21 faktiske redigerbare byggeblokker. Testendringer er gjort i kopier
+med Codex sin innebygde datamaskinbruk direkte i Microsoft Word for Mac.
+Supplerende DOCX-render er brukt til layoutkontroll. Leveransens PDF er
+alltid eksportert fra Word med Best for utskrift.
+
+NYE FUNKSJONSTESTER
+• Ny tabell via vanlig Sett inn > Tabell: alle overskriftsceller fete,
+  også etter utfylling og ny kolonne. Ny rad har normal skrift. Lang
+  norsk tekst brytes i cellen uten klipping.
+• Ferskt dokument fra revidert master: tabellblokk satt inn og tekst
+  skrevet umiddelbart etterpå. 18 pt luft bevares; teksten bruker Normal.
+• Signaturblokk satt inn med umiddelbar videre skriving. 9 pt luft
+  bevares. Samme konstruksjon brukt for saksliste og beløpsoppsummering;
+  disse er kontrollert som faktiske komponenter i guiden.
+• Lang H1 på to linjer, H1 etter sideskift og gjentatte H3 kontrollert.
+  Stilverdier: H1 22,5 pt før / 13,5 pt etter; H3 18 pt før / 9 pt etter.
+• Utfyllingsmal: langt navn skrevet i første felt, Tab til neste felt.
+  Faste etiketter blir stående, utfylt tekst er svart.
+• Ny innholdsfortegnelse via Virke-knappen, Fra mal og tre nivåer.
+  Overskrift endret, full feltoppdatering utført og lenkehopp kontrollert.
+• Virke-blokker under Hjem og Virke åpner Autotekst-dialogen på Mac.
+• Punktliste-stilen gir rosa runde punkter med svart tekst og fortsetter
+  med Enter. Words standardknapp og bindestrek+mellomrom gir ikke
+  automatisk den rosa varianten. Se Notat_til_Emil.txt.
+
+VISUELL KONTROLL
+Alle 17 eksempler gjennomgått i Word: marger, tabeller, utfyllingsfelt,
+nummerering, diagrammer, innholdsfortegnelse og sidetall. Eksempel 01
+har to sider; alle de andre har én. Unødige blanke sluttsider i de to
+liggende dokumentene er fjernet. Avstand mellom tilstøtende tabeller
+rettet og etterkontrollert i 09, 13 og 16. Alle 18 eksempelsider er også
+inspisert i supplerende render. Ingen observerte klippe- eller overlappsfeil.
+
+Alle 18 guidesider gjennomgått i Word. Alle 18 sider i den endelige
+DOCX-renderen og Word-PDF-en visuelt inspisert. Sidetall 1–18 av 18,
+moduloversikt og tre levende TOC-henvisninger er korrekte. Liggende
+sider 10/11 og diagrammer på 15/16 er bevart. Ved den siste revisjonen
+var side 1–17 pikselidentiske med tidligere kontrollert Word-eksport;
+side 18 ble revidert og kontrollert på nytt direkte i Word.
+
+TESTDEKNING OVER TID
+Alle 21 blokker ble satt inn i Word i forrige mastertest. Denne runden
+kontrollerer alle 21 i komponentguiden og gjentar innsetting/redigering
+for de endrede funksjonene med representative blokker. Diagramdata,
+bilder, tema og innebygde regneark er byteidentiske med forrige
+leveranse. Den tidligere beståtte Excel-dataredigeringen er ikke
+utført på nytt i denne runden.
+
+FRIKOBLING OG PAKKEKONTROLL
+Alle 17 eksempeldokumenter har innebygd formatering og ingen nødvendig
+maltilknytning. Attached-template-relasjonen er fjernet, automatisk
+stiloppdatering er av og automatisk feltoppdatering ved åpning er av.
+Ingen eksterne relasjoner finnes i de leverte eksemplene. Kopiene åpnet
+uten feltvarsel etter frikoblingen. Veiledningen er også selvstendig.
+
+Alle XML-deler kan parses. Alle 21 offentlige Autotekst-komponenter er
+bevart; TOC-gallerialiaset teller ikke som en ekstra komponent.
+Originaler og før-versjoner er bevart. Ingen QA-tekst eller testkopier
+inngår i leveransen. Ingen commit eller push er utført.
+
+AVGRENSNINGER
+Windows og Word på nett er ikke testet. Tilgang via Mac-galleri,
+standard punktlisteknapp og ytre luft ved vilkårlig ny tabell har
+begrensningene beskrevet i Notat_til_Emil.txt. De tidligere kosmetiske
+TOC-avvikene består. Eksempel 08 viderefører det manuelt skrevne 5.1
+fra designgrunnlaget; automatisk flernivånummerering finnes i Lovtekst
+og eksempel 17. De 40 Styres-konverteringene er ikke del av denne pakken.

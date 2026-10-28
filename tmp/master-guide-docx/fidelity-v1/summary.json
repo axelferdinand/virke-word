@@ -1,0 +1,16 @@
+{
+  "a_docx": "/Users/afg/Nettsteder/virke-word/tmp/master-guide-docx/reference.docx",
+  "b_docx": "/Users/afg/Nettsteder/virke-word/output/docx/Virke_mastermal_brukerveiledning.docx",
+  "pages_a": 1,
+  "pages_b": 7,
+  "changed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "num_changed_pages": 7
+}

@@ -1,0 +1,165 @@
+VIRKE WORD EKSEMPLER FRA FIGMA
+16. oktober 2026
+
+Pakken inneholder alle de 18 A4-eksempelsidene i Figma-seksjonen som 17
+redigerbare Word-dokumenter. Protokollens to sider er samlet i ett dokument.
+Stil-, avstands- og Arial-eksemplene er også med. Alle dokumentene bygger på
+den korrigerte mastermalen. Masteren og eksemplene er oppdatert etter direkte testing i Microsoft Word.
+
+SLIK KOMMER DU I GANG
+
+1. Pakk ut hele ZIP-filen og behold dokumentene og masteren i samme mappe.
+2. Åpne ønsket DOCX direkte i Microsoft Word og lagre dine endringer i en kopi.
+3. Clan Offc News og Clan Offc Bold må være tilgjengelige på maskinen.
+   Fontene er ikke installert eller innebygd av denne leveransen.
+   Dokument 13 bruker Arial med hensikt, slik reservefont-eksemplet i Figma gjør.
+4. Dokumentene har en relativ tilknytning til Virke_master_test.dotx.
+   Hvis Word ikke finner malen etter flytting, tilknytt den på nytt via
+   dialogen for dokumentmaler og tillegg. Stiler oppdateres ikke automatisk.
+5. Masterens 20 byggeblokker ligger i AutoText under kategorien Virke når
+   malen er lastet inn. Fyll ut rosa felt og prøv lange tekster og nye rader.
+
+OVERSIKT OG DIREKTE REFERANSER TIL FIGMA
+
+01_Protokoll_styremote.docx
+  Protokoll fra styremøte — 2 sider
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-96
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-233
+
+02_Balance_scorecard.docx
+  Balance scorecard — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-290
+
+03_Utfyllingsskjema.docx
+  Utfyllingsskjema — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-280
+
+04_Aksjeeierbok_liggende.docx
+  Aksjeeierbok — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-243
+
+05_Protokoll_liggende_ni_kolonner.docx
+  Protokoll fra styremøte — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-311
+
+06_Protokoll_Prototypen_AS.docx
+  Protokoll Prototypen AS — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-323
+
+07_Innholdsfortegnelse_og_avtale.docx
+  Eksempel på innholdsfortegnelse — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-341
+
+08_Avtalemal.docx
+  Eksempel på avtalemal — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-356
+
+09_Sjekkliste_arsregnskap.docx
+  Sjekkliste for årsregnskapet — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-378
+
+10_Utviklingssamtale.docx
+  Utviklingssamtale — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-390
+
+11_Diagrammer.docx
+  Diagrammer — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-434
+
+12_Tekststiler_Clan.docx
+  Tekststiler Clan — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-200
+
+13_Tekststiler_Arial.docx
+  Tekststiler Arial — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-213
+
+14_Marger_og_tekstflyt.docx
+  Marger og tekstflyt — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-163
+
+15_Avstand_mellom_tekststiler.docx
+  Avstand mellom tekststiler — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-120
+
+16_Avstand_tabeller_og_signatur.docx
+  Tabeller og signatur — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-187
+
+17_Flernivanummerering_og_saksliste.docx
+  Flernivånumre og saksliste — 1 side
+  https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-144
+
+TILPASNINGER TIL DEN NYE MALEN
+
+- Alle dokumenter beholder de samme stildefinisjonene og 20 navngitte
+  byggeblokkene som masteren ved levering. Tabeller, utfyllingsfelt og
+  signaturer er Word-elementer som kan redigeres. Word kan fjerne Autotekst
+  fra en lagret DOCX; bruk den tilknyttede DOTX-masteren som kilde til blokkene.
+- H1 og H2 bruker 1,35 linjeavstand, i tråd med den korrigerte malen.
+  H3 og øvrig tekst bruker minimum linjehøyde i punkt. Figma-etikettene
+  «på 1.6» i stilprøvene viser designets forholdstall, ikke Words menyvalg:
+  brødtekst bruker minst 14,4 pt og mindre tekst minst 12 pt.
+- Sidetallene i bunnteksten er PAGE/NUMPAGES-felt. Figma-eksemplenes faste
+  «Side 1 av 4» og gjenbrukte dokumentnavn er erstattet med faktiske sidetall
+  og relevante dokumentnavn. Clan-stilprøven er uten topp- og bunntekst,
+  slik den er i Figma.
+- Plassholderfelt er rosa og har svart erstatningstekst. Noen felt er derfor
+  rosa også der Figma har svart demonstrasjonstekst.
+- I utviklingssamtalen følger automatisk nummerering kapitlene: 1.1, 1.2,
+  2.1, 2.2, 3.1 og 3.2. Figma gjentar 1.1 og 1.2 under alle kapitlene.
+- Diagrammene er redigerbare Office-diagrammer med innebygde dataark.
+  Figma inneholder tegnede diagrammer uten datakilde. Verdiene er derfor
+  illustrasjonsverdier som følger diagrammenes form og fargefordeling.
+  Tekst, tegnforklaringer og mellomrom følger Office-diagrammenes oppsett.
+  Den siste fargeprøven er merket som lys orange med faktisk fargekode.
+- Enkelte mellomrom er tilpasset slik at innholdet får plass med den nye
+  malens marger. Tabellrader kan vokse når du fyller inn mer tekst.
+
+INNHOLDSFORTEGNELSEN I DOKUMENT 07
+
+Fortegnelsen viser nå dokumentets faktiske overskrift og side 1 allerede
+ved åpning. De gamle demonstrasjonssidene 3–13 er fjernet. Signaturene får
+plass på samme side. Når innholdet endres: velg «Oppdater hele tabellen».
+Full oppdatering er prøvd i Microsoft Word; grå tekst og sidetall beholdes.
+Masterens Innhold_Virke-blokk har et ekte TOC-felt med nivåene 1–3.
+
+EKSEMPELTEKST
+
+Teksten fra Figma er beholdt, inkludert de utfylte demonstrasjonsverdiene.
+Det gjelder blant annet «Emil Steinhov» i datofeltet i dokument 05 og 06,
+og «5.1 Forkjøpsrett» etter kapittel 2 i avtalemalen. Disse viser Figma-
+eksemplene og må tilpasses ved faktisk bruk. Det er ikke skrevet nye
+avtalevilkår eller gjort en faglig kontroll av eksempelinnholdet.
+
+RETTELSER ETTER WORD-TESTEN
+
+- Utfyllingsmalens navnefelt beholder «Navn:» når Tab brukes til neste felt.
+  Rettelsen gjelder masterens byggeblokk og eksemplene 03 og 16.
+- Nummererte lister fortsetter med neste tall ved Enter. Felles stil er
+  oppdatert i alle 18 Word-filer, også i byggeblokkenes stildefinisjoner.
+- Sjekklisten 09 og byggeblokken Store celler har 18 pt minimumshøyde.
+  Rader vokser med innholdet; nye rader arver ikke 177 pt minimumshøyde.
+- Eksempel 07 har en oppdatert innholdsfortegnelse og starter på én side.
+- Diagrammer har egne pakkedeler for dokument og Autotekst. Dataarkene er
+  bygget på nytt med de samme verdiene. Eksempel 11 åpner uten reparasjon,
+  og begge diagrammer kan redigeres via «Rediger data i Excel».
+
+KONTROLLERT
+
+Alle 18 Word-filer ble først gjennomgått direkte i Microsoft Word for Mac
+16.90.2 med innebygd datamaskinbruk. Rettelsene ble deretter ettertestet på
+kopier: feltflyt i 03 og 16, TOC i 07, nye rader i 09, diagramdata i 11,
+listefortsettelse i 12, Arial-oppsett i 13 og Autotekst i masteren.
+Masteren beholder alle 20 Autotekst-blokker etter lagring. Utfyllingsmal og
+Diagram søyle er satt inn fra masteren og prøvd interaktivt. Ikke alle 20
+blokker er satt inn og testet hver for seg.
+
+Alle leveransefiler er kontrollert for gyldig XML, interne koblinger,
+byggeblokker og fravær av QA-tekst. Opprinnelige marger, sidestørrelser,
+temaer og innhold er bevart, med unntak av den korrigerte TOC-visningen.
+Diagrammenes opprinnelige illustrasjonsverdier er bevart.
+
+Testendringer finnes bare i Word-QA-2026-10-16. Leveransen inneholder rene
+filer. Før-versjonen er bevart i retting/for-retting.zip under QA-mappen.
+Se ENDRINGER_OG_ETTERKONTROLL.txt for resultatene etter retting.

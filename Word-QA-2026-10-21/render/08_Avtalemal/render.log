@@ -1,0 +1,4 @@
+[render_docx] $ /Users/afg/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/soffice -env:UserInstallation=file:///private/tmp/soffice_profile_suk9yvlh --invisible --headless --norestore --convert-to pdf --outdir /private/tmp/soffice_convert_ievyp0ma /Users/afg/Nettsteder/virke-word/Virke-revidert-2026-10-21/08_Avtalemal.docx
+convert /Users/afg/Nettsteder/virke-word/Virke-revidert-2026-10-21/08_Avtalemal.docx as a Writer document -> /private/tmp/soffice_convert_ievyp0ma/08_Avtalemal.pdf using filter : writer_pdf_Export
+
+Pages rendered to /Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/render/08_Avtalemal

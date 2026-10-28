@@ -1,0 +1,200 @@
+[
+  {
+    "file": "01_Protokoll_styremote.docx",
+    "sha256": "f86a90c68ea6e64616a41335e7f95cf36e81324a999c4a4cdf1141be138dfc38",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "02_Balance_scorecard.docx",
+    "sha256": "b19e3f65e77f3025a93c709da72a6518d390788a9d3f82f46afac3047f290bd5",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "03_Utfyllingsskjema.docx",
+    "sha256": "38a873b2fec27935692b53c3dbd80c437ebb71530cbc4bfb27137be08758ea3f",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "04_Aksjeeierbok_liggende.docx",
+    "sha256": "5192635c25fc6d9670981955ae46d12832ccfc8b73ade5cea98c5a3ef8a1efac",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "05_Protokoll_liggende_ni_kolonner.docx",
+    "sha256": "18d6d9be947b52364143ec599f9453066660d81f5ac2cbb8b4760b7c2a8d2858",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "06_Protokoll_Prototypen_AS.docx",
+    "sha256": "ae19c1ccecb4b624cf0b35183a07559e5a911504832fddd0c257716625003b50",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "07_Innholdsfortegnelse_og_avtale.docx",
+    "sha256": "5b126e0ba984b1ec0a522b02e1c0e461598f11135f9c297a1e142e1ca36f0623",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "08_Avtalemal.docx",
+    "sha256": "dedcf55c0eda417ba8a23d20449ce07a405316acc60bf6ffcc6e4f622a828291",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "09_Sjekkliste_arsregnskap.docx",
+    "sha256": "b17da36dc3f5d663ee2c1a2dae45219276f19a12be7a2f145a92eab75538db04",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "10_Utviklingssamtale.docx",
+    "sha256": "a36be9a0165d48728a8c352114a0c327e8cecd18a2c0e9349fcaff6d6e797df1",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "11_Diagrammer.docx",
+    "sha256": "504cdd61ac71576e50c81e9c96ef74547eebc24e2b718a066ab274018ac66800",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 13
+  },
+  {
+    "file": "12_Tekststiler_Clan.docx",
+    "sha256": "d1e0284f9ef18562d4150701eabe44707f95b4b4ddca83bc79519d9de95fc790",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "13_Tekststiler_Arial.docx",
+    "sha256": "ed08d2b28e7b3e53303b2bdb0e8b34376dba312e3881c18dae0e8886706378c6",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "14_Marger_og_tekstflyt.docx",
+    "sha256": "2f57e5d536f3b6bdce0101551b89293e0a64824af3a9a1e47b6d1422456f3327",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "15_Avstand_mellom_tekststiler.docx",
+    "sha256": "827177c9158a1d00154a395975653e6bd5c9065bc9f6f707daf8dfa7c099777d",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "16_Avstand_tabeller_og_signatur.docx",
+    "sha256": "cf8c1dac59475ce74efd7036c72cc05fce5394be77d7dbf6f44b83ef48b49ddc",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "17_Flernivanummerering_og_saksliste.docx",
+    "sha256": "4a53b8edbd1b014a879abdfc0875a284d3b18e41c3ec63f51f81fc315fea3ea9",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  },
+  {
+    "file": "Virke_master_test.dotx",
+    "sha256": "d2f20b2236e365aef203adfc1757d1955d4f1ffcbf43ac8628d940be9c5bf784",
+    "attached_template": false,
+    "external_relationships": [],
+    "auto_update_styles": false,
+    "auto_update_fields": false,
+    "autotext_components": 21,
+    "style_count": 429,
+    "opaque_parts_unchanged": 21
+  }
+]

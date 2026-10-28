@@ -1,0 +1,15 @@
+{
+  "guide_version": "1.1",
+  "date": "2026-10-21",
+  "content_source": "docs/brukerveiledning-master.json",
+  "builder": "scripts/virke-build/build_master_guide.py",
+  "pdf": "output/pdf/Virke_mastermal_brukerveiledning.pdf",
+  "master": "Virke-revidert-2026-10-21/Virke_master_test.dotx",
+  "master_sha256": "e11908f6c916c0317cb0dfc516bfaab5fced6336a1f75571ffadeafcb722c98b",
+  "pdf_sha256": "74c246552f53a75adf46e54797e8820709dec93ef1438648af8620825931d1c7",
+  "change_note": "Revidert etter designerfeedback: Virke-fane, 21 blokker inkludert Avtale, ryddet stilgalleri, tabeller og signaturfelt. Mer linjeluft, avstand før underoverskrifter og vanlig bokstavbruk i veiledningen.",
+  "revision_rule": "Oppdater veiledningen ved relevante endringer i stiler, felter, Autotekst, tabeller, nummerering, TOC, diagrammer, fonter, navn eller distribusjon.",
+  "qa_status": "pdf_render_review_passed_word_revision_pending",
+  "rendered_pages": 7,
+  "render_review": "Alle sju sider inspisert 21.10.2026. Ingen klipping, overlapp eller feil i sideskift. 22,5 pt før underoverskrifter og 16,2 pt linjehøyde i brødtekst."
+}

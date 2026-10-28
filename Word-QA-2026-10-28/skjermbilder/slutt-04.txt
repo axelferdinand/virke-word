@@ -1,0 +1,363 @@
+Window: "04_Aksjeeierbok_liggende", App: Microsoft Word.
+0 standardvindu 04_Aksjeeierbok_liggende, Secondary Actions: Raise, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/04_Aksjeeierbok_liggende.docx
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 04_Aksjeeierbok_liggende
+					5 container
+						6 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						7 Tabell, 1 Rad, 1 Kolonne, , 
+							8 row (disabled)
+								9 celle (disabled)
+									10 tekstinnskrivingsområde (disabled, settable) Hjelpetekst: Når selskapet er stiftet, skal styret uten opphold opprette en aksjeeierbok. I denne skal aksjeeierne innføres i alfabetisk orden med angivelse av navn, fødselsnummer eller organisasjonsnummer, adresse, antall aksjer og nummer på aksjene. Det må også oppgis hvilken klasse aksjene tilhører dersom aksjeselskapet har flere aksjeklasse.
+Når en aksjeeier er innført i aksjeeierboken, skal selskapet gi aksjeeieren melding om dette. Den skal også være tilgjengelig for enhver som vil ha innsyn. Aksjeeierboken oppdateres ved eierskifte eller pantsettelse av aksjer etter fastsatte regler i aksjeloven (§ 4-7). Selskapet må oppbevare opplysninger om tidligere aksjeeiere i minst ti år.
+Det presiseres at dette dokumentet er av generell art, og at teksten må tilpasses den enkeltes virksomhet.
+						11 Tabell, 8 Rader, 9 Kolonner, , 
+							12 row (disabled)
+								13 celle (disabled)
+									14 tekstinnskrivingsområde (disabled, settable) Navn
+								15 celle (disabled)
+									16 tekstinnskrivingsområde (disabled, settable) Fødselsdato eller org. nr.
+								17 celle (disabled)
+									18 tekstinnskrivingsområde (disabled, settable) Adresse
+								19 celle (disabled)
+									20 tekstinnskrivingsområde (disabled, settable) Antall aksjer
+								21 celle (disabled)
+									22 tekstinnskrivingsområde (disabled, settable) Aksjenr. (fra–til)
+								23 celle (disabled)
+									24 tekstinnskrivingsområde (disabled, settable) Aksjeklasse
+								25 celle (disabled)
+									26 tekstinnskrivingsområde (disabled, settable) Dato for innføring i aksjeeierboken
+								27 celle (disabled)
+									28 tekstinnskrivingsområde (disabled, settable) Solgt dato
+								29 celle (disabled)
+									30 tekstinnskrivingsområde (disabled, settable) Evt. merknader
+							31 row (disabled)
+								32 celle (disabled)
+									33 container
+										34 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								35 celle (disabled)
+									36 container
+										37 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								38 celle (disabled)
+									39 container
+										40 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								41 celle (disabled)
+									42 container
+										43 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								44 celle (disabled)
+									45 container
+										46 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								47 celle (disabled)
+									48 container
+										49 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								50 celle (disabled)
+									51 container
+										52 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								53 celle (disabled)
+									54 container
+										55 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								56 celle (disabled)
+									57 container
+										58 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							59 row (disabled)
+								60 celle (disabled)
+									61 container
+										62 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								63 celle (disabled)
+									64 container
+										65 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								66 celle (disabled)
+									67 container
+										68 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								69 celle (disabled)
+									70 container
+										71 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								72 celle (disabled)
+									73 container
+										74 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								75 celle (disabled)
+									76 container
+										77 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								78 celle (disabled)
+									79 container
+										80 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								81 celle (disabled)
+									82 container
+										83 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								84 celle (disabled)
+									85 container
+										86 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							87 row (disabled)
+								88 celle (disabled)
+									89 container
+										90 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								91 celle (disabled)
+									92 container
+										93 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								94 celle (disabled)
+									95 container
+										96 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								97 celle (disabled)
+									98 container
+										99 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								100 celle (disabled)
+									101 container
+										102 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								103 celle (disabled)
+									104 container
+										105 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								106 celle (disabled)
+									107 container
+										108 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								109 celle (disabled)
+									110 container
+										111 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								112 celle (disabled)
+									113 container
+										114 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							115 row (disabled)
+								116 celle (disabled)
+									117 container
+										118 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								119 celle (disabled)
+									120 container
+										121 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								122 celle (disabled)
+									123 container
+										124 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								125 celle (disabled)
+									126 container
+										127 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								128 celle (disabled)
+									129 container
+										130 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								131 celle (disabled)
+									132 container
+										133 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								134 celle (disabled)
+									135 container
+										136 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								137 celle (disabled)
+									138 container
+										139 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								140 celle (disabled)
+									141 container
+										142 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							143 row (disabled)
+								144 celle (disabled)
+									145 container
+										146 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								147 celle (disabled)
+									148 container
+										149 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								150 celle (disabled)
+									151 container
+										152 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								153 celle (disabled)
+									154 container
+										155 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								156 celle (disabled)
+									157 container
+										158 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								159 celle (disabled)
+									160 container
+										161 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								162 celle (disabled)
+									163 container
+										164 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								165 celle (disabled)
+									166 container
+										167 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								168 celle (disabled)
+									169 container
+										170 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							171 row (disabled)
+								172 celle (disabled)
+									173 container
+										174 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								175 celle (disabled)
+									176 container
+										177 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								178 celle (disabled)
+									179 container
+										180 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								181 celle (disabled)
+									182 container
+										183 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								184 celle (disabled)
+									185 container
+										186 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								187 celle (disabled)
+									188 container
+										189 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								190 celle (disabled)
+									191 container
+										192 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								193 celle (disabled)
+									194 container
+										195 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								196 celle (disabled)
+									197 container
+										198 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							199 row (disabled)
+								200 celle (disabled)
+									201 container
+										202 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								203 celle (disabled)
+									204 container
+										205 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								206 celle (disabled)
+									207 container
+										208 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								209 celle (disabled)
+									210 container
+										211 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								212 celle (disabled)
+									213 container
+										214 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								215 celle (disabled)
+									216 container
+										217 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								218 celle (disabled)
+									219 container
+										220 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								221 celle (disabled)
+									222 container
+										223 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								224 celle (disabled)
+									225 container
+										226 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							227 kolonne (disabled) Navn
+							228 kolonne (disabled) Fødselsdato eller org. nr.
+							229 kolonne (disabled) Adresse
+							230 kolonne (disabled) Antall aksjer
+							231 kolonne (disabled) Aksjenr. (fra–til)
+							232 kolonne (disabled) Aksjeklasse
+							233 kolonne (disabled) Dato for innføring i aksjeeierboken
+							234 kolonne (disabled) Solgt dato
+							235 kolonne (disabled) Evt. merknader
+						236 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Aksjeeierbok
+Tabell, 1 Rad, 1 Kolonne, ,  
+Tabell, 8 Rader, 9 Kolonner, ,  
+						237 Felt page
+						238 Felt numpages
+						239 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	Aksjeeierbok
+				240 rullefelt (disabled, settable, float) 0
+					241 verdiindikator (disabled, settable, float) 0
+				242 rullefelt (disabled, settable, float) 0
+					243 verdiindikator (disabled, settable, float) 0
+		244 deler (disabled, settable, float) 1728
+	245 container Statuslinje
+		246 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		247 valgknapp Sideutforming, Value: 1
+		248 valgknapp Weboppsett, Value: 0
+		249 valgknapp Disposisjon, Value: 0
+		250 valgknapp Kladd, Value: 0
+		251 knapp Zoom ut
+		252 knapp Zoom inn
+		253 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			254 verdiindikator (settable, float) 1015
+		255 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+		256 tekst 04_Aksjeeierbok_liggende.docx: 1 402 tegn (omtrentlig verdi).
+	257 fanegruppe Description: bånd, Details: Hjem
+		258 rullefeltområde Hjem-fanekommandoer
+			259 container
+				260 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				261 knapp (disabled) Klipp ut, Value: 0
+				262 knapp (disabled) Kopier, Value: 0
+				263 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			264 container
+				265 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					266 knapp
+				267 kombinert rute (settable) Description: Skriftstørrelse:, Value: 18, Secondary Actions: Confirm
+					268 knapp
+				269 knapp Øk skriftstørrelse, Value: 0
+				270 knapp Reduser skriftstørrelse, Value: 0
+				271 menyknapp Endre bokstavtype, Value: 0
+				272 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				273 veksleknapp Fet, Value: on
+				274 veksleknapp Kursiv, Value: off
+				275 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				276 veksleknapp Gjennomstreking, Value: off
+				277 veksleknapp Senket skrift, Value: off
+				278 veksleknapp Hevet skrift, Value: off
+				279 menyknapp Teksteffekter, Value: 0
+				280 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				281 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			282 container
+				283 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				284 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				285 menyknapp Liste med flere nivåer, Value: 0
+				286 knapp Reduser innrykk, Value: 0
+				287 knapp Øk innrykk, Value: 0
+				288 knapp Sorter, Value: 0
+				289 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				290 veksleknapp Venstrejuster, Value: on
+				291 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				292 veksleknapp Høyrejuster, Value: off
+				293 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				294 menyknapp Linje- og avsnittsavstand, Value: 0
+				295 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				296 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			297 container
+				298 galleri Description: Stiler, Help: galleri
+					299 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					300 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					301 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					302 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					303 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					304 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					305 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					306 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				307 veksleknapp Stiler-rute, Value: off
+			308 veksleknapp Dikter, Help: Office-diktering, Value: off
+			309 menyknapp (disabled) Følsomhet, Value: 0
+			310 knapp Tillegg, Value: 0
+			311 container
+				312 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				313 veksleknapp Copilot, Value: off
+			314 container
+				315 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				316 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		317 fane Hjem, Help: Skjul båndet, Value: 1
+		318 fane Sett inn
+		319 fane Tegn
+		320 fane Utforming
+		321 fane Oppsett
+		322 fane Referanser
+		323 fane Masseutsendelser
+		324 fane Se gjennom
+		325 fane Visning
+		326 fane Acrobat
+		327 knapp Kommentarer
+		328 knapp Redigering, Help: Modus for dokumenttilgang
+		329 knapp Del
+	330 verktøylinje
+		331 container Secondary Actions: Fjern fra verktøylinjen
+			332 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			333 knapp Hjem, Value: 0
+			334 knapp Lagre, Value: 0
+			335 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			336 knapp (disabled) Kan ikke gjenta, Value: 0
+			337 knapp Skriv ut, Value: 0
+			338 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			339 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				340 knapp Søk
+			341 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			342 text Value: 04_Aksjeeierbok_liggende Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			343 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	344 lukkeknapp
+	345 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	346 minimeringsknapp
+347 menu bar
+	348 Word, ID: AppMenu_MenuItem
+	349 Fil
+	350 Rediger, ID: EditMenu_MenuItem
+	351 Vis, ID: ViewMenu_MenuItem
+	352 Sett inn
+	353 Formater
+	354 Verktøy
+	355 Tabell
+	356 Vindu, ID: WindowMenu_MenuItem
+	357 Hjelp, ID: HelpMenu_MenuItem

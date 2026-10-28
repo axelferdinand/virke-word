@@ -1,0 +1,161 @@
+VIRKE WORD MAL
+Testkopi 16 oktober 2026
+
+Denne pakken er laget for din gjennomgang i Microsoft Word. Den bygger på Hans'
+siste master, Emils Figma-design og tilbakemeldingene i e-post. Originalfilene er
+urørt. Testkopien inneholder ingen makroer.
+
+START HER
+
+1. Pakk ut hele pakken og behold filene i samme mappe.
+2. Kontroller at Clan Offc News og Clan Offc Bold er tilgjengelige i Word.
+   Fontfilene ble levert i den opprinnelige e-postdialogen. Fontene er ikke
+   installert eller innebygd av denne leveransen. En erstatningsfont kan endre
+   linjebryting og sidetall.
+3. Åpne Virke_komponentoversikt_test.docx for å se og teste komponentene.
+4. Opprett et nytt dokument fra Virke_master_test.dotx for å teste mastermalen.
+   Lagre dokumentet som .docx, slik at selve .dotx-filen forblir en mal.
+5. Bruk eksemplene til å sammenligne med Figma og til å prøve lange tekster.
+
+FILER
+
+Virke_master_test.dotx
+  Master med felles stiler og 20 gjenbrukbare AutoText-byggeblokker.
+
+Virke_komponentoversikt_test.docx
+  Seks sider med typografi, felt, tabeller, utfyllingsmal, signatur, nummerering,
+  store celler, redigerbare diagrammer og en innholdsfortegnelse.
+
+Virke_protokoll_test.docx
+  Korrigert protokolleksempel. Normaleksemplet er rendret over to sider.
+
+Virke_scorecard_test.docx
+  Eksempel med teksttabell, talltabell og høyrestilte tallkolonner.
+
+Virke_aksjeeierbok_test.docx
+  Liggende A4-eksempel med hjelpetekst og en tabell med ni kolonner.
+  Teksten er et testinnhold for layout og felt, ikke en juridisk kvalitetssikret mal.
+
+BYGGEBLOKKER
+
+De vanlige byggeblokkene er samlet i AutoText-galleriet under kategorien Virke.
+Det er valgt for å gjøre samme mal anvendelig i Word på både Mac og Windows.
+Tilgjengeligheten i din Word-versjon må kontrolleres i testen.
+
+På Windows finnes AutoText under Sett inn > Hurtigdeler > AutoText.
+På Mac finnes det under Sett inn > AutoText. Menynavn kan variere med språk og
+Word-versjon. Malen må være tilknyttet eller lastet inn for at oppføringene
+skal være tilgjengelige. Hvis dokumentet ikke finner den flyttede malen,
+velg Virke_master_test.dotx i dialogen for dokumentmaler og tillegg.
+
+Innsetting i Word på nett er ikke støttet på samme måte. Bygg dokumentet i
+skrivebordsversjonen først, og test deretter redigering av .docx-filen i nettleser.
+
+Figma-komponent                    Navn i malen
+--------------------------------- -------------------------------------------
+Signatur                          Signatur
+Innholdsfortegnelse                Innhold_Virke
+Lovtekst med nummerering           Lovtekst
+Oppsummering med totalsum          Tabell
+Saksliste                         Saksliste
+Møteinformasjon                   Mergefield 1
+Kort dato tid sted                Mergefield 2
+Tabeller med 2 til 5 kolonner      Tabell med 2/3/4/5 kolonner
+Utfyllingsmal                     Utfyllingsmal
+Rosa hjelpetekstboks               Hjelpetekst
+Sjekkliste med store celler        Store celler
+Ni kolonner med tilpassede bredder Tabell med 9 kolonner liggende
+Ni like kolonner                  Tabell med 9 like kolonner liggende
+Topptekst                        Virke topptekst
+Bunntekst med sidetall            Virke bunntekst
+Søylediagram                      Diagram søyle
+Sektordiagram                     Diagram sektor
+
+Sett inn topptekst- og bunntekstblokkene mens markøren står i riktig område.
+Ni-kolonnersblokkene er beregnet for liggende A4 med sidemarger på 1,25 cm.
+Bruk aksjeeierbokeksemplet som utgangspunkt, eller opprett en liggende seksjon
+før innsetting. De brede blokkene endrer ikke automatisk sideretningen.
+
+DET SOM ER ENDRET
+
+- H1 er 18 pt og H2 er 13,5 pt. Begge bruker 1,35 i Words linjeavstand.
+- H3 er 10,5 pt. Protokollens sakstitler bruker dette nivået.
+- Brødtekst er 9 pt. Tabelltekst, signaturtekst og topp- og bunntekst er 7,5 pt.
+- Brødtekst har 9 pt avstand etter avsnitt. Avstand mellom like stiler beholdes.
+- For brødtekst, tabelltekst og H3 er Figma-linjehøyden omregnet til punkt:
+  henholdsvis minst 14,4 pt, 12 pt og 16,8 pt. Word beregner ellers «1,6» fra
+  fontens interne linjeboks, som ga for stor luft. Minimumsverdien lar linjen
+  vokse ved større innhold og unngår fast høyde som kan klippe tegn.
+- Tabellene har 6 pt cellemarger, lys grå overskriftsrad og nedre kantlinje.
+  Overskriftsraden gjentas ved sideskift, og vanlige rader holdes samlet.
+- Oppsummeringens etiketter er svarte, og totalsummen har svart sluttstrek.
+- Signaturblokken holder navn og titler sammen. Navnefeltene kan brytes over
+  flere linjer. De tre signaturfeltene har samme stil og innstillinger.
+- Rosa plassholdertekst har egne egenskaper for svart erstatningstekst.
+  Utfylte felt i topp- og bunntekst bruker den grå tekstfargen fra designet.
+  Feltene beholder riktig størrelses- og vektarv fra avsnittsstilen.
+- Tabeller og signaturer bruker egne stiler i stedet for topptekststilen.
+- Alle fem dokumentene har identiske hovedstildefinisjoner og identiske
+  stildefinisjoner for byggeblokkene.
+- De opprinnelige navnene på de elleve byggeblokkene er beholdt. Ni nye er lagt
+  til, blant annet de brede tabellvariantene og utfyllingsmalen.
+- Eksemplene har en relativ tilknytning til mastermalen. De endrer ikke stiler
+  automatisk ved åpning. Stiloppdatering fra mal må være et bevisst valg.
+
+SLIK TESTER DU
+
+[ ] Opprett et nytt dokument fra masteren og fyll ut tittel, overskrift og tekst.
+    Vanlig innhold skal bli svart, og overskriftene skal fortsatt være fete.
+[ ] Fyll ut felt i tabelloverskrifter. De skal beholde fet skrift og 7,5 pt.
+[ ] Fyll ut topp- og bunntekst. Utfylt tekst skal være grå på 7,5 pt.
+[ ] Skriv en H1 og en H2 som går over to eller tre linjer. Kontroller 1,35.
+[ ] Skriv to vanlige avsnitt etter hverandre og kontroller avstanden mellom dem.
+[ ] Sett inn byggeblokkene fra selve masteren. Kontroller at navnene finnes.
+[ ] Legg til tabellrader, prøv lange firmanavn og store beløp, og kontroller
+    tekstbryting, talljustering, kantlinjer og gjentatt overskriftsrad.
+[ ] Flytt signaturen ned mot et sideskift. Navn og titler skal holdes samlet.
+[ ] Legg til, flytt og slett punkter i lovtekstblokken og kontroller nummereringen.
+[ ] Oppdater bare sidetallene i innholdsfortegnelsen.
+[ ] Legg til en ny H1/H2/H3 og oppdater hele innholdsfortegnelsen. Kontroller at
+    nye overskrifter kommer med og at eksisterende formatering bevares.
+[ ] Åpne en kopi av et utfylt eksempel i Word på nett og kontroller font, felt,
+    tabeller og sidetall mot skrivebordsversjonen.
+
+SÆRLIG OM INNHOLDSFORTEGNELSEN
+
+Fortegnelsen er et ekte TOC-felt, med nivåstiler, grå undernivåer og rosa
+listepunkter. Den lagrede visningen har grå sidetall og svart hovedtekst.
+Sidetallsfeltene bruker CHARFORMAT og hovedfeltet MERGEFORMAT for å bevare
+formatering ved oppdatering. Word kan likevel generere nye tekstløp når hele
+fortegnelsen bygges på nytt. Bevaring av separat sidetallsfarge ved en full
+oppdatering er derfor et uttrykkelig testpunkt, ikke en verifisert garanti.
+
+Stilene i dokumentene kan oppdateres fra en tilknyttet mal. Det erstatter ikke
+automatisk allerede innsatte byggeblokker eller direkte formatering.
+
+UTFØRTE KONTROLLER
+
+- ZIP- og XML-integritet, interne relasjoner, feltstruktur, stilreferanser,
+  plassholderreferanser og samsvar mellom stildefinisjonene er kontrollert.
+- Alle leverte dokumenter er rendret med Clan-fontene fra e-postdialogen og visuelt
+  kontrollert i LibreOffice.
+- Egne midlertidige testdokumenter prøver lange norske navn, lange adresser,
+  fylte felter og en tabell som går over flere sider. Feltutfyllingen i denne
+  testen er gjort i filstrukturen og erstatter ikke en interaktiv Word-test.
+- Direkte testing i Microsoft Word var ikke tilgjengelig. Interaktiv bruk,
+  AutoText-innsetting og full oppdatering av innholdsfortegnelsen må derfor
+  kontrolleres av deg før malen godkjennes.
+
+REFERANSER
+
+Figma
+https://www.figma.com/design/F94djWEbmqh5ps3QpSVMbb/Virke-Word-mal?node-id=1-95
+
+Microsoft om AutoText og Word på nett
+https://support.microsoft.com/en-us/word/create-reusable-text-snippets
+
+Microsoft om oppdatering av felt
+https://support.microsoft.com/en-us/word/update-fields
+
+Microsoft om stiloppdatering fra tilknyttet mal
+https://learn.microsoft.com/en-us/office/vba/api/word.document.updatestyles

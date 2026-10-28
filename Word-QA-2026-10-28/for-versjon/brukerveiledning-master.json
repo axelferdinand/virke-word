@@ -1,0 +1,622 @@
+{
+  "title": "Brukerveiledning og komponentguide for Virke mastermal",
+  "version": "2.1",
+  "date": "27. oktober 2026",
+  "date_iso": "2026-10-27",
+  "change_note": "Oppdatert overskriftsavstand, tabellhoder, cellemarger, avstand etter tabellmoduler og praktiske instruksjoner for byggeblokker, punktlister og innholdsfortegnelse. Alle 21 komponenter er bevart. Eksempeldokumentene er frikoblet fra masteren og åpner uten automatisk feltoppdatering.",
+  "master": "Virke-revidert-2026-10-27/Virke_master_test.dotx",
+  "pages": [
+    {
+      "title": "Brukerveiledning og komponentguide",
+      "intro": "Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Kom i gang"
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Installer <b>Clan Offc News</b> og <b>Clan Offc Bold</b> fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.",
+            "Åpne <b>Virke_master_test.dotx</b> fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som <b>.docx</b>. Når en ferdig bruksmal dekker behovet, bruker du en kopi av den.",
+            "Plasser markøren i et <b>tomt avsnitt</b>. På Mac: klikk <b>Virke-blokker</b> under Hjem eller Virke. Velg fanen <b>Autotekst</b> og masteren under <b>Søk i</b>. Marker blokken og trykk <b>Sett inn</b>."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "På Windows finner du Autotekst under <b>Sett inn > Hurtigdeler</b>. Menynavn kan variere. Bruk Word på skrivebordet til arbeidsmåtene i denne guiden."
+        },
+        {
+          "type": "heading",
+          "text": "Hjelpetekst"
+        },
+        {
+          "type": "module",
+          "name": "Hjelpetekst",
+          "fills": {
+            "Hjelpetekst: Gi en beskrivelse av hvilke typer personopplysninger som samles inn.": "Hjelpetekst: Bruk denne rosa boksen til korte instrukser om utfylling. Erstatt teksten med det mottakeren trenger å vite. Les instruksen og fjern boksen før deling når den bare er ment som intern hjelp."
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Boksen over er selve byggeblokken <b>Hjelpetekst</b>. Klikk i den for å redigere teksten. La innholdet styre høyden, og behold malens formatering."
+        },
+        {
+          "type": "small",
+          "text": "Versjon 2.1 · 27. oktober 2026. Eksemplene viser bruken av komponentene og er ikke ferdig utfylte dokumenter."
+        }
+      ]
+    },
+    {
+      "title": "Finn riktig byggeblokk",
+      "intro": "Navnene i første kolonne er de samme som i masterens Autotekst-liste. Sidetallene leder til redigerbare eksempler i denne guiden.",
+      "blocks": [
+        {
+          "type": "module_index"
+        },
+        {
+          "type": "small",
+          "text": "Oversikten bruker selv blokken Tabell med 3 kolonner. I Word kan du følge lenkene i kolonnen Side."
+        }
+      ]
+    },
+    {
+      "title": "Tekststiler og lister",
+      "intro": "Bruk stil etter tekstens rolle. Overskriftsnivåene gir dokumentet struktur og kan hentes inn i en automatisk innholdsfortegnelse.",
+      "blocks": [
+        {
+          "type": "style_sample"
+        },
+        {
+          "type": "heading",
+          "text": "Punktliste"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Velg stilen <b>Punktliste</b> under Hjem for rosa punkter og svart tekst. Bruk punkter når rekkefølgen ikke er avgjørende.",
+            "Enter fortsetter listen. Enter på et tomt punkt avslutter den."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Nummerert liste"
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Bruk nummerering når leseren skal følge en rekkefølge.",
+            "Endre nivå med listefunksjonene under Hjem. Unngå manuelt skrevne tall og mellomrom."
+          ]
+        },
+        {
+          "type": "small",
+          "text": "Velg Behold bare tekst når du limer inn fra andre kilder. Bruk deretter riktig stil."
+        }
+      ]
+    },
+    {
+      "title": "Innholdsfortegnelse og lovtekst",
+      "intro": "En innholdsfortegnelse samler overskriftene. Lovtekst gir en egen struktur for nummererte punkter og underpunkter.",
+      "blocks": [
+        {
+          "type": "module",
+          "name": "Innholdsfortegnelse",
+          "toc_bookmark": "GuideStyleSample"
+        },
+        {
+          "type": "small",
+          "text": "Dette levende eksemplet viser de tre overskriftene i teksteksemplet på forrige side."
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Bruk <b>Overskrift 1, 2 og 3</b>. Sett inn blokken <b>Innholdsfortegnelse</b> fra Virke-blokker. Du kan også velge <b>Virke > Sett inn innholdsfortegnelse</b> med formatet <b>Fra mal</b> og tre nivåer.",
+            "Klikk i fortegnelsen og velg <b>Virke > Oppdater felt</b> eller <b>Oppdater tabell</b>. Velg <b>Oppdater hele tabellen</b> når overskrifter er lagt til eller endret."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Lovtekst"
+        },
+        {
+          "type": "module",
+          "name": "Lovtekst",
+          "fills": {
+            "[Paragraftittel]": "Hovedpunkt med egen tittel",
+            "[Lovtekst på nivå 1]": "Dette underpunktet utdyper hovedpunktet.",
+            "[Lovtekst på nivå 2]": "Dette er et underpunkt på tredje nivå."
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Eksemplet over bruker blokkens tre nummereringsnivåer. Fortsett med Enter og bruk listefunksjonene til å endre nivå. Erstatt eksempeltekstene med det aktuelle innholdet."
+        }
+      ]
+    },
+    {
+      "title": "Utfyllingsmal",
+      "intro": "Utfyllingsmal gir faste etiketter og felt som er lette å gå gjennom i rekkefølge. Rosa tekst viser hvor noe skal fylles ut.",
+      "blocks": [
+        {
+          "type": "module",
+          "name": "Utfyllingsmal"
+        },
+        {
+          "type": "heading",
+          "text": "Slik fyller du ut"
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Klikk i det første rosa feltet og skriv inn navnet. Etiketten <b>Navn:</b> blir stående.",
+            "Bruk <b>Tab</b> til neste felt og <b>Skift + Tab</b> for å gå tilbake.",
+            "Vanlig skriving gir svart tekst. Ved innliming velger du Behold bare tekst og kontrollerer skriftfargen."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Eksemplet viser blokkens ni navnefelt. Feltene er ekte utfyllingsfelt i Word. Bruk en kopi hvis du vil prøve dem."
+        }
+      ]
+    },
+    {
+      "title": "Møteinformasjon",
+      "intro": "Bruk møteblokkene til dato, tidspunkt, sted og deltakere. Opplysningene fylles ut i dokumentet.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Møteinformasjon – enkel"
+        },
+        {
+          "type": "module",
+          "name": "Møteinformasjon – enkel"
+        },
+        {
+          "type": "paragraph",
+          "text": "Denne blokken har plass til møtestart, møteslutt, deltakere, forfall og referent. Erstatt hvert rosa felt. Etikettene beholdes."
+        },
+        {
+          "type": "heading",
+          "text": "Møteinformasjon – detaljert"
+        },
+        {
+          "type": "module",
+          "name": "Møteinformasjon – detaljert"
+        },
+        {
+          "type": "paragraph",
+          "text": "Denne varianten samler dato, tid og sted på én linje. Bruk den når resten av møteopplysningene står et annet sted."
+        },
+        {
+          "type": "small",
+          "text": "Dette er utfyllingsfelt uten ekstern flettedatakilde. Navnene over er de faktiske oppføringene i masteren."
+        }
+      ]
+    },
+    {
+      "title": "Beløpsoppsett og tabell med to kolonner",
+      "intro": "Velg Tabell for et kompakt beløpsoppsett. Velg Tabell med 2 kolonner når du trenger en overskriftsrad og vanlige datarader.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Tabell"
+        },
+        {
+          "type": "module",
+          "name": "Tabell"
+        },
+        {
+          "type": "paragraph",
+          "text": "Blokken over har en etikettkolonne, en beløpskolonne og en fremhevet sumlinje. Erstatt etiketter og beløp. <b>Sum disponert er vanlig tekst og regnes ikke ut automatisk.</b>"
+        },
+        {
+          "type": "heading",
+          "text": "Tabell med 2 kolonner"
+        },
+        {
+          "type": "module",
+          "name": "Tabell med 2 kolonner",
+          "rows": [
+            [
+              "Handling",
+              "Slik gjør du"
+            ],
+            [
+              "Ny rad",
+              "Trykk Tab i siste celle eller velg Tabelloppsett > Sett inn under."
+            ],
+            [
+              "Mer tekst",
+              "Skriv videre i cellen. La raden vokse med innholdet."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Overskriftsraden gir fete kolonnenavn. Det gjelder også nye tabeller fra <b>Sett inn > Tabell</b>. Etter en ferdig Virke-blokk kan du skrive videre i det tomme avsnittet som følger med."
+        }
+      ]
+    },
+    {
+      "title": "Tabeller med tre og fire kolonner",
+      "intro": "Velg antall kolonner etter opplysningene som skal sammenlignes. Tabellene har like brede kolonner og en tydelig overskriftsrad.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Tabell med 3 kolonner"
+        },
+        {
+          "type": "module",
+          "name": "Tabell med 3 kolonner",
+          "rows": [
+            [
+              "Del",
+              "Bruk",
+              "Arbeidsmåte"
+            ],
+            [
+              "Overskriftsrad",
+              "Forteller hva kolonnen inneholder",
+              "Skriv en kort og tydelig overskrift."
+            ],
+            [
+              "Datarad",
+              "Samler opplysninger som hører sammen",
+              "Bruk Tab mellom cellene."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Tabell med 4 kolonner"
+        },
+        {
+          "type": "module",
+          "name": "Tabell med 4 kolonner",
+          "rows": [
+            [
+              "Tema",
+              "Opplysning",
+              "Ansvar",
+              "Merknad"
+            ],
+            [
+              "Kort tekst",
+              "Én opplysning per celle",
+              "Navn eller rolle",
+              "Plass til utdyping"
+            ],
+            [
+              "Ny rad",
+              "Sett inn under",
+              "Behold kolonnene",
+              "Raden vokser med teksten"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Sett inn kolonner fra <b>Tabelloppsett</b> ved behov. Kontroller at alle overskriftsceller har fet skrift og at tabellen holder seg innenfor margene."
+        }
+      ]
+    },
+    {
+      "title": "Tabell med fem kolonner og store celler",
+      "intro": "Fem kolonner passer til korte, strukturerte opplysninger. Store celler gir mer plass til sjekkpunkter og merknader.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Tabell med 5 kolonner"
+        },
+        {
+          "type": "module",
+          "name": "Tabell med 5 kolonner",
+          "rows": [
+            [
+              "Punkt",
+              "Status",
+              "Ansvar",
+              "Frist",
+              "Merknad"
+            ],
+            [
+              "Kort tittel",
+              "Åpen",
+              "Rolle",
+              "Dato",
+              "Kort oppfølging"
+            ],
+            [
+              "Neste punkt",
+              "Avklart",
+              "Rolle",
+              "Dato",
+              "Utfyllende tekst"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Store celler"
+        },
+        {
+          "type": "module",
+          "name": "Store celler",
+          "fills": {
+            "Avstemninger": "Kontrollpunkter",
+            "Er det foretatt avstemminger og tilfredsstillende dokumentert:": "Samle flere opplysninger i en stor celle:",
+            "Kassetelling": "Beskriv hva som skal kontrolleres.",
+            "Bank – åpne poster": "Bruk en egen linje til hvert delpunkt.",
+            "[Fyll ut]": [
+              "Navn eller rolle",
+              "Skriv merknaden her. Cellen vokser med teksten."
+            ]
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "OK og I/A er vanlige tabellceller. Skriv inn et kryss eller annen avtalt markering; de er ikke automatiske avkrysningsbokser."
+        }
+      ]
+    },
+    {
+      "title": "Tabell med ni kolonner",
+      "intro": "Byggeblokken Tabell med 9 kolonner liggende bruker ulike kolonnebredder. Lange navn, adresser og merknader får mer plass enn korte tallverdier.",
+      "blocks": [
+        {
+          "type": "module",
+          "name": "Tabell med 9 kolonner liggende",
+          "max_body_rows": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Denne siden viser blokken i liggende A4. Fyll ut de rosa feltene og legg til rader etter behov. Overskriftsraden gjentas når tabellen går over flere sider."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ved innsetting i et annet dokument: bruk en egen liggende inndeling med marger <b>1,25 cm venstre/høyre, 3,52 cm topp og 2,49 cm bunn</b>. Blokken endrer ikke sideoppsettet automatisk. Eksempel 04 i leveransen er et ferdig utgangspunkt."
+        }
+      ],
+      "orientation": "landscape"
+    },
+    {
+      "title": "Tabell med ni like kolonner",
+      "intro": "Byggeblokken Tabell med 9 like kolonner liggende fordeler bredden jevnt. Bruk den når kolonnene trenger omtrent like mye plass.",
+      "blocks": [
+        {
+          "type": "module",
+          "name": "Tabell med 9 like kolonner liggende",
+          "max_body_rows": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Kolonneoverskriftene kan endres til opplysningene du trenger. Hold tekstene korte, og kontroller at lange ord får plass. Bruk eksempel 05 hvis du vil starte med et ferdig sideoppsett."
+        },
+        {
+          "type": "paragraph",
+          "text": "Også denne varianten krever liggende A4 og marger <b>1,25 cm venstre/høyre, 3,52 cm topp og 2,49 cm bunn</b>. Bruk inndelingsskift når siden før eller etter skal være stående."
+        }
+      ],
+      "orientation": "landscape"
+    },
+    {
+      "title": "Saksliste",
+      "intro": "Saksliste gir tre saksoverskrifter, plass til beskrivelse og vedtak, og et beløpsoppsett til slutt.",
+      "blocks": [
+        {
+          "type": "module",
+          "name": "Saksliste",
+          "fills": {
+            "[Sakstittel]": [
+              "Gi saken en tydelig tittel",
+              "Beskriv neste sak",
+              "Avslutt med siste sak"
+            ],
+            "[Beskrivelse og vedtak]": [
+              "Skriv bakgrunn og vedtak under saksoverskriften. Behold saksnummereringen.",
+              "Legg til eller fjern saker etter behov. Kontroller rekkefølgen etter endringer.",
+              "Beløpsoppsettet under brukes når saken trenger en oppsummering av beløp."
+            ]
+          }
+        },
+        {
+          "type": "small",
+          "text": "Beløpslinjene er vanlige tekstfelt. Kontroller summer selv."
+        }
+      ]
+    },
+    {
+      "title": "Signatur",
+      "intro": "Signatur samler sted, dato og tre felt for navn og tittel. Bruk blokken ved slutten av dokumenter som skal signeres.",
+      "blocks": [
+        {
+          "type": "module",
+          "name": "Signatur"
+        },
+        {
+          "type": "heading",
+          "text": "Slik bruker du signaturfeltene"
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Fyll ut sted og dato øverst i blokken.",
+            "Fyll ut navn og stillingstittel i de aktuelle signaturfeltene. Vanlig skriving gjør teksten svart.",
+            "Kontroller at signaturene står samlet på en hensiktsmessig side før deling."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Blokken gir et visuelt signaturområde. Den starter ikke en elektronisk signeringsprosess."
+        }
+      ]
+    },
+    {
+      "title": "Avtale",
+      "intro": "Avtale er en sammensatt blokk med tittel, parter, avsnitt og signatur. Eksemplet nedenfor bruker avsnittene til å forklare hvordan de fylles ut.",
+      "blocks": [
+        {
+          "type": "module",
+          "name": "Avtale",
+          "fills": {
+            "[Avtaletittel]": "Tittel på avtalen",
+            "[Avtalepart 1]": "Navn på første avtalepart",
+            "[Avtalepart 2]": "Navn på andre avtalepart",
+            "[Beskriv formålet med avtalen]": "Erstatt denne teksten med avtalens formål. Fyll ut tittelen og partene før du går videre.",
+            "[Skriv avtalens innhold]": "Skriv innholdet i vanlige avsnitt. Enter lager et nytt avsnitt. Tilpass overskrifter og innhold til dokumentet, og fyll ut signaturfeltene til slutt."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Søylediagram",
+      "intro": "Diagram søyle sammenligner kategorier og dataserier. Diagrammet under er et redigerbart Word-diagram med innebygde Excel-data.",
+      "blocks": [
+        {
+          "type": "module",
+          "name": "Diagram søyle"
+        },
+        {
+          "type": "small",
+          "text": "Eksempelverdiene følger byggeblokken. Erstatt dem med tallene som skal vises."
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Sett inn blokken og <b>lagre Word-dokumentet</b>.",
+            "Høyreklikk diagrammet og velg <b>Rediger data i Excel</b>. Erstatt navn og verdier i regnearket.",
+            "Lukk dataarket, kontroller diagrammet i Word og lagre. Tilpass tittel og tegnforklaring slik at leseren forstår tallene."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sektordiagram",
+      "intro": "Diagram sektor viser hvordan én total fordeler seg på kategorier. Diagrammet under er redigerbart og bruker en innebygd Excel-arbeidsbok.",
+      "blocks": [
+        {
+          "type": "module",
+          "name": "Diagram sektor"
+        },
+        {
+          "type": "small",
+          "text": "Kontroller at kategoriene og tallene beskriver den samme totalen."
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Sett inn blokken og <b>lagre Word-dokumentet</b> før du redigerer data.",
+            "Høyreklikk og velg <b>Rediger data i Excel</b>. Bytt ut kategorinavn og verdier.",
+            "Kontroller størrelsen på sektorene, teksten i tegnforklaringen og eventuelle dataetiketter. Lagre dokumentet."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Excel må være tilgjengelig for denne arbeidsmåten. Velg søylediagram hvis det er viktigere å sammenligne verdier enn å vise andeler."
+        }
+      ]
+    },
+    {
+      "title": "Topptekst og bunntekst",
+      "intro": "Topptekst og bunntekst gir dokumentet en fast identitet og sidetall. Guidens egne topp- og bunntekster bruker disse komponentene.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Virke topptekst"
+        },
+        {
+          "type": "module",
+          "name": "Virke topptekst",
+          "fills": {
+            "[Tema eller dokumentkategori]": "Tema eller dokumentkategori"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Eksemplet over viser topptekstblokken inne på siden. I et dokument dobbeltklikker du øverst på arket, setter markøren i toppteksten og setter inn <b>Virke topptekst</b>. Fyll ut kategori eller tema."
+        },
+        {
+          "type": "heading",
+          "text": "Virke bunntekst"
+        },
+        {
+          "type": "module",
+          "name": "Virke bunntekst",
+          "fills": {
+            "[Dokumentnavn]": "Dokumentnavn"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Eksemplet over bruker ekte sidetallsfelt. Dobbeltklikk nederst på arket og sett inn <b>Virke bunntekst</b> når du vil bruke blokken som bunntekst. Fyll ut dokumentnavnet og behold feltene <b>Side X av Y</b>."
+        },
+        {
+          "type": "small",
+          "text": "Kontroller topp- og bunntekst etter inndelingsskift, særlig når stående og liggende sider blandes."
+        }
+      ]
+    },
+    {
+      "title": "Ferdigstill og ta vare på dokumentet",
+      "intro": "Lagre en redigerbar DOCX-fil i Virkes Microsoft 365-arkiv. Eksporter også PDF når du trenger en fast visnings- eller utskriftsversjon.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Kontroller før du deler"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Erstatt rosa plassholdere og eksempelverdier. Fjern hjelpetekst som bare er ment for intern utfylling.",
+            "Kontroller overskrifter, nummerering og innholdsfortegnelse etter endringer.",
+            "Se at tabeller holder seg innenfor margene, tekst ikke klippes og signaturfelt står samlet.",
+            "Kontroller dokumentnavn, kategori, sidetall og fonter. Åpne den eksporterte PDF-en for en siste kontroll."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Hvis noe ikke virker"
+        },
+        {
+          "type": "module",
+          "name": "Tabell med 2 kolonner",
+          "rows": [
+            [
+              "Problem",
+              "Første tiltak"
+            ],
+            [
+              "Feil font eller linjeskift",
+              "Installer begge Clan-fontene og start Word på nytt."
+            ],
+            [
+              "Rosa tekst etter innliming",
+              "Bruk Behold bare tekst, riktig stil og svart skriftfarge."
+            ],
+            [
+              "Virke-blokker mangler",
+              "Velg masteren under Søk i, eller opprett et nytt dokument fra DOTX-filen."
+            ],
+            [
+              "Varsel om eksterne felt",
+              "Velg Nei hvis du ikke bruker en kjent ekstern datakilde. Oppdater aktuelle felt målrettet."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Master og ferdige dokumenter"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oppbevar master, fonter og veiledning samlet. Masteren brukes til å lage oppsett og sette inn nye blokker. Eksempeldokumentene har formateringen innebygd og er frikoblet fra masteren. Automatisk stil- og feltoppdatering ved åpning er slått av. Oppdater innholdsfortegnelsen når innholdet endres."
+        },
+        {
+          "type": "small",
+          "text": "Ved vedlikehold: arbeid på en kopi av DOTX-filen, kontroller både stiler og lagrede Autotekst-blokker, og oppdater veiledningen når arbeidsmåten endres."
+        }
+      ]
+    }
+  ]
+}

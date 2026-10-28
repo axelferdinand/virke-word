@@ -1,0 +1,4 @@
+[render_docx] $ /Users/afg/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/soffice -env:UserInstallation=file:///private/tmp/soffice_profile_6gotoq34 --invisible --headless --norestore --convert-to pdf --outdir /private/tmp/soffice_convert_63f1fbay /Users/afg/Nettsteder/virke-word/Virke-revidert-2026-10-21/10_Utviklingssamtale.docx
+convert /Users/afg/Nettsteder/virke-word/Virke-revidert-2026-10-21/10_Utviklingssamtale.docx as a Writer document -> /private/tmp/soffice_convert_63f1fbay/10_Utviklingssamtale.pdf using filter : writer_pdf_Export
+
+Pages rendered to /Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/render/10_Utviklingssamtale

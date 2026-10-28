@@ -1,0 +1,123 @@
+<w:docPart xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+  <w:docPartPr>
+    <w:name w:val="Innhold_Virke"/>
+    <w:style w:val="Overskrift for innholdsfortegnelse"/>
+    <w:category>
+      <w:name w:val="Virke"/>
+      <w:gallery w:val="autoTxt"/>
+    </w:category>
+    <w:types>
+      <w:type w:val="autoExp"/>
+      <w:type w:val="toolbar"/>
+    </w:types>
+    <w:behaviors>
+      <w:behavior w:val="p"/>
+    </w:behaviors>
+    <w:guid w:val="{4668400F-FA00-4AD0-93DD-74A658F53EF9}"/>
+  </w:docPartPr>
+  <w:docPartBody>
+    <w:sdt>
+      <w:sdtPr>
+        <w:id w:val="170000728"/>
+        <w:docPartObj>
+          <w:docPartGallery w:val="Table of Contents"/>
+          <w:docPartUnique/>
+        </w:docPartObj>
+      </w:sdtPr>
+      <w:sdtContent>
+        <w:p>
+          <w:pPr>
+            <w:pStyle w:val="Overskriftforinnholdsfortegnelse"/>
+          </w:pPr>
+          <w:r>
+            <w:t xml:space="preserve">Innhold</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:pStyle w:val="INNH1"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="000000"/>
+            </w:rPr>
+            <w:fldChar w:fldCharType="begin"/>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="000000"/>
+            </w:rPr>
+            <w:instrText xml:space="preserve"> TOC \o "1-3" \h \z \u \* MERGEFORMAT </w:instrText>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="000000"/>
+            </w:rPr>
+            <w:fldChar w:fldCharType="separate"/>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="000000"/>
+            </w:rPr>
+            <w:t xml:space="preserve">Overskrift p&#229; niv&#229; 1</w:t>
+          </w:r>
+          <w:r>
+            <w:tab/>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="616161"/>
+            </w:rPr>
+            <w:t xml:space="preserve">1</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:pStyle w:val="INNH2"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="616161"/>
+            </w:rPr>
+            <w:t xml:space="preserve">Overskrift p&#229; niv&#229; 2</w:t>
+          </w:r>
+          <w:r>
+            <w:tab/>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="616161"/>
+            </w:rPr>
+            <w:t xml:space="preserve">1</w:t>
+          </w:r>
+        </w:p>
+        <w:p>
+          <w:pPr>
+            <w:pStyle w:val="INNH3"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="616161"/>
+            </w:rPr>
+            <w:t xml:space="preserve">Overskrift p&#229; niv&#229; 3</w:t>
+          </w:r>
+          <w:r>
+            <w:tab/>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="616161"/>
+            </w:rPr>
+            <w:t xml:space="preserve">1</w:t>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:color w:val="000000"/>
+            </w:rPr>
+            <w:fldChar w:fldCharType="end"/>
+          </w:r>
+        </w:p>
+      </w:sdtContent>
+    </w:sdt>
+  </w:docPartBody>
+</w:docPart>

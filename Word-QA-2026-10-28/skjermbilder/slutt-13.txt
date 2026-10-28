@@ -1,0 +1,243 @@
+Window: "13_Tekststiler_Arial", App: Microsoft Word.
+0 standardvindu 13_Tekststiler_Arial, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/13_Tekststiler_Arial.docx, Secondary Actions: Raise
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 13_Tekststiler_Arial
+					5 container Description: Copilot-sammendrag, ID: Summary_Container_Test_ID
+						6 ukjent Copilot-sammendrag
+							7 tekstinnskrivingsområde Value: **Copilot-sammendrag**, ID: Initial_Header_ID
+						8 bilde Description: Informasjon, Help: Copilot analyserer innholdet i dette dokumentet så snart det åpnes, for å generere et sammendrag.
+						9 knapp Description: Utvid sammendrag, ID: Collapse_Expand_Summary_Button
+					10 container
+						11 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						12 Tabell, 1 Rad, 1 Kolonne, , 
+							13 row (disabled)
+								14 celle (disabled)
+									15 tekstinnskrivingsområde (disabled, settable) Hjelpetekst: Gi en beskrivelse av hvilke typer personopplysninger som samles inn.
+						16 Tabell, 3 Rader, 3 Kolonner, , 
+							17 row (disabled)
+								18 celle (disabled)
+									19 tekstinnskrivingsområde (disabled, settable) Navn
+								20 celle (disabled)
+									21 tekstinnskrivingsområde (disabled, settable) Navn
+								22 celle (disabled)
+									23 tekstinnskrivingsområde (disabled, settable) Navn
+							24 row (disabled)
+								25 celle (disabled)
+									26 container
+										27 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								28 celle (disabled)
+									29 container
+										30 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								31 celle (disabled)
+									32 container
+										33 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							34 row (disabled)
+								35 celle (disabled)
+									36 container
+										37 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								38 celle (disabled)
+									39 container
+										40 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								41 celle (disabled)
+									42 container
+										43 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							44 kolonne (disabled) Navn
+							45 kolonne (disabled) Navn
+							46 kolonne (disabled) Navn
+						47 Tabell, 2 Rader, 5 Kolonner, , 
+							48 row (disabled)
+								49 celle (disabled) 0-4
+									50 container 0-4
+										51 tekstinnskrivingsområde (disabled, settable) [Sted/dato]
+							52 row (disabled)
+								53 celle (disabled)
+									54 container
+										55 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+								56 celle (disabled)
+								57 celle (disabled)
+									58 container
+										59 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+								60 celle (disabled)
+								61 celle (disabled)
+									62 container
+										63 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Stillingstittel]
+						64 Tabell, 3 Rader, 2 Kolonner, , 
+							65 row (disabled)
+								66 celle (disabled)
+									67 tekstinnskrivingsområde (disabled, settable) Utbytte
+								68 celle (disabled)
+									69 container
+										70 tekstinnskrivingsområde (disabled, settable) [kr. 1.000.000,-]
+							71 row (disabled)
+								72 celle (disabled)
+									73 tekstinnskrivingsområde (disabled, settable) Annen egenkapital
+								74 celle (disabled)
+									75 container
+										76 tekstinnskrivingsområde (disabled, settable) [kr. 500.000,-]
+							77 row (disabled)
+								78 celle (disabled)
+									79 tekstinnskrivingsområde (disabled, settable) Sum disponert
+								80 celle (disabled)
+									81 container
+										82 tekstinnskrivingsområde (disabled, settable) [kr. 1.500.000,-]
+						83 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: <H1 (24 px/18 pt på 1,35)
+H2 (18 px/13,5 pt på 1,35)
+H3 (14 px/10,5 pt – minst 16,8 pt)
+Paragraph (12 px/9 pt på 1.6). Det har vært to [Utfyllingsstil], begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.
+Paragraph Bold (12 px/9 pt på 1.6)
+
+Tabell, 1 Rad, 1 Kolonne, ,  
+Caption (10px/7,5 pt på 1.6)
+    * Paragraph (12 px/9 pt på 1.6) + (List spacing 8px/6 pt)
+    * Paragraph (12 px/9 pt på 1.6) + (List spacing 8px/6 pt)
+    3. Steg nummer én
+    4. Steg nummer to
+Tabell, 3 Rader, 3 Kolonner, ,  
+Tabell, 2 Rader, 5 Kolonner, ,  
+Tabell, 3 Rader, 2 Kolonner, ,  
+						84 Felt page
+						85 Felt numpages
+						86 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	Tekststiler Arial
+				87 rullefelt (disabled, settable, float) 0
+					88 verdiindikator (disabled, settable, float) 0
+				89 rullefelt (disabled, settable, float) 0.2897669706180345
+					90 verdiindikator (disabled, settable, float) 0.2897669706180345
+		91 deler (disabled, settable, float) 1728
+	92 container Statuslinje
+		93 knapp Side 1 av 1, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten.
+		94 knapp 135 ord, Help: Antall ord i dokument. Klikk eller trykk for å åpne dialogboksen Ordtelling.
+		95 knapp Det ble funnet korrekturfeil. Klikk for å rette opp.
+		96 knapp Norsk (bokmål), Help: Språk
+		97 veksleknapp Tilgjengelighet: Alt er klart, Help: Tilgjengelighetskontrollen er fullført. Klikk her for å finne ut mer., Value: off
+		98 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		99 valgknapp Sideutforming, Value: 1
+		100 valgknapp Weboppsett, Value: 0
+		101 valgknapp Disposisjon, Value: 0
+		102 valgknapp Kladd, Value: 0
+		103 knapp Zoom ut
+		104 knapp Zoom inn
+		105 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			106 verdiindikator (settable, float) 1015
+		107 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+	108 fanegruppe Description: bånd, Details: Hjem
+		109 rullefeltområde Hjem-fanekommandoer
+			110 container
+				111 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				112 knapp (disabled) Klipp ut, Value: 0
+				113 knapp (disabled) Kopier, Value: 0
+				114 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			115 container
+				116 kombinert rute (settable) Description: Skrift:, Value: Arial (Overskrifter), Secondary Actions: Confirm
+					117 knapp
+				118 kombinert rute (settable) Description: Skriftstørrelse:, Value: 18, Secondary Actions: Confirm
+					119 knapp
+				120 knapp Øk skriftstørrelse, Value: 0
+				121 knapp Reduser skriftstørrelse, Value: 0
+				122 menyknapp Endre bokstavtype, Value: 0
+				123 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				124 veksleknapp Fet, Value: on
+				125 veksleknapp Kursiv, Value: off
+				126 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				127 veksleknapp Gjennomstreking, Value: off
+				128 veksleknapp Senket skrift, Value: off
+				129 veksleknapp Hevet skrift, Value: off
+				130 menyknapp Teksteffekter, Value: 0
+				131 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				132 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			133 container
+				134 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				135 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				136 menyknapp Liste med flere nivåer, Value: 0
+				137 knapp Reduser innrykk, Value: 0
+				138 knapp Øk innrykk, Value: 0
+				139 knapp Sorter, Value: 0
+				140 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				141 veksleknapp Venstrejuster, Value: on
+				142 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				143 veksleknapp Høyrejuster, Value: off
+				144 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				145 menyknapp Linje- og avsnittsavstand, Value: 0
+				146 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				147 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			148 container
+				149 galleri Description: Stiler, Help: galleri
+					150 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					151 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					152 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					153 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					154 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					155 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					156 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					157 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				158 veksleknapp Stiler-rute, Value: off
+			159 veksleknapp Dikter, Help: Office-diktering, Value: off
+			160 menyknapp (disabled) Følsomhet, Value: 0
+			161 knapp Tillegg, Value: 0
+			162 container
+				163 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				164 veksleknapp Copilot, Value: off
+			165 container
+				166 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				167 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		168 fane Hjem, Help: Skjul båndet, Value: 1
+		169 fane Sett inn
+		170 fane Tegn
+		171 fane Utforming
+		172 fane Oppsett
+		173 fane Referanser
+		174 fane Masseutsendelser
+		175 fane Se gjennom
+		176 fane Visning
+		177 fane Acrobat
+		178 knapp Kommentarer
+		179 knapp Redigering, Help: Modus for dokumenttilgang
+		180 knapp Del
+	181 verktøylinje
+		182 container Secondary Actions: Fjern fra verktøylinjen
+			183 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			184 knapp Hjem, Value: 0
+			185 knapp Lagre, Value: 0
+			186 menyknapp Angre Inntasting, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			187 knapp (disabled) Kan ikke gjenta, Value: 0
+			188 knapp Skriv ut, Value: 0
+			189 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			190 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				191 knapp Søk
+			192 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			193 tekst Value: 13_Tekststiler_Arial, ID: CUIDocumentShellWindowTitleLabel
+			194 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	195 lukkeknapp
+	196 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	197 minimeringsknapp
+198 menu bar
+	199 Word, ID: AppMenu_MenuItem
+	200 Fil
+	201 Rediger, ID: EditMenu_MenuItem
+	202 Vis, ID: ViewMenu_MenuItem
+	203 Sett inn
+	204 Formater
+	205 Verktøy
+	206 Tabell
+	207 Vindu, ID: WindowMenu_MenuItem
+	208 Hjelp, ID: HelpMenu_MenuItem
+
+The focused UI element is 83 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: <H1 (24 px/18 pt på 1,35)
+H2 (18 px/13,5 pt på 1,35)
+H3 (14 px/10,5 pt – minst 16,8 pt)
+Paragraph (12 px/9 pt på 1.6). Det har vært to [Utfyllingsstil], begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.
+Paragraph Bold (12 px/9 pt på 1.6)
+
+Tabell, 1 Rad, 1 Kolonne, ,  
+Caption (10px/7,5 pt på 1.6)
+    * Paragraph (12 px/9 pt på 1.6) + (List spacing 8px/6 pt)
+    * Paragraph (12 px/9 pt på 1.6) + (List spacing 8px/6 pt)
+    3. Steg nummer én
+    4. Steg nummer to
+Tabell, 3 Rader, 3 Kolonner, ,  
+Tabell, 2 Rader, 5 Kolonner, ,  
+Tabell, 3 Rader, 2 Kolonner, ,  

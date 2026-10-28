@@ -1,0 +1,74 @@
+VIRKE – TESTRESULTATER 28. OKTOBER 2026
+
+OMFANG
+1 DOTX, 17 eksempler / 18 sider og komponentguide 2.2 med 21 faktiske
+redigerbare byggeblokker. Testendringer er gjort i kopier, direkte i
+Microsoft Word for Mac med innebygd datamaskinbruk. Windows og Word på
+nett er ikke testet. De 40 Styres-konverteringene er ikke startet.
+
+HVA DENNE RAPPORTEN ERSTATTER
+Konklusjonen om cellebalanse i rapporten fra 27. oktober var feil.
+Den tidligere kontrollen fanget ikke at Normal overstyrte tabellstilen.
+Denne revisjonen erstatter de tidligere påstandene om tabellstørrelse,
+cellebalanse og formatering ved vanlig tabellinnsetting.
+
+ÅRSAK OG RETTING
+Normal hadde eksplisitt 9 pkt og avsnittsformatering med høyere prioritet
+enn tabellstilen. Disse grunnverdiene er flyttet til dokumentstandardene.
+Normal ser fortsatt lik ut utenfor tabeller, og tabellstilen kan nå styre
+7,5 pkt, 12 pkt linjeavstand, null avsnittsavstand og cellemarger.
+Fet skrift i overskriftsraden har én eier: tabellstilens første-rad-regel.
+Konkurrerende fet/ikke-fet-overstyringer er fjernet fra tabelloverskrifter.
+Top/bunn er optisk balansert med 5,25/8,25 pkt; sidene bruker 6 pkt.
+Overflødige minste-radhøyder er fjernet. «Store celler» har en bevisst
+9 pkt kontrolltekstkolonne og toppjusterte lange datarader.
+
+NYE FUNKSJONSPRØVER I WORD
+Bestått:
+• Før-versjon fra 27. oktober: 9 pkt ved vanlig tabellinnsetting gjenskapt.
+• Nytt dokument fra revidert DOTX: vanlig Sett inn > Tabell 3x3 fra Normal
+  gir 7,5 pkt; alle tre overskriftsceller fete, datarad vanlig skrift.
+• Endelig eksempel 02: første overskriftsfelt fylt med «Oktober».
+  Feltet er svart og fett i 7,5 pkt. Valg av Normal beholder tabellstørrelsen.
+• Ny standardtabell i testkopi av eksempel 02, deretter lagring og
+  gjenåpning: 7,5 pkt og fet første overskrift bevart.
+• Ny kolonne i samme tabell: ny overskrift arver 7,5 pkt og fet skrift.
+• Lang norsk tekst med æ, ø og å: automatisk linjebryting uten klipping.
+• Tab i siste celle: ny fjerde datarad med 7,5 pkt og vanlig skrift.
+• Nytt dokument fra endelig master: Autotekst «Tabell med 3 kolonner»
+  satt inn. Første overskriftsfelt fylt ut; 7,5 pkt og fet Clan bekreftet.
+• Veiledningens felt oppdatert i Word; tre TOC-lenker får riktige titler
+  og side 3. Native feltresultat importert uten å omskrive øvrige deler.
+
+VISUELL KONTROLL
+Alle 17 eksempler kontrollert i Word, inkludert begge sider i eksempel
+01. Øvrige eksempler er én side hver. Sideoppsett, tabeller, felter,
+nummerering, innholdsfortegnelse og diagrammer er visuelt gjennomgått.
+Alle 18 eksempelsider er også kontrollert i supplerende DOCX-render.
+Eksempel 04 har én færre tom utfyllingsrad for å beholde én liggende
+side etter korrigert tabellhøyde. Ingen utfylte opplysninger er fjernet.
+
+Alle 18 guidesider kontrollert direkte i Word. Alle 18 sider i Word-PDF
+inspisert. Sidetall 1–18 av 18, to liggende sider og 24 interne lenker
+kontrollert. Alle 21 komponenter er med. Endelig DOCX-render: side 4
+kontrollert etter feltoppdatering; øvrige 17 sider er pikselidentiske
+med den allerede fullt kontrollerte versjonen fra denne revisjonen.
+Ingen observerte klippe- eller overlappsfeil i sluttversjonene.
+
+TESTDEKNING
+Denne runden gjentar de endrede tabellfunksjonene og gjennomgår alle
+komponenter visuelt. Den påstår ikke 21 separate nye Autotekst-innsettinger.
+Alle blokkene ble satt inn i den tidligere baselinetesten; diagramdata
+ble også redigert da. Excel-redigering er ikke gjentatt i denne runden.
+Nummerering og øvrige moduler er bevart og visuelt regresjonskontrollert.
+
+PAKKEKONTROLL
+Master og alle 17 eksempler har samme korrigerte stilregler. Alle XML-
+deler kan parses. Diagrammer, medier, tema og innebygde regneark er
+byteidentiske med forrige leveranse. Alle 21 offentlige Autotekst-blokker
+er bevart. Utfyllingsfelt er bevart bortsett fra den tomme raden i 04.
+DOCX-filene er selvstendige, uten ekstern malrelasjon eller automatisk
+stil-/feltoppdatering ved åpning. Word-kopiene åpnet uten mal-/feltvarsel.
+Før-versjoner og QA-kopier er bevart utenfor leveransen.
+ZIP-en inneholder ingen QA-tekst, testkopier eller midlertidige låsefiler.
+Ingen commit eller push er utført. Se Notat_til_Emil.txt for avgrensninger.

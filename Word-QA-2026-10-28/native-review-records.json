@@ -1,0 +1,147 @@
+{
+  "examples": [
+    {
+      "label": "slutt-01-side1",
+      "status": [
+        "Window: \"01_Protokoll_styremote\", App: Microsoft Word.",
+        "\t\t64 knapp Side 1 av 2, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten."
+      ]
+    },
+    {
+      "label": "slutt-01-side2",
+      "status": [
+        "Window: \"01_Protokoll_styremote\", App: Microsoft Word.",
+        "\t\t64 knapp Side 2 av 2, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten."
+      ]
+    },
+    {
+      "label": "slutt-03",
+      "status": [
+        "Window: \"03_Utfyllingsskjema\", App: Microsoft Word."
+      ]
+    },
+    {
+      "label": "slutt-04",
+      "status": [
+        "Window: \"04_Aksjeeierbok_liggende\", App: Microsoft Word."
+      ]
+    },
+    {
+      "label": "slutt-05",
+      "status": [
+        "Window: \"05_Protokoll_liggende_ni_kolonner\", App: Microsoft Word."
+      ]
+    },
+    {
+      "label": "slutt-06",
+      "status": [
+        "Window: \"06_Protokoll_Prototypen_AS\", App: Microsoft Word.",
+        "\t\t48 knapp Side 1 av 1, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten."
+      ]
+    },
+    {
+      "label": "slutt-07",
+      "status": [
+        "Window: \"07_Innholdsfortegnelse_og_avtale\", App: Microsoft Word."
+      ]
+    },
+    {
+      "label": "slutt-08",
+      "status": [
+        "Window: \"08_Avtalemal\", App: Microsoft Word."
+      ]
+    },
+    {
+      "label": "slutt-09",
+      "status": [
+        "Window: \"09_Sjekkliste_arsregnskap\", App: Microsoft Word."
+      ]
+    },
+    {
+      "label": "slutt-10",
+      "status": [
+        "Window: \"10_Utviklingssamtale\", App: Microsoft Word."
+      ]
+    },
+    {
+      "label": "slutt-11",
+      "status": [
+        "Window: \"11_Diagrammer\", App: Microsoft Word."
+      ]
+    },
+    {
+      "label": "slutt-12",
+      "status": [
+        "Window: \"12_Tekststiler_Clan\", App: Microsoft Word."
+      ]
+    },
+    {
+      "label": "slutt-13",
+      "status": [
+        "Window: \"13_Tekststiler_Arial\", App: Microsoft Word.",
+        "\t\t93 knapp Side 1 av 1, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten."
+      ]
+    },
+    {
+      "label": "slutt-14",
+      "status": [
+        "Window: \"14_Marger_og_tekstflyt\", App: Microsoft Word.",
+        "\t\t22 knapp Side 1 av 1, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten."
+      ]
+    },
+    {
+      "label": "slutt-15",
+      "status": [
+        "Window: \"15_Avstand_mellom_tekststiler\", App: Microsoft Word."
+      ]
+    },
+    {
+      "label": "slutt-16",
+      "status": [
+        "Window: \"16_Avstand_tabeller_og_signatur\", App: Microsoft Word."
+      ]
+    },
+    {
+      "label": "slutt-17",
+      "status": [
+        "Window: \"17_Flernivanummerering_og_saksliste\", App: Microsoft Word.",
+        "\t\t41 knapp Side 1 av 1, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten."
+      ]
+    },
+    {
+      "label": "slutt-kolonne-og-langtekst",
+      "status": [
+        "Window: \"02_Balance_scorecard\", App: Microsoft Word.",
+        "\t\t108 knapp Side 1 av 1, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten."
+      ]
+    },
+    {
+      "label": "master-autotekst-slutt",
+      "status": [
+        "Window: \"Dokument2\", App: Microsoft Word.",
+        "\t\t50 knapp Side 1 av 1, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten."
+      ]
+    }
+  ],
+  "guide_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "notes": "All saved screenshots visually inspected; actual first-cell formatting separately verified after selection."
+}

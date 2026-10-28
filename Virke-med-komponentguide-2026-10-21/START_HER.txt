@@ -1,0 +1,29 @@
+Virke – master, eksempler og komponentguide
+21. oktober 2026
+
+Denne pakken inneholder DOTX-master, 17 designeksempler, fonter og
+brukerveiledning og komponentguide 2.0 i redigerbar Word-versjon og PDF.
+
+Guiden viser alle 21 byggeblokkene på 18 sider. Hver blokk forklarer
+sin egen bruk med ekte Word-elementer. Side 2 gir en klikkbar oversikt.
+Tabeller, felt, lister, avtale, signatur og diagrammer kan prøves i en kopi.
+
+1. Installer begge fontene i Fonter og start Word på nytt.
+2. Les Virke_mastermal_brukerveiledning.docx eller PDF-utgaven.
+3. Åpne Virke_master_test.dotx fra Finder/Filutforsker for et nytt dokument.
+   Fyll ut tittelen og lagre som en egen DOCX-fil.
+4. På Mac: Virke > Virke-blokker. Velg Virke_master_test.dotx under Søk i,
+   marker en blokk og trykk Sett inn. Bruk et tomt avsnitt som innsettingspunkt.
+5. Lag en kopi når du vil fylle ut et av eksempeldokumentene.
+
+Masteren heter fortsatt «test» i denne detaljeringen. De 40 gamle
+Styres-malene skal konverteres i neste fase.
+
+Eksemplene har relativ tilknytning til DOTX-masteren. Automatisk
+stiloppdatering er avslått. Behold master og eksempler samlet når du
+vil bruke masterens blokker. Ved flytting kan masteren tilknyttes på nytt.
+Ferdige Styres-bruksmaler skal være selvstendige DOCX-filer i Virkes
+Microsoft 365-arkiv; eksisterende utfylte dokumenter skal beholde sitt utseende.
+
+Word for Mac er testet direkte. Windows og Word på nett er ikke verifisert.
+Se TESTRESULTATER.txt for hva som er kontrollert og kjente forbehold.

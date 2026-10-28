@@ -1,0 +1,119 @@
+[
+  {
+    "file": "03_Utfyllingsskjema.docx",
+    "pages": 1,
+    "opening": "no_prompt"
+  },
+  {
+    "file": "04_Aksjeeierbok_liggende.docx",
+    "pages": 2,
+    "opening": "no_prompt"
+  },
+  {
+    "file": "05_Protokoll_liggende_ni_kolonner.docx",
+    "pages": 2,
+    "opening": "no_prompt"
+  },
+  {
+    "file": "04_Aksjeeierbok_liggende.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "05_Protokoll_liggende_ni_kolonner.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "06_Protokoll_Prototypen_AS.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "07_Innholdsfortegnelse_og_avtale.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "08_Avtalemal.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "09_Sjekkliste_arsregnskap.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "10_Utviklingssamtale.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "11_Diagrammer.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "12_Tekststiler_Clan.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "13_Tekststiler_Arial.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "14_Marger_og_tekstflyt.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "15_Avstand_mellom_tekststiler.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "16_Avstand_tabeller_og_signatur.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "17_Flernivanummerering_og_saksliste.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "sluttkontroll"
+  },
+  {
+    "file": "09_Sjekkliste_arsregnskap.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "final_gap_correction"
+  },
+  {
+    "file": "13_Tekststiler_Arial.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "final_gap_correction"
+  },
+  {
+    "file": "16_Avstand_tabeller_og_signatur.docx",
+    "pages": 1,
+    "opening": "no_prompt",
+    "version": "final_gap_correction"
+  }
+]

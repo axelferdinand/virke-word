@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-21",
+  "guide_version": "1.2",
+  "master_sha256": "74d641efa36287eeb70d34cd38036d2c09de31288e5d1d1a6e22399752e44740",
+  "docx_sha256": "22d01716242a9997e870c061bd0de7b6cf114f66a034d5f1db22f9d4384e62d5",
+  "pdf_sha256": "0eaeee6d67c150aba49cb6a4db143d8d5285ddea30a5be0200dd7e842832987a",
+  "native_word_review": "passed",
+  "native_word_pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "docx_render_pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "pdf_pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "pdf_source": "Word-QA-2026-10-21/ettertest-v3/Virke_mastermal_brukerveiledning.pdf",
+  "docx_test_copy": "Word-QA-2026-10-21/ettertest-v3/Virke_mastermal_brukerveiledning.docx",
+  "pdf_fonts": "All font subsets embedded, including Clan Offc News and Bold",
+  "pdf_links": 3,
+  "review": "All pages visually inspected. Tables, text wrapping, styles, headers and footers readable; no overlap or clipping. Side 1–7 av 7 correct. Native PDF export used Best for utskrift.",
+  "page_image_sha256": {
+    "page-1.png": "ceb34710e6c4ad9bc4bbd83be4d97dbf4bee53952b3d8259a0d011c922e1ab00",
+    "page-2.png": "73b6d8950bf100d9832e91c8e1b7e31820b7bfdff9718b0129b5b1f2569fd803",
+    "page-3.png": "f5ce9bb1a871e7979065ab51e99baa105c25d3b4feb3e67b6c73155a21852059",
+    "page-4.png": "e64b5ee4f9777d8c9a192e2fd37b044f56a040821cca122075418e451d09e35a",
+    "page-5.png": "44493d2da813d864e0ee9301296aadc37821228c0a831cd50c0855dc9022c06b",
+    "page-6.png": "bfa3bfaf5d790f0017adf3999da9c9b35a0c07ee398f8e586ca7877941d0185a",
+    "page-7.png": "e57d9b8122ededff633e9ffaed992a4e90348c5475e832d47dba6c6c6eb796cf"
+  }
+}

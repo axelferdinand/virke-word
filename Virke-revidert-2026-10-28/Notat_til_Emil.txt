@@ -1,0 +1,41 @@
+Til Emil – tabellrevisjon 28. oktober 2026
+
+Du hadde rett i at forrige tabellretting var utilstrekkelig. Normal-stilen
+overstyrte tabellstilens skriftstørrelse og avsnittsavstand. Dette er nå
+rettet i mastermalen, de lagrede Autotekst-blokkene og alle 17 eksemplene.
+Vanlig brødtekst beholder 9 pkt, mens tabellstilen får styre 7,5 pkt,
+linjeavstand, cellemarger og fet overskriftsrad.
+
+Den reviderte versjonen er prøvd direkte i Word for Mac med vanlig
+Sett inn > Tabell fra Normal, utfylling av første overskriftscelle,
+ny kolonne, ny rad med Tab, lang norsk tekst og lagring/gjenåpning.
+Disse prøvene ga 7,5 pkt, fete overskrifter i alle kolonner og vanlig
+skrift i dataradene. En tabell satt inn fra masterens Autotekst ble
+også prøvd, inkludert utfylling av første overskriftsfelt.
+
+Cellebalansen er justert mot Figma med kompensasjon for hvordan Word
+plasserer Clan-fontens linjeboks. Standardcellene bruker 6 pkt på sidene,
+5,25 pkt over og 8,25 pkt under. Ulike tekniske topp-/bunnverdier gir
+bedre optisk balanse i Word. Lange innholdsrader er toppjustert der
+Figma viser dette. «Store celler» beholder bevisst 9 pkt i den første
+kontrolltekstkolonnen, slik denne varianten er spesifisert i Figma.
+
+Alle 17 eksempler og alle 18 sider i komponentguide 2.2 er gjennomgått
+i Word. Guiden viser fortsatt alle 21 redigerbare byggeblokker. PDF-en
+er eksportert fra Word og alle sider er inspisert.
+
+Avgrensninger som videreføres fra forrige runde:
+• Rosa punkttegn velges med stilen Punktliste. Words standardknapp
+  og automatisk liste fra bindestrek kan bruke egne standarder.
+• På Mac åpnes Virke-fortegnelsen via Virke-blokker eller Virke-knappen
+  for innholdsfortegnelse. Egen oppføring i standardgalleriet ble ikke
+  oppnådd i forrige test.
+• Fast luft etter en tabell følger de ferdige Virke-blokkene. En helt
+  ny standardtabell får tabellformateringen, men ingen garanti om
+  automatisk 18 pkt avstand til det etterfølgende avsnittet.
+• Tidligere kosmetiske forskjeller i innholdsfortegnelsens øverste
+  linje og sidetallsfarge på første nivå inngår ikke i denne tabellrettingen.
+
+Kontrollen gjelder Word for Mac. Windows og Word på nett er ikke testet.
+De beskrevne tabellfeilene er ikke avskrevet som uunngåelige Word-feil;
+de er rettet og bestått i de konkrete prøvene over.

@@ -1,0 +1,148 @@
+Window: "12_Tekststiler_Clan", App: Microsoft Word.
+0 standardvindu 12_Tekststiler_Clan, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/12_Tekststiler_Clan.docx, Secondary Actions: Raise
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 12_Tekststiler_Clan
+					5 container Description: Copilot-sammendrag, ID: Summary_Container_Test_ID
+						6 ukjent Copilot-sammendrag
+							7 tekstinnskrivingsområde Value: **Copilot-sammendrag**, ID: Initial_Header_ID
+						8 bilde Description: Informasjon, Help: Copilot analyserer innholdet i dette dokumentet så snart det åpnes, for å generere et sammendrag.
+						9 knapp Description: Utvid sammendrag, ID: Collapse_Expand_Summary_Button
+					10 container
+						11 tekstinnskrivingsområde (disabled, settable) Topptekst -Inndeling 1-
+						12 Tabell, 1 Rad, 1 Kolonne, , 
+							13 row (disabled)
+								14 celle (disabled)
+									15 tekstinnskrivingsområde (disabled, settable) Hjelpetekst: Gi en beskrivelse av hvilke typer personopplysninger som samles inn.
+						16 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: H1 (24 px/18 pt på 1,35)
+H2 (18 px/13,5 pt på 1,35)
+H3 (14 px/10,5 pt – minst 16,8 pt)
+Paragraph (12 px/9 pt på 1.6). Det har vært to [Utfyllingsstil], begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.
+Paragraph Bold (12 px/9 pt på 1.6)
+
+Tabell, 1 Rad, 1 Kolonne, ,  
+Caption (10px/7,5 pt på 1.6)       Caption Bold (10px/7,5 pt på 1.6)
+    * Paragraph (12 px/9 pt på 1.6) + (List spacing 8px/6 pt)
+    * Paragraph (12 px/9 pt på 1.6) + (List spacing 8px/6 pt)
+    3. Steg nummer én
+    4. Steg nummer to
+						17 tekstinnskrivingsområde (disabled, settable) Bunntekst -Inndeling 1-
+				18 rullefelt (disabled, settable, float) 0
+					19 verdiindikator (disabled, settable, float) 0
+				20 rullefelt (disabled, settable, float) 0.2897669706180345
+					21 verdiindikator (disabled, settable, float) 0.2897669706180345
+		22 deler (disabled, settable, float) 1728
+	23 container Statuslinje
+		24 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		25 valgknapp Sideutforming, Value: 1
+		26 valgknapp Weboppsett, Value: 0
+		27 valgknapp Disposisjon, Value: 0
+		28 valgknapp Kladd, Value: 0
+		29 knapp Zoom ut
+		30 knapp Zoom inn
+		31 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			32 verdiindikator (settable, float) 1015
+		33 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+		34 tekst 12_Tekststiler_Clan.docx: 465 tegn (omtrentlig verdi).
+	35 fanegruppe Description: bånd, Details: Hjem
+		36 rullefeltområde Hjem-fanekommandoer
+			37 container
+				38 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				39 knapp (disabled) Klipp ut, Value: 0
+				40 knapp (disabled) Kopier, Value: 0
+				41 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			42 container
+				43 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					44 knapp
+				45 kombinert rute (settable) Description: Skriftstørrelse:, Value: 18, Secondary Actions: Confirm
+					46 knapp
+				47 knapp Øk skriftstørrelse, Value: 0
+				48 knapp Reduser skriftstørrelse, Value: 0
+				49 menyknapp Endre bokstavtype, Value: 0
+				50 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				51 veksleknapp Fet, Value: on
+				52 veksleknapp Kursiv, Value: off
+				53 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				54 veksleknapp Gjennomstreking, Value: off
+				55 veksleknapp Senket skrift, Value: off
+				56 veksleknapp Hevet skrift, Value: off
+				57 menyknapp Teksteffekter, Value: 0
+				58 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				59 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			60 container
+				61 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				62 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				63 menyknapp Liste med flere nivåer, Value: 0
+				64 knapp Reduser innrykk, Value: 0
+				65 knapp Øk innrykk, Value: 0
+				66 knapp Sorter, Value: 0
+				67 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				68 veksleknapp Venstrejuster, Value: on
+				69 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				70 veksleknapp Høyrejuster, Value: off
+				71 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				72 menyknapp Linje- og avsnittsavstand, Value: 0
+				73 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				74 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			75 container
+				76 galleri Description: Stiler, Help: galleri
+					77 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					78 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					79 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					80 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					81 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					82 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					83 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					84 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				85 veksleknapp Stiler-rute, Value: off
+			86 veksleknapp Dikter, Help: Office-diktering, Value: off
+			87 menyknapp (disabled) Følsomhet, Value: 0
+			88 knapp Tillegg, Value: 0
+			89 container
+				90 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				91 veksleknapp Copilot, Value: off
+			92 container
+				93 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				94 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		95 fane Hjem, Help: Skjul båndet, Value: 1
+		96 fane Sett inn
+		97 fane Tegn
+		98 fane Utforming
+		99 fane Oppsett
+		100 fane Referanser
+		101 fane Masseutsendelser
+		102 fane Se gjennom
+		103 fane Visning
+		104 fane Acrobat
+		105 knapp Kommentarer
+		106 knapp Redigering, Help: Modus for dokumenttilgang
+		107 knapp Del
+	108 verktøylinje
+		109 container Secondary Actions: Fjern fra verktøylinjen
+			110 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			111 knapp Hjem, Value: 0
+			112 knapp Lagre, Value: 0
+			113 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			114 knapp (disabled) Kan ikke gjenta, Value: 0
+			115 knapp Skriv ut, Value: 0
+			116 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			117 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				118 knapp Søk
+			119 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			120 text Value: 12_Tekststiler_Clan Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			121 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	122 lukkeknapp
+	123 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	124 minimeringsknapp
+125 menu bar
+	126 Word, ID: AppMenu_MenuItem
+	127 Fil
+	128 Rediger, ID: EditMenu_MenuItem
+	129 Vis, ID: ViewMenu_MenuItem
+	130 Sett inn
+	131 Formater
+	132 Verktøy
+	133 Tabell
+	134 Vindu, ID: WindowMenu_MenuItem
+	135 Hjelp, ID: HelpMenu_MenuItem

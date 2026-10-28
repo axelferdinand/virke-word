@@ -1,0 +1,131 @@
+<frame id="3492:2132" name="Feedback " x="36662" y="-24180" width="16144" height="6355">
+  <rounded-rectangle id="3497:2167" name="image 53" x="644" y="1846" width="1073" height="1015" />
+  <instance id="3492:2136" name="Component 15" x="1864" y="2518" width="1368" height="533.05517578125" />
+  <instance id="3497:2209" name="Component 24" x="1997" y="4327" width="1368" height="376.0552062988281" />
+  <instance id="3492:2188" name="Component 16" x="1541" y="3884.416015625" width="323" height="98" />
+  <instance id="3498:2222" name="Component 27" x="1434" y="4017" width="214.99998474121094" height="44" />
+  <instance id="3497:2214" name="Component 25" x="1426" y="5125" width="323" height="98.00000762939453" />
+  <frame id="3497:2173" name="Margins defined with auto-layout" x="592" y="3575.416015625" width="794" height="1123">
+    <frame id="3497:2174" name="Frame 1000002032" x="86" y="133" width="622" height="896">
+      <frame id="3497:2175" name="Frame 1000002036" x="0" y="0" width="622" height="147">
+        <text id="3497:2176" name="H1 Tittel som flyter over på flere linjer fordi den består av veldig mange bokstaver" x="0" y="0" width="622" height="72" />
+        <frame id="3497:2177" name="Frame 1000001522" x="0" y="90" width="622" height="57">
+          <text id="3497:2178" name="Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser. Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år." x="0" y="0" width="622" height="57" />
+        </frame>
+      </frame>
+      <frame id="3497:2179" name="Frame 1000002034" x="0" y="177" width="622" height="467">
+        <frame id="3497:2180" name="Frame 1000002110" x="0" y="0" width="622" height="326">
+          <frame id="3497:2181" name="Frame 1000002035" x="0" y="0" width="622" height="102">
+            <text id="3497:2182" name="H2 Underoverskrift som er litt mindre" x="0" y="0" width="622" height="27" />
+            <text id="3497:2183" name="Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser. Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år." x="0" y="45" width="622" height="57" />
+          </frame>
+          <frame id="3497:2184" name="Frame 1000002109" x="0" y="120" width="622" height="206">
+            <frame id="3497:2185" name="Frame 1000001524" x="0" y="0" width="622" height="91">
+              <text id="3497:2186" name="H3 Mindre underoverskrift" x="0" y="0" width="622" height="22" />
+              <text id="3497:2187" name="Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser. Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år." x="0" y="34" width="622" height="57" />
+            </frame>
+            <frame id="3497:2188" name="Frame 1000002036" x="0" y="115" width="622" height="91">
+              <text id="3497:2189" name="H3 Mindre underoverskrift" x="0" y="0" width="622" height="22" />
+              <text id="3497:2190" name="Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser. Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år." x="0" y="34" width="622" height="57" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="3497:2191" name="Frame 1000002037" x="0" y="356" width="622" height="111">
+          <text id="3497:2192" name="H1 Tittel over en linje lenger nede i artikkelen" x="0" y="0" width="622" height="36" />
+          <frame id="3497:2193" name="Frame 1000001522" x="0" y="54" width="622" height="57">
+            <text id="3497:2194" name="Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser. Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år." x="0" y="0" width="622" height="57" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="3497:2195" name="Group 23" x="86" y="48" width="622" height="1028">
+      <frame id="3497:2196" name="Frame 1000001516" x="86" y="48" width="622" height="16">
+        <instance id="3497:2197" name="Virke Logotype" x="0" y="0" width="49.999996185302734" height="16.609493255615234" hidden="true" />
+        <text id="3497:2198" name="Arbeidsmiljø, HMS og likestilling" x="0" y="0" width="159" height="16" />
+      </frame>
+      <frame id="3497:2199" name="Frame 1000001520" x="86" y="1060" width="622" height="16">
+        <text id="3497:2200" name="Side 1 av 4" x="0" y="0" width="55" height="16" />
+        <text id="3497:2201" name="[Tema]" x="589" y="0" width="33" height="16" />
+      </frame>
+    </frame>
+  </frame>
+  <rounded-rectangle id="3492:2176" name="image 47" x="1997" y="3261" width="1212" height="914" />
+  <vector id="3492:2179" name="Vector 4" x="2081.77734375" y="2326.0556640625" width="781.7771424156381" height="403.27287456419435" />
+  <vector id="3492:2181" name="Vector 28" x="2322" y="2950" width="237" height="280" />
+  <vector id="3497:2220" name="Vector 33" x="1375" y="1478" width="204" height="317" />
+  <vector id="3492:2187" name="Vector 29" x="1952" y="3744" width="531.9998395589137" height="461.13996339553705" />
+  <vector id="3497:2212" name="Vector 31" x="2933.591796875" y="4577" width="331.50021718379867" height="331.1148865561918" />
+  <vector id="3497:2213" name="Vector 32" x="1849.82421875" y="5089.8203125" width="668.5694445149202" height="706.6568581267857" />
+  <rounded-rectangle id="3492:2376" name="image 48" x="4227" y="1663" width="1314" height="497" />
+  <instance id="3492:2378" name="Component 18" x="4237" y="2250" width="1234" height="490" />
+  <instance id="3492:2379" name="Component 19" x="5654" y="2006" width="1189" height="465.05999755859375" />
+  <text id="3498:2267" name="Disse eksemplene viser hvor uryddig det ser ut med den ujevne spacingen vertikalt" x="6975" y="2277" width="1189" height="118" />
+  <text id="3498:2308" name="Det samme gjelder her:" x="6494" y="3669" width="285" height="118" />
+  <text id="3498:2314" name="Det bør se slik ut:" x="7518" y="3433" width="367" height="59" />
+  <instance id="3493:2427" name="Component 20" x="4461" y="5316" width="1189" height="490" />
+  <instance id="3498:2333" name="Component 30" x="5852" y="5371" width="1189" height="294" />
+  <rounded-rectangle id="3498:2282" name="image 60" x="8668" y="1466" width="764" height="826" />
+  <instance id="3493:2432" name="Component 23" x="8686" y="4032" width="844" height="415.0552062988281" />
+  <instance id="3498:2323" name="Component 29" x="12888" y="1818" width="931" height="573.0599975585938" />
+  <instance id="3498:2277" name="Component 28" x="10510" y="5479" width="844" height="376.0552062988281" />
+  <rounded-rectangle id="3493:2433" name="image 40" x="9554" y="4430" width="1497" height="999" />
+  <vector id="3493:2500" name="Vector 6" x="8997" y="4538" width="434.7580261230469" height="349.4054870605469" />
+  <text id="3497:2155" name="Feedback 27.10.26" x="269" y="285" width="3689" height="576" />
+  <rounded-rectangle id="3498:2226" name="image 56" x="1426" y="4077" width="268" height="366" />
+  <rounded-rectangle id="3497:2207" name="image 55" x="1997" y="4759" width="753" height="415" />
+  <vector id="3498:2221" name="Vector 34" x="2418.32373046875" y="3699.01220703125" width="155.21531677246094" height="139.69732666015625" />
+  <text id="3498:2228" name="Forbedring av rytme i luften før og etter overskrifter" x="309" y="1087" width="1915" height="356" />
+  <text id="3498:2230" name="Tabeller" x="4161" y="1087" width="1915" height="178" />
+  <text id="3498:2270" name="Tabeller" x="8623" y="1087" width="1915" height="178" />
+  <text id="3498:2315" name="Annet" x="12611" y="1087" width="1915" height="178" />
+  <text id="3498:2271" name="Innholdsfortegnelse" x="8623" y="3653" width="1915" height="178" />
+  <vector id="3498:2231" name="Vector 35" x="3678" y="1007" width="0" height="4763.5" />
+  <vector id="3498:2269" name="Vector 39" x="8427" y="1007" width="0" height="4763.5" />
+  <vector id="3498:2298" name="Vector 46" x="12146" y="1007" width="0" height="4763.5" />
+  <vector id="3498:2240" name="Vector 36" x="4168.3408203125" y="1791.45947265625" width="290.1488342285156" height="538.3636474609375" />
+  <rounded-rectangle id="3498:2245" name="image 57" x="5938" y="2561" width="719" height="701" />
+  <rounded-rectangle id="3498:2261" name="image 58" x="6833" y="2561" width="598" height="701" />
+  <vector id="3498:2247" name="Vector 37" x="5685" y="2501" width="434.7580261230469" height="349.4054870605469" />
+  <rounded-rectangle id="3498:2256" name="Rectangle 29" x="6187" y="2822" width="156" height="37" />
+  <rounded-rectangle id="3498:2265" name="Rectangle 33" x="6937" y="2980" width="156" height="18" />
+  <rounded-rectangle id="3498:2258" name="Rectangle 31" x="6187" y="2904" width="156" height="37" />
+  <rounded-rectangle id="3498:2257" name="Rectangle 30" x="6187" y="2777" width="156" height="28" />
+  <rounded-rectangle id="3498:2266" name="Rectangle 34" x="6934" y="2931" width="156" height="32" />
+  <rounded-rectangle id="3498:2259" name="Rectangle 32" x="6187" y="2859" width="156" height="28" />
+  <vector id="3498:2264" name="Vector 38" x="6727.00634765625" y="2430.28076171875" width="152.39427185058594" height="549.367431640625" />
+  <rounded-rectangle id="3498:2300" name="image 62" x="9228" y="5362" width="1100" height="825" />
+  <vector id="3498:2275" name="Vector 40" x="9659" y="5553" width="656" height="108" />
+  <vector id="3498:2276" name="Vector 41" x="10311.466796875" y="5593" width="171.85609436035156" height="0" />
+  <rounded-rectangle id="3498:2286" name="image 61" x="8676" y="2499" width="770" height="550" />
+  <frame id="3498:2295" name="Group 63" x="9689" y="2481" width="1439" height="729">
+    <rounded-rectangle id="3492:2409" name="image 50" x="9689" y="2481" width="839" height="729" />
+    <text id="3492:2418" name="?" x="10270" y="2481" width="187" height="587" />
+    <vector id="3498:2284" name="Vector 42" x="9727.47265625" y="2514.607421875" width="795.4188842773438" height="83.79267883300781" />
+    <instance id="3498:2288" name="Component 21" x="10546" y="2515" width="582" height="356.0552062988281" />
+  </frame>
+  <text id="3498:2294" name="Jeg finner innholdsblokkene inne her(Autotekst...). Men det hadde vært fint om de var mer tilgjengelige." x="9239" y="2071" width="471" height="200" />
+  <text id="3498:2297" name="F.eks i menylinjen" x="9739" y="2341" width="471" height="50" />
+  <vector id="3498:2292" name="Vector 43" x="9098.515625" y="1978.5162353515625" width="122.22079467773438" height="51.661014556884766" />
+  <vector id="3498:2293" name="Vector 44" x="9154.509765625" y="2026.47216796875" width="154.1031494140625" height="430.1517333984375" />
+  <vector id="3498:2296" name="Vector 45" x="9499.9501953125" y="2316.000732421875" width="284.4029846191406" height="149.90951538085938" />
+  <vector id="3498:2303" name="Vector 47" x="9624.1103515625" y="5135.3876953125" width="320.08544921875" height="39.86924743652344" />
+  <vector id="3498:2304" name="Vector 48" x="9877.0927734375" y="5175.30322265625" width="113.46247863769531" height="289.6822204589844" />
+  <rounded-rectangle id="3498:2306" name="image 63" x="6799" y="3475" width="495" height="441" />
+  <vector id="3498:2309" name="Vector 49" x="6729.84765625" y="3680.177734375" width="154.1936798095703" height="85.64844512939453" />
+  <vector id="3498:2313" name="Vector 50" x="7329" y="3680.177734375" width="154.1936798095703" height="85.64844512939453" />
+  <rounded-rectangle id="3498:2311" name="image 64" x="7518" y="3508" width="485" height="519" />
+  <rounded-rectangle id="3498:2317" name="image 65" x="12572" y="1446" width="853" height="291" />
+  <vector id="3498:2320" name="Vector 51" x="12749.51171875" y="1621.5064697265625" width="28.23900604248047" height="106.16995239257812" />
+  <vector id="3498:2321" name="Vector 52" x="12749.4814453125" y="1616.416259765625" width="50.24667739868164" height="0" />
+  <vector id="3498:2322" name="Vector 53" x="12650.1689453125" y="1664.1102294921875" width="152.8225555419922" height="226.7181396484375" />
+  <rounded-rectangle id="3498:2327" name="image 66" x="5546" y="4294" width="1188" height="897" />
+  <vector id="3498:2329" name="Vector 30" x="5731.35302734375" y="5038.81787109375" width="493.60828692492214" height="492.37842224694396" />
+  <vector id="3498:2331" name="Vector 54" x="5723.1201171875" y="4960.40771484375" width="64.68988800048828" height="123.68785095214844" />
+  <vector id="3498:2336" name="Vector 55" x="6505.6279296875" y="4718.65673828125" width="55.262367248535156" height="116.11141204833984" />
+  <vector id="3498:2337" name="Vector 56" x="6552.6220703125" y="4787.7041015625" width="145.23558044433594" height="536.054443359375" />
+  <rounded-rectangle id="3498:2340" name="image 67" x="7206" y="2461" width="1107" height="450" />
+  <vector id="3498:2342" name="Vector 57" x="7091.68017578125" y="2404.465576171875" width="55.012413024902344" height="120.94534301757812" />
+  <vector id="3498:2344" name="Vector 58" x="7399.87109375" y="2351.880126953125" width="151.4315948486328" height="238.73899841308594" />
+  <rounded-rectangle id="3498:2436" name="image 68" x="5232" y="5733" width="628" height="383" />
+</frame>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

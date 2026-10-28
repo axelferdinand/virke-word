@@ -1,0 +1,10 @@
+The following is a diff from the previous accessibility tree for Window: "02_Balance_scorecard" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~							279 row (disabled) Ny vanlig rad
++									424 container
++										425 tekstinnskrivingsområde (disabled, settable) Ny vanlig rad
+~		299 knapp 96 ord, Help: Antall ord i dokument. Klikk eller trykk for å åpne dialogboksen Ordtelling.
+~		300 knapp Kontrollerer om det finnes korrekturfeil.
+~				371 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Brødtekst), Secondary Actions: Confirm
+~				379 veksleknapp Fet, Value: off
+~			360 text Value: 02_Balance_scorecard Lagrer ..., ID: CUIDocumentShellWindowTitleLabel
+The focused UI element is 425 tekstinnskrivingsområde (disabled, settable) Ny vanlig rad

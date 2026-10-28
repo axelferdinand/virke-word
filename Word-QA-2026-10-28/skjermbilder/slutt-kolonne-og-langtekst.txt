@@ -1,0 +1,229 @@
+Window: "02_Balance_scorecard", App: Microsoft Word.
+0 standardvindu 02_Balance_scorecard, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/02_Balance_scorecard.docx, Secondary Actions: Raise
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 02_Balance_scorecard
+					5 container Description: Copilot-sammendrag, ID: Summary_Container_Test_ID
+						6 ukjent
+							7 tekstinnskrivingsområde Value: **Copilot-sammendrag**, ID: Initial_Header_ID
+						8 knapp Se etter nytt sammendrag
+						9 bilde Description: Informasjon, Help: Copilot analyserer innholdet i dette dokumentet så snart det åpnes, for å generere et sammendrag.
+						10 knapp Description: Utvid sammendrag, ID: Collapse_Expand_Summary_Button
+					11 container
+						12 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						13 Tabell, 3 Rader, 3 Kolonner, , 
+							14 row (disabled)
+								15 celle (disabled)
+									16 tekstinnskrivingsområde (disabled, settable) Periode: Oktober
+								17 celle (disabled)
+									18 tekstinnskrivingsområde (disabled, settable) 2026
+								19 celle (disabled)
+									20 tekstinnskrivingsområde (disabled, settable) 2027
+							21 row (disabled)
+								22 celle (disabled)
+									23 tekstinnskrivingsområde (disabled, settable) Omsetning denne måneden
+								24 celle (disabled)
+									25 container
+										26 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								27 celle (disabled)
+									28 container
+										29 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							30 row (disabled)
+								31 celle (disabled)
+									32 tekstinnskrivingsområde (disabled, settable) Oppnådd av budsjett
+								33 celle (disabled)
+									34 container
+										35 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								36 celle (disabled)
+									37 container
+										38 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							39 kolonne (disabled) Periode: Oktober
+							40 kolonne (disabled) 2026
+							41 kolonne (disabled) 2027
+						42 Tabell, 3 Rader, 3 Kolonner, , 
+							43 row (disabled)
+								44 celle (disabled)
+									45 tekstinnskrivingsområde (disabled, settable) Navn
+								46 celle (disabled)
+									47 tekstinnskrivingsområde (disabled, settable) Navn
+								48 celle (disabled)
+									49 tekstinnskrivingsområde (disabled, settable) Navn
+							50 row (disabled)
+								51 celle (disabled)
+									52 container
+										53 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								54 celle (disabled)
+									55 container
+										56 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								57 celle (disabled)
+									58 container
+										59 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							60 row (disabled)
+								61 celle (disabled)
+									62 container
+										63 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								64 celle (disabled)
+									65 container
+										66 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								67 celle (disabled)
+									68 container
+										69 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							70 kolonne (disabled) Navn
+							71 kolonne (disabled) Navn
+							72 kolonne (disabled) Navn
+						73 Tabell, 3 Rader, 4 Kolonner, , 
+							74 row (disabled) Første
+								75 celle (disabled)
+									76 tekstinnskrivingsområde (disabled, settable) Første
+								77 celle (disabled)
+									78 container
+										79 tekstinnskrivingsområde (disabled, settable) Ny kolonne
+								80 celle (disabled)
+									81 tekstinnskrivingsområde (disabled, settable) Andre
+								82 celle (disabled)
+									83 tekstinnskrivingsområde (disabled, settable) Tredje
+							84 row (disabled)
+								85 celle (disabled)
+								86 celle (disabled)
+								87 celle (disabled)
+								88 celle (disabled)
+							89 row (disabled)
+								90 celle (disabled)
+								91 celle (disabled)
+								92 celle (disabled)
+								93 celle (disabled)
+							94 kolonne (disabled) Første
+							95 kolonne (disabled) Ny kolonne
+							96 kolonne (disabled) Andre
+							97 kolonne (disabled) Tredje
+						98 tekstinnskrivingsområde (disabled, settable) Side 1-innhold
+						99 Felt page
+						100 Felt numpages
+						101 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	Balance scorecard
+				102 rullefelt (disabled, settable, float) 0
+					103 verdiindikator (disabled, settable, float) 0
+				104 rullefelt (disabled, settable, float) 0.2897669706180345
+					105 verdiindikator (disabled, settable, float) 0.2897669706180345
+		106 deler (disabled, settable, float) 1728
+	107 container Statuslinje
+		108 knapp Side 1 av 1, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten.
+		109 knapp 98 ord, Help: Antall ord i dokument. Klikk eller trykk for å åpne dialogboksen Ordtelling.
+		110 knapp Kontrollerer om det finnes korrekturfeil.
+		111 knapp Norsk (bokmål), Help: Språk
+		112 veksleknapp Tilgjengelighet: Alt er klart, Help: Tilgjengelighetskontrollen er fullført. Klikk her for å finne ut mer., Value: off
+		113 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		114 valgknapp Sideutforming, Value: 1
+		115 valgknapp Weboppsett, Value: 0
+		116 valgknapp Disposisjon, Value: 0
+		117 valgknapp Kladd, Value: 0
+		118 knapp Zoom ut
+		119 knapp Zoom inn
+		120 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			121 verdiindikator (settable, float) 1015
+		122 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+	123 fanegruppe Description: bånd, Details: Hjem
+		124 rullefeltområde Hjem-fanekommandoer
+			125 container
+				126 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				127 knapp (disabled) Klipp ut, Value: 0
+				128 knapp (disabled) Kopier, Value: 0
+				129 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			130 container
+				131 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					132 knapp
+				133 kombinert rute (settable) Description: Skriftstørrelse:, Value: 7,5, Secondary Actions: Confirm
+					134 knapp
+				135 knapp Øk skriftstørrelse, Value: 0
+				136 knapp Reduser skriftstørrelse, Value: 0
+				137 menyknapp Endre bokstavtype, Value: 0
+				138 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				139 veksleknapp Fet, Value: on
+				140 veksleknapp Kursiv, Value: off
+				141 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				142 veksleknapp Gjennomstreking, Value: off
+				143 veksleknapp Senket skrift, Value: off
+				144 veksleknapp Hevet skrift, Value: off
+				145 menyknapp Teksteffekter, Value: 0
+				146 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				147 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			148 container
+				149 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				150 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				151 menyknapp Liste med flere nivåer, Value: 0
+				152 knapp Reduser innrykk, Value: 0
+				153 knapp Øk innrykk, Value: 0
+				154 knapp Sorter, Value: 0
+				155 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				156 veksleknapp Venstrejuster, Value: on
+				157 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				158 veksleknapp Høyrejuster, Value: off
+				159 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				160 menyknapp Linje- og avsnittsavstand, Value: 0
+				161 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				162 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			163 container
+				164 galleri Description: Stiler, Help: galleri
+					165 knapp Description: ¶ Normal, Help: Normal, Value: 1, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					166 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					167 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					168 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					169 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					170 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					171 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					172 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				173 veksleknapp Stiler-rute, Value: off
+			174 veksleknapp Dikter, Help: Office-diktering, Value: off
+			175 menyknapp (disabled) Følsomhet, Value: 0
+			176 knapp Tillegg, Value: 0
+			177 container
+				178 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				179 veksleknapp Copilot, Value: off
+			180 container
+				181 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				182 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		183 fane Hjem, Help: Skjul båndet, Value: 1
+		184 fane Sett inn
+		185 fane Tegn
+		186 fane Utforming
+		187 fane Oppsett
+		188 fane Referanser
+		189 fane Masseutsendelser
+		190 fane Se gjennom
+		191 fane Visning
+		192 fane Acrobat
+		193 fane Tabellutforming
+		194 fane Tabelloppsett, Value: 0
+		195 knapp Kommentarer
+		196 knapp Redigering, Help: Modus for dokumenttilgang
+		197 knapp Del
+	198 verktøylinje
+		199 container Secondary Actions: Fjern fra verktøylinjen
+			200 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			201 knapp Hjem, Value: 0
+			202 knapp Lagre, Value: 0
+			203 menyknapp Angre Inntasting, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			204 knapp Gjenta Inntasting, Value: 0
+			205 knapp Skriv ut, Value: 0
+			206 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			207 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				208 knapp Søk
+			209 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			210 tekst Value: 02_Balance_scorecard, ID: CUIDocumentShellWindowTitleLabel
+			211 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	212 lukkeknapp
+	213 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	214 minimeringsknapp
+215 menu bar
+	216 Word, ID: AppMenu_MenuItem
+	217 (selected) Fil
+	218 Rediger, ID: EditMenu_MenuItem
+	219 Vis, ID: ViewMenu_MenuItem
+	220 Sett inn
+	221 Formater
+	222 Verktøy
+	223 Tabell
+	224 Vindu, ID: WindowMenu_MenuItem
+	225 Hjelp, ID: HelpMenu_MenuItem
+
+The focused UI element is 79 tekstinnskrivingsområde (disabled, settable) Ny kolonne

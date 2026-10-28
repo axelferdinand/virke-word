@@ -1,0 +1,29 @@
+Til Emil – revisjon 27. oktober 2026
+
+Tilbakemeldingene i Figma og Feedback.pdf er gjennomgått. H1/H3-avstand,
+fete tabellhoder ved vanlig innsetting, cellebalanse og avstand etter
+ferdige tabell- og signaturblokker er oppdatert og prøvd i Word.
+Virke-blokker er gjort tilgjengelig under Hjem og på Virke-fanen.
+De 17 eksempeldokumentene er oppdatert, kontrollert og frikoblet fra
+masterfilen. Komponentguiden 2.1 viser alle 21 redigerbare byggeblokker.
+
+Tre praktiske avgrensninger er dokumentert etter forsøk i Word for Mac:
+• Rosa punkttegn fås stabilt med stilen Punktliste. Bindestrek + mellomrom
+  og Words vanlige punktlisteknapp bruker fortsatt Words egne standarder.
+• Virke-fortegnelsen vises ikke som et eget valg i Mac-versjonens vanlige
+  galleri. Den finnes via Virke-blokker, og en synlig Virke-knapp åpner
+  dialogen for innholdsfortegnelse med Fra mal og tre nivåer.
+• Den faste luften etter tabeller følger Virke-blokkene. En vilkårlig ny
+  tabell fra Sett inn > Tabell får korrekte tabellhoder og cellemarger,
+  men Word har ikke en tilsvarende tabellstil-egenskap for luft utenfor
+  en tabell som står i vanlig tekstflyt. Det er ikke lovet automatisk
+  18 pt etter alle vilkårlige nyinnsatte tabeller.
+
+De tidligere kosmetiske TOC-avvikene består: øverste skillelinje og
+svarte sidetall på første nivå etter full oppdatering. Innhold, sidetall
+og klikkbare henvisninger fungerer. Tidligere forsøk på å endre dette
+påvirket andre deler av fortegnelsen; disse variantene er ikke brukt.
+
+Dette er kontrollert i Word for Mac. Windows og Word på nett er ikke
+verifisert i denne revisjonen. Designvurderingene er holdt utenfor den
+praktiske brukerveiledningen.

@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-27",
+  "source_figma": "https://www.figma.com/design/lVyfrpIkkovSokMCJrG3GD/Virke-Design-system?node-id=3492-2132",
+  "source_pdf": "/Users/afg/Desktop/Feedback.pdf",
+  "baseline": "Virke-med-komponentguide-2026-10-21",
+  "status": "completed_with_documented_limitations",
+  "requirements": [
+    {
+      "id": "H1",
+      "node": "3492:2136",
+      "requirement": "Overskrift 1: 22,5 pt før og 13,5 pt etter; også riktig rytme midt i løpende tekst.",
+      "status": "passed",
+      "proof": "Stil- og overstyringsaudit; Word-test av ny H1, flerlint H1 og H1 ved sideskift.",
+      "evidence": "Stilaudit i master og alle 17 eksempler; ny H1, flerlint H1 og H1 etter sideskift i fersk masterkopi; eksempler 14/15 og guide."
+    },
+    {
+      "id": "H3",
+      "node": "3497:2209",
+      "requirement": "Overskrift 3: 18 pt før og 9 pt etter.",
+      "status": "passed",
+      "proof": "Stilaudit og Word-test av gjentatte H3 i løpende tekst.",
+      "evidence": "18 pt før og 9 pt etter i stilaudit; gjentatte H3 prøvd i fersk masterkopi og visuelt kontrollert."
+    },
+    {
+      "id": "TABLE-HEADER",
+      "node": "3492:2378",
+      "requirement": "Tabeller opprettet via vanlig Sett inn får Clan Bold i overskriftsraden, også ved utfylling og nye kolonner.",
+      "status": "passed",
+      "proof": "Native Word: ny tabell fra båndet, fyll første og øvrige hodeceller, legg til kolonne og rad, kontroller bevart fet skrift i hoder og normal skrift i kroppen.",
+      "evidence": "Vanlig Sett inn > Tabell 3x3; utfylte overskrifter og ny kolonne forble fete. Ny datarad beholdt normal skrift. Lange tekster brytes."
+    },
+    {
+      "id": "CELL-BALANCE",
+      "node": "3492:2379",
+      "requirement": "Balansert vertikal luft i cellene med mer toppmarg og mindre bunnmarg. Omfatter vanlige tabeller, skjema og tabellbaserte moduler.",
+      "status": "passed",
+      "proof": "Sammenlign Word og PDF med feedbackbildene 3498:2340, 3498:2306 og 3498:2311; test flerlinjet tekst.",
+      "evidence": "Vanlige celler 9 pt topp / 3 pt bunn; særskilte sum- og signaturoppsett bevart. Alle eksempelsider og 21 guidekomponenter kontrollert."
+    },
+    {
+      "id": "TABLE-GAP",
+      "node": "3493:2427",
+      "requirement": "Vanlige tabeller: 9 pt før og 18 pt etter, uten manuell innsetting av tomme linjer.",
+      "status": "implemented_with_scope_limit",
+      "proof": "Native Word-innsetting og stabling av tabellblokker med tekst før og etter; eksempel 16 og guide kontrolleres.",
+      "evidence": "18 pt etter ferdige Virke-tabellblokker bekreftet ved faktisk innsetting og umiddelbar skriving. 9 pt før i statiske eksempler; 18 pt mellom tilstøtende datatabeller. Vilkårlig vanlig Sett inn-tabell arver ikke automatisk en ytre tabellavstand fra en tabellstil."
+    },
+    {
+      "id": "MODULE-GAP",
+      "node": "3498:2333",
+      "requirement": "Signaturer, sakslisteblokker og oppsummeringsfelt: 9 pt etter.",
+      "status": "passed_representative_native_test",
+      "proof": "Innsetting av alle berørte blokker fra masteren, kontroll av avstand uten ekstra Enter.",
+      "evidence": "9 pt etter Signatur bekreftet ved innsetting og skriving. Samme konstruksjon auditert for Saksliste og beløpsoppsummering; alle berørte komponenter gjennomgått i Word-guiden."
+    },
+    {
+      "id": "DISCOVERABILITY",
+      "node": "3498:2294",
+      "requirement": "Enklere synlig tilgang til innholdsblokker i menylinje/bånd, med forståelige navn og minst mulig leting.",
+      "status": "passed_mac_workflow",
+      "proof": "Nytt dokument fra DOTX, etter lagring og gjenåpning: finn og sett inn tabell og signatur via synlig kontroll.",
+      "evidence": "Virke-blokker synlig under Hjem og Virke. Knappen åpner dialogen; fanen Autotekst og Søk i master gir tilgang til blokkene. Ingen makroer."
+    },
+    {
+      "id": "TOC-ACCESS",
+      "node": "3493:2432",
+      "requirement": "Virkes innholdsfortegnelse skal være lett å finne og sette inn, helst i den vanlige oversikten for innholdsfortegnelser.",
+      "status": "implemented_with_mac_gallery_limit",
+      "proof": "Nytt dokument: opprett overskrifter, finn Virke-fortegnelsen, sett inn, fulloppdater, naviger og gjenåpne.",
+      "evidence": "Synlig Virke-knapp åpner dialog med Fra mal/tre nivåer. Innsetting, ny overskrift, full oppdatering og navigasjon prøvd. Egen gallerioppføring vises ikke i Mac-galleriet etter forsøk med begge oppføringstyper."
+    },
+    {
+      "id": "BULLETS",
+      "node": "3498:2323",
+      "requirement": "Rosa runde punkttegn som standard ved bindestrek+mellomrom og bruk av punktlisteknappen; svart brødtekst.",
+      "status": "default_not_achieved_style_fallback_verified",
+      "proof": "Native Word i nytt dokument: tast bindestrek og mellomrom separat, skriv, Enter, innrykk og retur; test også vanlig punktlisteknapp. Eventuelle plattformbegrensninger skal dokumenteres med forsøk, ikke antas.",
+      "evidence": "Bindestrek+mellomrom gav svart strek. Vanlig punktlisteknapp gav svart prikk i nytt dokument. Punktliste-stilen gir rosa rund prikk og svart tekst og fortsetter med Enter. Ingen endring av brukerens globale Word-innstillinger."
+    }
+  ],
+  "delivery_gates": [
+    "Alle krav implementert eller konkret begrensning dokumentert etter reelle forsøk.",
+    "Master og berørte eksempler oppdatert; originalene bevart; ingen QA-tekst i leveransen.",
+    "Alle 21 eksisterende offentlige byggeblokker bevart og funksjonstestet.",
+    "Veiledningen oppdatert som redigerbar komponentguide, alle sider kontrollert i Word, PDF eksportert fra Word og alle PDF-sider visuelt kontrollert.",
+    "Veiledningens versjon, dato og masterhash ajourført. Ingen Figma-avvik i brukerveiledningen.",
+    "Fonter, master, eksempler, DOCX- og PDF-guide i ny kontrollert ZIP. Ingen commit/push."
+  ],
+  "detachment": {
+    "status": "passed",
+    "evidence": "17 DOCX uten malrelasjon, ekstern relasjon eller automatisk stil-/feltoppdatering; åpnet uten varsel i Word."
+  },
+  "verification_scope": "All 21 blocks were inserted in the earlier baseline test. This revision repeats changed behaviors with representative native insertions and reviews every component in the rebuilt guide. It does not claim 21 separate new insertion tests on 27 October."
+}

@@ -1,0 +1,168 @@
+Window: "03_Utfyllingsskjema", App: Microsoft Word.
+0 standardvindu 03_Utfyllingsskjema, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/03_Utfyllingsskjema.docx, Secondary Actions: Raise
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 03_Utfyllingsskjema
+					5 container
+						6 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						7 Tabell, 6 Rader, 2 Kolonner, , 
+							8 row (disabled)
+								9 celle (disabled)
+									10 container
+										11 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+								12 celle (disabled)
+									13 container
+										14 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+							15 row (disabled)
+								16 celle (disabled)
+									17 container
+										18 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+								19 celle (disabled)
+									20 container
+										21 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+							22 row (disabled)
+								23 celle (disabled)
+									24 container
+										25 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+								26 celle (disabled)
+									27 container
+										28 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+							29 row (disabled)
+								30 celle (disabled) 0-1
+									31 container 0-1
+										32 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+							33 row (disabled)
+								34 celle (disabled) 0-1
+									35 container 0-1
+										36 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+							37 row (disabled)
+								38 celle (disabled) 0-1
+									39 container 0-1
+										40 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+						41 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Utfyllingsskjema
+Tabell, 6 Rader, 2 Kolonner, ,  
+						42 Felt page
+						43 Felt numpages
+						44 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	Utfyllingsskjema
+				45 rullefelt (disabled, settable, float) 0
+					46 verdiindikator (disabled, settable, float) 0
+				47 rullefelt (disabled, settable, float) 0
+					48 verdiindikator (disabled, settable, float) 0
+		49 deler (disabled, settable, float) 1728
+	50 container Statuslinje
+		51 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		52 valgknapp Sideutforming, Value: 1
+		53 valgknapp Weboppsett, Value: 0
+		54 valgknapp Disposisjon, Value: 0
+		55 valgknapp Kladd, Value: 0
+		56 knapp Zoom ut
+		57 knapp Zoom inn
+		58 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			59 verdiindikator (settable, float) 1015
+		60 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+		61 tekst 03_Utfyllingsskjema.docx: 151 tegn (omtrentlig verdi).
+	62 fanegruppe Description: bånd, Details: Hjem
+		63 rullefeltområde Hjem-fanekommandoer
+			64 container
+				65 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				66 knapp (disabled) Klipp ut, Value: 0
+				67 knapp (disabled) Kopier, Value: 0
+				68 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			69 container
+				70 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					71 knapp
+				72 kombinert rute (settable) Description: Skriftstørrelse:, Value: 18, Secondary Actions: Confirm
+					73 knapp
+				74 knapp Øk skriftstørrelse, Value: 0
+				75 knapp Reduser skriftstørrelse, Value: 0
+				76 menyknapp Endre bokstavtype, Value: 0
+				77 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				78 veksleknapp Fet, Value: on
+				79 veksleknapp Kursiv, Value: off
+				80 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				81 veksleknapp Gjennomstreking, Value: off
+				82 veksleknapp Senket skrift, Value: off
+				83 veksleknapp Hevet skrift, Value: off
+				84 menyknapp Teksteffekter, Value: 0
+				85 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				86 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			87 container
+				88 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				89 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				90 menyknapp Liste med flere nivåer, Value: 0
+				91 knapp Reduser innrykk, Value: 0
+				92 knapp Øk innrykk, Value: 0
+				93 knapp Sorter, Value: 0
+				94 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				95 veksleknapp Venstrejuster, Value: on
+				96 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				97 veksleknapp Høyrejuster, Value: off
+				98 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				99 menyknapp Linje- og avsnittsavstand, Value: 0
+				100 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				101 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			102 container
+				103 galleri Description: Stiler, Help: galleri
+					104 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					105 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					106 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					107 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					108 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					109 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					110 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					111 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				112 veksleknapp Stiler-rute, Value: off
+			113 veksleknapp Dikter, Help: Office-diktering, Value: off
+			114 menyknapp (disabled) Følsomhet, Value: 0
+			115 knapp Tillegg, Value: 0
+			116 container
+				117 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				118 veksleknapp Copilot, Value: off
+			119 container
+				120 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				121 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		122 fane Hjem, Help: Skjul båndet, Value: 1
+		123 fane Sett inn
+		124 fane Tegn
+		125 fane Utforming
+		126 fane Oppsett
+		127 fane Referanser
+		128 fane Masseutsendelser
+		129 fane Se gjennom
+		130 fane Visning
+		131 fane Acrobat
+		132 knapp Kommentarer
+		133 knapp Redigering, Help: Modus for dokumenttilgang
+		134 knapp Del
+	135 verktøylinje
+		136 container Secondary Actions: Fjern fra verktøylinjen
+			137 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			138 knapp Hjem, Value: 0
+			139 knapp Lagre, Value: 0
+			140 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			141 knapp (disabled) Kan ikke gjenta, Value: 0
+			142 knapp Skriv ut, Value: 0
+			143 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			144 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				145 knapp Søk
+			146 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			147 text Value: 03_Utfyllingsskjema Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			148 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	149 lukkeknapp
+	150 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	151 minimeringsknapp
+152 menu bar
+	153 Word, ID: AppMenu_MenuItem
+	154 Fil
+	155 Rediger, ID: EditMenu_MenuItem
+	156 Vis, ID: ViewMenu_MenuItem
+	157 Sett inn
+	158 Formater
+	159 Verktøy
+	160 Tabell
+	161 Vindu, ID: WindowMenu_MenuItem
+	162 Hjelp, ID: HelpMenu_MenuItem
+
+The focused UI element is 41 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Utfyllingsskjema
+Tabell, 6 Rader, 2 Kolonner, ,  

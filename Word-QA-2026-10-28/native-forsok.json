@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-28",
+  "platform": "Microsoft Word for Mac",
+  "method": "Built-in computer use, mutations restricted to QA copies",
+  "status": "passed_with_documented_platform_scope",
+  "all_examples_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "example_pages": 18,
+  "tests": [
+    {
+      "id": "BASELINE-REPRO",
+      "result": "9 pt reproduced in the 27 October package"
+    },
+    {
+      "id": "NATIVE-INSERT",
+      "result": "7.5 pt all header/body cells; header bold and body regular in a fresh master document and example 02 copy"
+    },
+    {
+      "id": "REOPEN",
+      "result": "First header stays bold 7.5 pt after save/reopen",
+      "evidence": "sluttkontroll/02_Balance_scorecard.docx"
+    },
+    {
+      "id": "COLUMN",
+      "result": "Inserted header column bold 7.5 pt",
+      "evidence": "skjermbilder/slutt-kolonne-og-langtekst.png"
+    },
+    {
+      "id": "ROW",
+      "result": "Tab creates fourth row; 7.5 pt Clan body, bold off",
+      "evidence": "skjermbilder/slutt-ny-rad.txt"
+    },
+    {
+      "id": "AUTOTEXT",
+      "result": "Inserted final master 3-column block; first header filled; bold 7.5 pt",
+      "evidence": "skjermbilder/master-autotekst-header-verdier.txt"
+    },
+    {
+      "id": "GUIDE",
+      "result": "18 Word pages and 18 Word PDF pages reviewed; 21 actual components; native field update passed",
+      "evidence": "guide-review-final.json"
+    }
+  ]
+}

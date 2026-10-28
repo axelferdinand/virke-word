@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-27",
+  "guide_version": "2.1",
+  "master_sha256": "d2f20b2236e365aef203adfc1757d1955d4f1ffcbf43ac8628d940be9c5bf784",
+  "guide_docx_sha256": "f38654235bd548f8e8f3e86b5bb5aedd2d051944f430112e11a8eb248643da35",
+  "guide_pdf_sha256": "ef846231fd164ed940e9055724cd4731c69bd03ed7dc38f875415107a261f7eb",
+  "platform": "Word for Mac",
+  "example_documents": 17,
+  "example_pages": 18,
+  "guide_pages": 18,
+  "components": 21,
+  "guide_pdf_annotations": 24,
+  "files": [
+    {
+      "file": "01_Protokoll_styremote.docx",
+      "sha256": "f86a90c68ea6e64616a41335e7f95cf36e81324a999c4a4cdf1141be138dfc38",
+      "bytes": 141320
+    },
+    {
+      "file": "02_Balance_scorecard.docx",
+      "sha256": "b19e3f65e77f3025a93c709da72a6518d390788a9d3f82f46afac3047f290bd5",
+      "bytes": 139723
+    },
+    {
+      "file": "03_Utfyllingsskjema.docx",
+      "sha256": "38a873b2fec27935692b53c3dbd80c437ebb71530cbc4bfb27137be08758ea3f",
+      "bytes": 139424
+    },
+    {
+      "file": "04_Aksjeeierbok_liggende.docx",
+      "sha256": "5192635c25fc6d9670981955ae46d12832ccfc8b73ade5cea98c5a3ef8a1efac",
+      "bytes": 141032
+    },
+    {
+      "file": "05_Protokoll_liggende_ni_kolonner.docx",
+      "sha256": "18d6d9be947b52364143ec599f9453066660d81f5ac2cbb8b4760b7c2a8d2858",
+      "bytes": 140781
+    },
+    {
+      "file": "06_Protokoll_Prototypen_AS.docx",
+      "sha256": "ae19c1ccecb4b624cf0b35183a07559e5a911504832fddd0c257716625003b50",
+      "bytes": 140684
+    },
+    {
+      "file": "07_Innholdsfortegnelse_og_avtale.docx",
+      "sha256": "5b126e0ba984b1ec0a522b02e1c0e461598f11135f9c297a1e142e1ca36f0623",
+      "bytes": 140644
+    },
+    {
+      "file": "08_Avtalemal.docx",
+      "sha256": "dedcf55c0eda417ba8a23d20449ce07a405316acc60bf6ffcc6e4f622a828291",
+      "bytes": 140428
+    },
+    {
+      "file": "09_Sjekkliste_arsregnskap.docx",
+      "sha256": "b17da36dc3f5d663ee2c1a2dae45219276f19a12be7a2f145a92eab75538db04",
+      "bytes": 140121
+    },
+    {
+      "file": "10_Utviklingssamtale.docx",
+      "sha256": "a36be9a0165d48728a8c352114a0c327e8cecd18a2c0e9349fcaff6d6e797df1",
+      "bytes": 140413
+    },
+    {
+      "file": "11_Diagrammer.docx",
+      "sha256": "504cdd61ac71576e50c81e9c96ef74547eebc24e2b718a066ab274018ac66800",
+      "bytes": 134321
+    },
+    {
+      "file": "12_Tekststiler_Clan.docx",
+      "sha256": "d1e0284f9ef18562d4150701eabe44707f95b4b4ddca83bc79519d9de95fc790",
+      "bytes": 140505
+    },
+    {
+      "file": "13_Tekststiler_Arial.docx",
+      "sha256": "ed08d2b28e7b3e53303b2bdb0e8b34376dba312e3881c18dae0e8886706378c6",
+      "bytes": 142006
+    },
+    {
+      "file": "14_Marger_og_tekstflyt.docx",
+      "sha256": "2f57e5d536f3b6bdce0101551b89293e0a64824af3a9a1e47b6d1422456f3327",
+      "bytes": 140780
+    },
+    {
+      "file": "15_Avstand_mellom_tekststiler.docx",
+      "sha256": "827177c9158a1d00154a395975653e6bd5c9065bc9f6f707daf8dfa7c099777d",
+      "bytes": 141054
+    },
+    {
+      "file": "16_Avstand_tabeller_og_signatur.docx",
+      "sha256": "cf8c1dac59475ce74efd7036c72cc05fce5394be77d7dbf6f44b83ef48b49ddc",
+      "bytes": 143009
+    },
+    {
+      "file": "17_Flernivanummerering_og_saksliste.docx",
+      "sha256": "4a53b8edbd1b014a879abdfc0875a284d3b18e41c3ec63f51f81fc315fea3ea9",
+      "bytes": 142432
+    },
+    {
+      "file": "Fonter/ClanOffc-Bold.ttf",
+      "sha256": "50ee4716fdff0aea424ef900a45b1cf8d4c51b550f2d0e8c58d0071514698ae0",
+      "bytes": 100876
+    },
+    {
+      "file": "Fonter/ClanOffc-News.ttf",
+      "sha256": "f281515f9d9e341199180c528eee305353ed40b3a9fc85168ef84ebda5f7b6bd",
+      "bytes": 100812
+    },
+    {
+      "file": "Fonter/INSTALLASJON.txt",
+      "sha256": "3d58080075865548caa25d9d66c0ca83d09f5ce57d75acb71b9abe4098239fb9",
+      "bytes": 421
+    },
+    {
+      "file": "Notat_til_Emil.txt",
+      "sha256": "e699cb435251b1345ef2203e7185f9b1e42afb214903f36fb2d29c0d4ec825b4",
+      "bytes": 1705
+    },
+    {
+      "file": "START_HER.txt",
+      "sha256": "f01cbe3f96235ab403df899b52fb500216dfb50fc2ff1b499ae0abd95b22d86f",
+      "bytes": 1359
+    },
+    {
+      "file": "TESTRESULTATER.txt",
+      "sha256": "018deb80effce57953411632a71bb7a1a3fc2ba4846010f73f2c877556bce1f4",
+      "bytes": 4002
+    },
+    {
+      "file": "Virke_master_test.dotx",
+      "sha256": "d2f20b2236e365aef203adfc1757d1955d4f1ffcbf43ac8628d940be9c5bf784",
+      "bytes": 138333
+    },
+    {
+      "file": "Virke_mastermal_brukerveiledning.docx",
+      "sha256": "f38654235bd548f8e8f3e86b5bb5aedd2d051944f430112e11a8eb248643da35",
+      "bytes": 158384
+    },
+    {
+      "file": "Virke_mastermal_brukerveiledning.pdf",
+      "sha256": "ef846231fd164ed940e9055724cd4731c69bd03ed7dc38f875415107a261f7eb",
+      "bytes": 218498
+    }
+  ]
+}

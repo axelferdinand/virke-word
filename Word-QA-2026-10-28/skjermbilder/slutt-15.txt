@@ -1,0 +1,143 @@
+Window: "15_Avstand_mellom_tekststiler", App: Microsoft Word.
+0 standardvindu 15_Avstand_mellom_tekststiler, Secondary Actions: Raise, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/15_Avstand_mellom_tekststiler.docx
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 15_Avstand_mellom_tekststiler
+					5 container Description: Copilot-sammendrag, ID: Summary_Container_Test_ID
+						6 ukjent Copilot-sammendrag
+							7 tekstinnskrivingsområde Value: **Copilot-sammendrag**, ID: Initial_Header_ID
+						8 bilde Description: Informasjon, Help: Copilot analyserer innholdet i dette dokumentet så snart det åpnes, for å generere et sammendrag.
+						9 knapp Description: Utvid sammendrag, ID: Collapse_Expand_Summary_Button
+					10 container
+						11 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						12 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Tittel som flyter over på flere linjer fordi den består av veldig mange bokstaver
+Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.
+Underoverskrift som er litt mindre
+Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.
+Mindre underoverskrift
+Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.
+Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.
+Mindre underoverskrift
+Kort om året [årstall]. Året har vært preget av stabil omsetning, implementering av nye elektroniske løsninger, samt fokus på interne prosesser.  Det har vært to nyansettelser, begge har bred erfaring fra salgs- og markedsføring. Spennende utsikter for kommende år.
+						13 Felt page
+						14 Felt numpages
+						15 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	Avstand mellom tekststiler
+				16 rullefelt (disabled, settable, float) 0
+					17 verdiindikator (disabled, settable, float) 0
+				18 rullefelt (disabled, settable, float) 0.2897669706180345
+					19 verdiindikator (disabled, settable, float) 0.2897669706180345
+		20 deler (disabled, settable, float) 1728
+	21 container Statuslinje
+		22 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		23 valgknapp Sideutforming, Value: 1
+		24 valgknapp Weboppsett, Value: 0
+		25 valgknapp Disposisjon, Value: 0
+		26 valgknapp Kladd, Value: 0
+		27 knapp Zoom ut
+		28 knapp Zoom inn
+		29 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			30 verdiindikator (settable, float) 1015
+		31 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+		32 tekst 15_Avstand_mellom_tekststiler.docx: 1 219 tegn (omtrentlig verdi).
+	33 fanegruppe Description: bånd, Details: Hjem
+		34 rullefeltområde Hjem-fanekommandoer
+			35 container
+				36 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				37 knapp (disabled) Klipp ut, Value: 0
+				38 knapp (disabled) Kopier, Value: 0
+				39 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			40 container
+				41 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					42 knapp
+				43 kombinert rute (settable) Description: Skriftstørrelse:, Value: 18, Secondary Actions: Confirm
+					44 knapp
+				45 knapp Øk skriftstørrelse, Value: 0
+				46 knapp Reduser skriftstørrelse, Value: 0
+				47 menyknapp Endre bokstavtype, Value: 0
+				48 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				49 veksleknapp Fet, Value: on
+				50 veksleknapp Kursiv, Value: off
+				51 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				52 veksleknapp Gjennomstreking, Value: off
+				53 veksleknapp Senket skrift, Value: off
+				54 veksleknapp Hevet skrift, Value: off
+				55 menyknapp Teksteffekter, Value: 0
+				56 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				57 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			58 container
+				59 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				60 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				61 menyknapp Liste med flere nivåer, Value: 0
+				62 knapp Reduser innrykk, Value: 0
+				63 knapp Øk innrykk, Value: 0
+				64 knapp Sorter, Value: 0
+				65 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				66 veksleknapp Venstrejuster, Value: on
+				67 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				68 veksleknapp Høyrejuster, Value: off
+				69 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				70 menyknapp Linje- og avsnittsavstand, Value: 0
+				71 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				72 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			73 container
+				74 galleri Description: Stiler, Help: galleri
+					75 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					76 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					77 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					78 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					79 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					80 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					81 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					82 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				83 veksleknapp Stiler-rute, Value: off
+			84 veksleknapp Dikter, Help: Office-diktering, Value: off
+			85 menyknapp (disabled) Følsomhet, Value: 0
+			86 knapp Tillegg, Value: 0
+			87 container
+				88 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				89 veksleknapp Copilot, Value: off
+			90 container
+				91 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				92 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		93 fane Hjem, Help: Skjul båndet, Value: 1
+		94 fane Sett inn
+		95 fane Tegn
+		96 fane Utforming
+		97 fane Oppsett
+		98 fane Referanser
+		99 fane Masseutsendelser
+		100 fane Se gjennom
+		101 fane Visning
+		102 fane Acrobat
+		103 knapp Kommentarer
+		104 knapp Redigering, Help: Modus for dokumenttilgang
+		105 knapp Del
+	106 verktøylinje
+		107 container Secondary Actions: Fjern fra verktøylinjen
+			108 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			109 knapp Hjem, Value: 0
+			110 knapp Lagre, Value: 0
+			111 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			112 knapp (disabled) Kan ikke gjenta, Value: 0
+			113 knapp Skriv ut, Value: 0
+			114 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			115 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				116 knapp Søk
+			117 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			118 text Value: 15_Avstand_mellom_tekststiler Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			119 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	120 lukkeknapp
+	121 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	122 minimeringsknapp
+123 menu bar
+	124 Word, ID: AppMenu_MenuItem
+	125 Fil
+	126 Rediger, ID: EditMenu_MenuItem
+	127 Vis, ID: ViewMenu_MenuItem
+	128 Sett inn
+	129 Formater
+	130 Verktøy
+	131 Tabell
+	132 Vindu, ID: WindowMenu_MenuItem
+	133 Hjelp, ID: HelpMenu_MenuItem

@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-21",
+  "guide_version": "1.3",
+  "master_sha256": "74d641efa36287eeb70d34cd38036d2c09de31288e5d1d1a6e22399752e44740",
+  "docx_sha256": "c8c66011a2502ca1eafbbffcc7c3e7157c7001da8f13ba25ccb4318649681985",
+  "pdf_sha256": "7cc779e712de71ef4836899a262a5d3cb5b4aa0a09d3fbccc05d9a6d843ea3ac",
+  "native_word_review": "passed",
+  "native_word_pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "docx_render_pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "pdf_pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "pdf_source": "Word-QA-2026-10-21/toc-etterkontroll/Veiledning-1.3.pdf",
+  "docx_test_copy": "Word-QA-2026-10-21/toc-etterkontroll/Veiledning-1.3.docx",
+  "pdf_fonts": "All font subsets embedded, including Clan Offc News and Bold",
+  "pdf_links": 3,
+  "review": "Alle sju sider visuelt inspisert i Word, DOCX-render og Word-eksportert PDF. Ingen klipping eller overlapp. Side 1–7 av 7 korrekt. Designmerknaden og instruks om manuell fargejustering er fjernet. Testkopien er byteidentisk med DOCX-kilden på disk.",
+  "page_image_sha256": {
+    "page-1.png": "181ef2e30ff36f26d3c75be74072d4412f2c42599ccdc65709bac17ef180953e",
+    "page-2.png": "e5528da87968f9de5e718709100c27711dd88d0366bccd0373edb26e8747a575",
+    "page-3.png": "0312819650051a071bf895941f252b4fc741ca811e3e591729c5756f8f4ede5d",
+    "page-4.png": "ca26d1ab24cb64b206fbec90434d85c32b3baa8deec4bd6a5358a4113384a6e5",
+    "page-5.png": "756ca65d98dc663b3815482aa5b9c1925977491251a0ca0f963d9c2f41b413e3",
+    "page-6.png": "03d599d4138d3f82a92c7aa17adc330f2950c17d804245f8817d7dbab0fac260",
+    "page-7.png": "6bb3ef076b2b7747bfcdc8d47854d52888d83c7108f23da58f0449fbc2ab3d97"
+  }
+}

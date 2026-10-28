@@ -1,0 +1,377 @@
+<w:docPart xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+  <w:docPartPr>
+    <w:name w:val="Signatur"/>
+    <w:style w:val="Normal"/>
+    <w:category>
+      <w:name w:val="Virke"/>
+      <w:gallery w:val="autoTxt"/>
+    </w:category>
+    <w:types>
+      <w:type w:val="autoExp"/>
+      <w:type w:val="toolbar"/>
+    </w:types>
+    <w:behaviors>
+      <w:behavior w:val="content"/>
+    </w:behaviors>
+    <w:guid w:val="{3AE6C958-5D23-42C3-B60F-1F0B3791176C}"/>
+  </w:docPartPr>
+  <w:docPartBody>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="9330" w:type="dxa"/>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="nil" w:sz="6" w:color="CACACA"/>
+          <w:left w:val="nil" w:sz="6" w:color="CACACA"/>
+          <w:bottom w:val="nil" w:sz="6" w:color="CACACA"/>
+          <w:right w:val="nil" w:sz="6" w:color="CACACA"/>
+          <w:insideH w:val="nil" w:sz="6" w:color="CACACA"/>
+          <w:insideV w:val="nil" w:sz="6" w:color="CACACA"/>
+        </w:tblBorders>
+        <w:tblLayout w:type="fixed"/>
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa"/>
+          <w:left w:w="0" w:type="dxa"/>
+          <w:bottom w:w="0" w:type="dxa"/>
+          <w:right w:w="0" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="0000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="1" w:noVBand="1"/>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="2910"/>
+        <w:gridCol w:w="300"/>
+        <w:gridCol w:w="2910"/>
+        <w:gridCol w:w="300"/>
+        <w:gridCol w:w="2910"/>
+      </w:tblGrid>
+      <w:tr>
+        <w:trPr>
+          <w:cantSplit/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="9330" w:type="dxa"/>
+            <w:gridSpan w:val="5"/>
+            <w:tcMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="630" w:type="dxa"/>
+              <w:right w:w="0" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Normal"/>
+              <w:keepNext w:val="1"/>
+              <w:spacing w:after="0"/>
+            </w:pPr>
+            <w:sdt>
+              <w:sdtPr>
+                <w:rPr>
+                  <w:color w:val="000000"/>
+                </w:rPr>
+                <w:alias w:val="Sted"/>
+                <w:placeholder>
+                  <w:docPart w:val="VIRKE_PH_7CD0AF0204E546568739EE7BB4B13561"/>
+                </w:placeholder>
+                <w:showingPlcHdr/>
+                <w:temporary/>
+                <w:id w:val="170000720"/>
+                <w:tag w:val="virke_170000001"/>
+              </w:sdtPr>
+              <w:sdtContent>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="C9007F"/>
+                  </w:rPr>
+                  <w:t xml:space="preserve">[Sted]</w:t>
+                </w:r>
+              </w:sdtContent>
+            </w:sdt>
+            <w:r>
+              <w:t xml:space="preserve"> / </w:t>
+            </w:r>
+            <w:sdt>
+              <w:sdtPr>
+                <w:rPr>
+                  <w:color w:val="000000"/>
+                </w:rPr>
+                <w:alias w:val="dato"/>
+                <w:placeholder>
+                  <w:docPart w:val="VIRKE_PH_56D3930166764413B4C27CD5F481D6BD"/>
+                </w:placeholder>
+                <w:showingPlcHdr/>
+                <w:temporary/>
+                <w:id w:val="170000721"/>
+                <w:tag w:val="virke_170000003"/>
+              </w:sdtPr>
+              <w:sdtContent>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="C9007F"/>
+                  </w:rPr>
+                  <w:t xml:space="preserve">[dato]</w:t>
+                </w:r>
+              </w:sdtContent>
+            </w:sdt>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:cantSplit/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2910" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="6" w:color="CACACA"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="180" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="180" w:type="dxa"/>
+              <w:right w:w="0" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="VirkeSignatur"/>
+              <w:keepNext w:val="1"/>
+            </w:pPr>
+            <w:sdt>
+              <w:sdtPr>
+                <w:rPr>
+                  <w:color w:val="000000"/>
+                </w:rPr>
+                <w:alias w:val="Fornavn og etternavn"/>
+                <w:placeholder>
+                  <w:docPart w:val="VIRKE_PH_A1C86930DC124A66A31C4FCDB4E14867"/>
+                </w:placeholder>
+                <w:showingPlcHdr/>
+                <w:temporary/>
+                <w:id w:val="170000722"/>
+                <w:tag w:val="virke_170000005"/>
+              </w:sdtPr>
+              <w:sdtContent>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="C9007F"/>
+                  </w:rPr>
+                  <w:t xml:space="preserve">[Fornavn og etternavn]</w:t>
+                </w:r>
+              </w:sdtContent>
+            </w:sdt>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="VirkeSignatur"/>
+              <w:keepNext w:val="1"/>
+            </w:pPr>
+            <w:sdt>
+              <w:sdtPr>
+                <w:rPr>
+                  <w:color w:val="000000"/>
+                </w:rPr>
+                <w:alias w:val="Tittel"/>
+                <w:placeholder>
+                  <w:docPart w:val="VIRKE_PH_5ED069C4A3844867B639F1E5D32179A8"/>
+                </w:placeholder>
+                <w:showingPlcHdr/>
+                <w:temporary/>
+                <w:id w:val="170000723"/>
+                <w:tag w:val="virke_170000007"/>
+              </w:sdtPr>
+              <w:sdtContent>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="C9007F"/>
+                  </w:rPr>
+                  <w:t xml:space="preserve">[Tittel]</w:t>
+                </w:r>
+              </w:sdtContent>
+            </w:sdt>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="300" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="VirkeMellomrom"/>
+              <w:keepNext w:val="1"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2910" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="6" w:color="CACACA"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="180" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="180" w:type="dxa"/>
+              <w:right w:w="0" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="VirkeSignatur"/>
+              <w:keepNext w:val="1"/>
+            </w:pPr>
+            <w:sdt>
+              <w:sdtPr>
+                <w:rPr>
+                  <w:color w:val="000000"/>
+                </w:rPr>
+                <w:alias w:val="Fornavn og etternavn"/>
+                <w:placeholder>
+                  <w:docPart w:val="VIRKE_PH_C24B073FBE354E5F8CE3549F099A9183"/>
+                </w:placeholder>
+                <w:showingPlcHdr/>
+                <w:temporary/>
+                <w:id w:val="170000724"/>
+                <w:tag w:val="virke_170000009"/>
+              </w:sdtPr>
+              <w:sdtContent>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="C9007F"/>
+                  </w:rPr>
+                  <w:t xml:space="preserve">[Fornavn og etternavn]</w:t>
+                </w:r>
+              </w:sdtContent>
+            </w:sdt>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="VirkeSignatur"/>
+              <w:keepNext w:val="1"/>
+            </w:pPr>
+            <w:sdt>
+              <w:sdtPr>
+                <w:rPr>
+                  <w:color w:val="000000"/>
+                </w:rPr>
+                <w:alias w:val="Tittel"/>
+                <w:placeholder>
+                  <w:docPart w:val="VIRKE_PH_3BDB187108CE42D796A16F25DA6151B8"/>
+                </w:placeholder>
+                <w:showingPlcHdr/>
+                <w:temporary/>
+                <w:id w:val="170000725"/>
+                <w:tag w:val="virke_170000011"/>
+              </w:sdtPr>
+              <w:sdtContent>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="C9007F"/>
+                  </w:rPr>
+                  <w:t xml:space="preserve">[Tittel]</w:t>
+                </w:r>
+              </w:sdtContent>
+            </w:sdt>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="300" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="VirkeMellomrom"/>
+              <w:keepNext w:val="1"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2910" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="single" w:sz="6" w:color="CACACA"/>
+            </w:tcBorders>
+            <w:tcMar>
+              <w:top w:w="180" w:type="dxa"/>
+              <w:left w:w="0" w:type="dxa"/>
+              <w:bottom w:w="180" w:type="dxa"/>
+              <w:right w:w="0" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="VirkeSignatur"/>
+              <w:keepNext w:val="1"/>
+            </w:pPr>
+            <w:sdt>
+              <w:sdtPr>
+                <w:rPr>
+                  <w:color w:val="000000"/>
+                </w:rPr>
+                <w:alias w:val="Fornavn og etternavn"/>
+                <w:placeholder>
+                  <w:docPart w:val="VIRKE_PH_FFFA761D6C374F65B8AA7B1960F5B556"/>
+                </w:placeholder>
+                <w:showingPlcHdr/>
+                <w:temporary/>
+                <w:id w:val="170000726"/>
+                <w:tag w:val="virke_170000013"/>
+              </w:sdtPr>
+              <w:sdtContent>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="C9007F"/>
+                  </w:rPr>
+                  <w:t xml:space="preserve">[Fornavn og etternavn]</w:t>
+                </w:r>
+              </w:sdtContent>
+            </w:sdt>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="VirkeSignatur"/>
+              <w:keepNext w:val="0"/>
+            </w:pPr>
+            <w:sdt>
+              <w:sdtPr>
+                <w:rPr>
+                  <w:color w:val="000000"/>
+                </w:rPr>
+                <w:alias w:val="Tittel"/>
+                <w:placeholder>
+                  <w:docPart w:val="VIRKE_PH_161D73AB57AF4C768D10CDE6F4730317"/>
+                </w:placeholder>
+                <w:showingPlcHdr/>
+                <w:temporary/>
+                <w:id w:val="170000727"/>
+                <w:tag w:val="virke_170000015"/>
+              </w:sdtPr>
+              <w:sdtContent>
+                <w:r>
+                  <w:rPr>
+                    <w:color w:val="C9007F"/>
+                  </w:rPr>
+                  <w:t xml:space="preserve">[Tittel]</w:t>
+                </w:r>
+              </w:sdtContent>
+            </w:sdt>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="VirkeMellomrom"/>
+        <w:spacing w:before="0" w:after="0" w:line="20" w:lineRule="exact"/>
+      </w:pPr>
+    </w:p>
+  </w:docPartBody>
+</w:docPart>

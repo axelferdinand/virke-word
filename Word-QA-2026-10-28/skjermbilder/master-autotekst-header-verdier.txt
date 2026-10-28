@@ -1,0 +1,177 @@
+Window: "28okt-master-autotekst-slutt", App: Microsoft Word.
+0 standardvindu 28okt-master-autotekst-slutt, Secondary Actions: Raise, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/testkopier/28okt-master-autotekst-slutt.docx
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 28okt-master-autotekst-slutt
+					5 container
+						6 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: [Tema eller dokumentkategori]
+						7 Tabell, 3 Rader, 3 Kolonner, , 
+							8 row (disabled)
+								9 celle (disabled)
+									10 container
+										11 tekstinnskrivingsområde (disabled, settable) Første overskrift
+								12 celle (disabled)
+									13 container
+										14 tekstinnskrivingsområde (disabled, settable) [Navn]
+								15 celle (disabled)
+									16 container
+										17 tekstinnskrivingsområde (disabled, settable) [Navn]
+							18 row (disabled)
+								19 celle (disabled)
+									20 tekstinnskrivingsområde (disabled, settable) Vanlig tabelltekst
+								21 celle (disabled)
+									22 container
+										23 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								24 celle (disabled)
+									25 container
+										26 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							27 row (disabled)
+								28 celle (disabled)
+									29 container
+										30 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								31 celle (disabled)
+									32 container
+										33 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								34 celle (disabled)
+									35 container
+										36 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							37 kolonne (disabled) Første overskrift
+							38 kolonne (disabled) [Navn]
+							39 kolonne (disabled) [Navn]
+						40 tekstinnskrivingsområde (disabled, settable) Side 1-innhold
+						41 Felt page
+						42 Felt numpages
+						43 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	[Dokumentnavn]
+				44 rullefelt (disabled, settable, float) 0
+					45 verdiindikator (disabled, settable, float) 0
+				46 rullefelt (disabled, settable, float) 0
+					47 verdiindikator (disabled, settable, float) 0
+		48 deler (disabled, settable, float) 1728
+	49 container Statuslinje
+		50 knapp Side 1 av 1, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten.
+		51 knapp 18 ord, Help: Antall ord i dokument. Klikk eller trykk for å åpne dialogboksen Ordtelling.
+		52 knapp Kontrollerer om det finnes korrekturfeil.
+		53 knapp Norsk (bokmål), Help: Språk
+		54 veksleknapp Tilgjengelighet: Alt er klart, Help: Tilgjengelighetskontrollen er fullført. Klikk her for å finne ut mer., Value: off
+		55 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		56 valgknapp Sideutforming, Value: 1
+		57 valgknapp Weboppsett, Value: 0
+		58 valgknapp Disposisjon, Value: 0
+		59 valgknapp Kladd, Value: 0
+		60 knapp Zoom ut
+		61 knapp Zoom inn
+		62 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			63 verdiindikator (settable, float) 1015
+		64 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+	65 fanegruppe Description: bånd, Details: Hjem
+		66 rullefeltområde Hjem-fanekommandoer
+			67 knapp Virke-blokker, Help: Tabeller, signatur og innholdsfortegnelse, Value: 1
+			68 container
+				69 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				70 knapp Klipp ut, Value: 0
+				71 knapp Kopier, Value: 0
+				72 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			73 container
+				74 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					75 knapp
+				76 kombinert rute (settable) Description: Skriftstørrelse:, Value: 7,5, Secondary Actions: Confirm
+					77 knapp
+				78 knapp Øk skriftstørrelse, Value: 0
+				79 knapp Reduser skriftstørrelse, Value: 0
+				80 menyknapp Endre bokstavtype, Value: 0
+				81 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				82 veksleknapp Fet, Value: on
+				83 veksleknapp Kursiv, Value: off
+				84 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				85 veksleknapp Gjennomstreking, Value: off
+				86 veksleknapp Senket skrift, Value: off
+				87 veksleknapp Hevet skrift, Value: off
+				88 menyknapp Teksteffekter, Value: 0
+				89 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				90 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			91 container
+				92 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				93 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				94 menyknapp Liste med flere nivåer, Value: 0
+				95 knapp Reduser innrykk, Value: 0
+				96 knapp Øk innrykk, Value: 0
+				97 knapp Sorter, Value: 0
+				98 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				99 veksleknapp Venstrejuster, Value: on
+				100 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				101 veksleknapp Høyrejuster, Value: off
+				102 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				103 menyknapp Linje- og avsnittsavstand, Value: 0
+				104 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				105 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			106 container
+				107 galleri Description: Stiler, Help: galleri
+					108 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					109 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					110 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					111 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					112 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					113 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					114 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					115 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				116 veksleknapp Stiler-rute, Value: off
+			117 veksleknapp Dikter, Help: Office-diktering, Value: off
+			118 menyknapp (disabled) Følsomhet, Value: 0
+			119 knapp Tillegg, Value: 0
+			120 container
+				121 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				122 veksleknapp Copilot, Value: off
+			123 container
+				124 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				125 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		126 fane Hjem, Help: Skjul båndet, Value: 1
+		127 fane Virke
+		128 fane Sett inn
+		129 fane Tegn
+		130 fane Utforming
+		131 fane Oppsett
+		132 fane Referanser
+		133 fane Masseutsendelser
+		134 fane Se gjennom
+		135 fane Visning
+		136 fane Acrobat
+		137 fane Tabellutforming
+		138 fane Tabelloppsett
+		139 knapp Kommentarer
+		140 knapp Redigering, Help: Modus for dokumenttilgang
+		141 knapp Del
+	142 verktøylinje
+		143 container Secondary Actions: Fjern fra verktøylinjen
+			144 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			145 knapp Hjem, Value: 0
+			146 knapp Lagre, Value: 0
+			147 menyknapp Angre Inntasting, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			148 knapp (disabled) Kan ikke gjenta, Value: 0
+			149 knapp Skriv ut, Value: 0
+			150 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			151 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				152 knapp Søk
+			153 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			154 text Value: 28okt-master-autotekst-slutt Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			155 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	156 lukkeknapp
+	157 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	158 minimeringsknapp
+159 menu bar
+	160 Word, ID: AppMenu_MenuItem
+	161 Fil
+	162 Rediger, ID: EditMenu_MenuItem
+	163 Vis, ID: ViewMenu_MenuItem
+	164 Sett inn
+	165 Formater
+	166 Verktøy
+	167 Tabell
+	168 Vindu, ID: WindowMenu_MenuItem
+	169 Hjelp, ID: HelpMenu_MenuItem
+
+Selected text: ```
+Første overskrift
+```
+
+Note: Pay special attention to the content selected by the user. If the user asks a question or refers to the content they are looking at on-screen, they might be referring to the selected content (but they might be referring to something else that's visible, too).

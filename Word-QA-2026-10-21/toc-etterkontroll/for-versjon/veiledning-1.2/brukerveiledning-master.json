@@ -1,0 +1,401 @@
+{
+  "title": "Brukerveiledning for Virke mastermal",
+  "version": "1.2",
+  "date": "21. oktober 2026",
+  "date_iso": "2026-10-21",
+  "change_note": "Redigerbar Word-veiledning bygget med masterens stiler og komponenter. Oppdatert etter native Word-test: stabile tabelloverskrifter, Enter i Avtale, diagramlagring, liggende marger og begrensning ved TOC-sidetall.",
+  "master": "Virke-revidert-2026-10-21/Virke_master_test.dotx",
+  "pages": [
+    {
+      "kicker": "Kom i gang",
+      "title": "Brukerveiledning for Virke mastermal",
+      "intro": "Mastermalen gir nye Word-dokumenter Virkes typografi, farger, marger og ferdige innholdsblokker. Bruk den når du skal lage et nytt dokumentoppsett.",
+      "blocks": [
+        {
+          "type": "note",
+          "title": "Velg riktig utgangspunkt",
+          "text": "Når en ferdig bruksmal dekker behovet, lager du en kopi av den og fyller ut kopien. Masteren trenger ikke åpnes for vanlig utfylling."
+        },
+        {
+          "type": "heading",
+          "text": "Før du starter"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Bruk Word i skrivebordsappen. Arbeidsmåtene i denne veiledningen gjelder ikke nødvendigvis Word på nett.",
+            "Installer Clan Offc News og Clan Offc Bold fra mappen <b>Fonter</b>. Start Word på nytt. Fonter lastes ikke automatisk fra en mappe ved siden av dokumentet.",
+            "Ha en lokal kopi av DOTX-masteren tilgjengelig mens du setter inn byggeblokker. Lagre ferdige dokumenter i Virkes Microsoft 365-arkiv."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Lag et nytt dokument"
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Åpne <b>Virke_master_test.dotx</b> fra Finder eller Filutforsker. Kontroller at Word oppretter et nytt dokument, som «Dokument1».",
+            "Fyll ut <b>[Dokumenttittel]</b> før første lagring. Word kan da foreslå tittelen som filnavn. Kontroller navnet og velg <b>Word-dokument (.docx)</b>.",
+            "Fyll ut overskrift og brødtekst, og sett inn blokker fra <b>Virke</b>-fanen. Lagre i riktig arkivmappe."
+          ]
+        },
+        {
+          "type": "small",
+          "text": "Versjon 1.2. Masterfilen heter fortsatt «test» i denne detaljeringen. De 40 eldre Styres-malene konverteres i neste fase."
+        }
+      ]
+    },
+    {
+      "kicker": "Tekst og utfylling",
+      "title": "Bruk stiler og fyll ut feltene",
+      "intro": "Velg stil etter tekstens rolle. Da beholder dokumentet riktig skrift og avstand, og overskriftene kan brukes i innholdsfortegnelsen.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Velg stil fra Hjem"
+        },
+        {
+          "type": "table",
+          "widths": [
+            0.32,
+            0.68
+          ],
+          "headers": [
+            "Innhold",
+            "Stil og arbeidsmåte"
+          ],
+          "rows": [
+            [
+              "Vanlig tekst",
+              "Normal. Bruk fet skrift til korte fremhevinger."
+            ],
+            [
+              "Overskrifter",
+              "Overskrift 1, 2 og 3. Bruk nivåene i rekkefølge. Stor eller fet tekst alene gir ikke et overskriftsnivå."
+            ],
+            [
+              "Lister",
+              "Fortsett en eksisterende liste med Enter. Bruk listeknappene for nummerering og nivå."
+            ],
+            [
+              "Tabell og signatur",
+              "Behold stilene som følger med den innsatte blokken. De ligger i dokumentet selv om de er skjult i stilgalleriet."
+            ],
+            [
+              "Tekst du limer inn",
+              "Velg Behold bare tekst og bruk riktig stil. Kontroller at tekst limt inn i et rosa felt blir svart; velg svart skriftfarge ved behov."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Fyll ut rosa plassholdere"
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Klikk i feltet og erstatt plassholderen, for eksempel <b>[Fyll ut]</b>. Den utfylte teksten skal bli svart.",
+            "I <b>Utfyllingsmal</b> flytter Tab til neste felt og Skift + Tab tilbake. Etiketten «Navn:» skal bli stående. I vanlige tabeller flytter Tab mellom cellene.",
+            "Fjern ubrukte plassholdere og eksempelverdier før deling. Les hjelpeteksten før du eventuelt fjerner den."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Fortsett en liste"
+        },
+        {
+          "type": "paragraph",
+          "text": "Enter etter et listepunkt gir et nytt punkt. Enter en gang til på et tomt punkt avslutter listen. Endre innrykksnivå med listefunksjonene under Hjem; unngå mellomrom og manuelt skrevne tall."
+        }
+      ]
+    },
+    {
+      "kicker": "Sett inn innhold",
+      "title": "Finn Virke-blokkene",
+      "intro": "Masteren inneholder 21 Autotekst-oppføringer. En blokk tar med seg formatering, felt og eventuell tabellstruktur.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "På Mac: bruk Virke-fanen"
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Plasser markøren i et <b>tomt avsnitt</b> der innholdet skal stå. Da unngår du at eksisterende tekst følger med inn i tabellen.",
+            "Velg <b>Virke > Virke-blokker</b>. Word åpner dialogen Autokorrektur med fanen Autotekst.",
+            "Velg <b>Virke_master_test.dotx</b> under <b>Søk i</b>. Listen viser da bare masterens oppføringer.",
+            "Marker ønsket blokk og trykk <b>Sett inn</b>. Fyll ut de rosa feltene."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Alternativ menyvei på Mac: <b>Sett inn > Autotekst > Autotekst</b> i menylinjen. Words vanlige Autotekst-galleri kan vise standardoppføringer; bruk dialogen og velg masteren under Søk i."
+        },
+        {
+          "type": "heading",
+          "text": "På Windows"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bruk <b>Sett inn > Hurtigdeler > Autotekst</b>, eventuelt Byggeblokkassistent. Velg oppføringen fra Virke-masteren. Menynavn kan variere med språk og Word-versjon. Virke-fanens virkemåte skal kontrolleres i Virkes Windows-miljø før utrulling."
+        },
+        {
+          "type": "heading",
+          "text": "Avtale og signatur"
+        },
+        {
+          "type": "paragraph",
+          "text": "<b>Avtale</b> gir et redigerbart utgangspunkt med tittel, parter, avsnitt og signaturer. Erstatt plassholderne med relevant innhold. <b>Signatur</b> setter inn sted, dato og tre signaturfelt. Navn og stillingstittel er rosa plassholdere. Når du fyller ut avsnittsteksten, blir den vanlig redigerbar tekst. Enter lager et nytt avsnitt."
+        },
+        {
+          "type": "note",
+          "title": "Hvis masteren mangler i Søk i",
+          "text": "Åpne et nytt dokument fra riktig DOTX-fil, eller tilknytt masteren via <b>Verktøy > Maler og tillegg</b> på Mac. La automatisk oppdatering av dokumentstiler være avslått."
+        }
+      ]
+    },
+    {
+      "kicker": "Oversikt over blokkene",
+      "title": "Velg innholdet du trenger",
+      "intro": "Navnene nedenfor er oppføringene du finner i masterens Autotekst-liste.",
+      "blocks": [
+        {
+          "type": "table",
+          "widths": [
+            0.47,
+            0.53
+          ],
+          "headers": [
+            "Oppføring",
+            "Bruksområde"
+          ],
+          "rows": [
+            [
+              "Avtale",
+              "Redigerbart utgangspunkt med parter, avsnitt og signaturfelt."
+            ],
+            [
+              "Signatur",
+              "Sted, dato, navn og stillingstittel for tre signaturer."
+            ],
+            [
+              "Innholdsfortegnelse",
+              "Automatisk fortegnelse fra overskriftsnivå 1 til 3."
+            ],
+            [
+              "Utfyllingsmal",
+              "Navnefelt med faste etiketter og feltflyt med Tab."
+            ],
+            [
+              "Tabell\nTabell med 2, 3, 4 eller 5 kolonner",
+              "Ferdige tabeller. Hvert kolonneantall er en egen oppføring."
+            ],
+            [
+              "Store celler",
+              "Tabell med god plass til lengre innhold."
+            ],
+            [
+              "Tabell med 9 kolonner liggende\nTabell med 9 like kolonner liggende",
+              "Brede tabeller med ulik eller lik kolonnebredde."
+            ],
+            [
+              "Saksliste",
+              "Oppsett for saker og saksnumre."
+            ],
+            [
+              "Lovtekst\nHjelpetekst",
+              "Ferdig formatering for sitert og veiledende tekst."
+            ],
+            [
+              "Møteinformasjon – enkel\nMøteinformasjon – detaljert",
+              "Utfyllbare møteopplysninger. Dette er felter du fyller ut selv, uten ekstern flettedatakilde."
+            ],
+            [
+              "Diagram søyle\nDiagram sektor",
+              "Diagrammer med innebygde Excel-data."
+            ],
+            [
+              "Virke topptekst\nVirke bunntekst",
+              "Innhold for dokumentets topp- og bunntekst."
+            ]
+          ]
+        },
+        {
+          "type": "small",
+          "text": "Møteinformasjon het tidligere «Mergefield 1» og «Mergefield 2». Innholdsfortegnelse het «Innhold_Virke». Innhold som er satt inn, blir en del av dokumentet og erstattes ikke automatisk når masteren endres."
+        }
+      ]
+    },
+    {
+      "kicker": "Tabeller og innholdsfortegnelse",
+      "title": "La dokumentet vokse",
+      "intro": "Bruk Words egne funksjoner for rader og felt. Behold malens skriftstørrelser og marger når innholdet blir lengre.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Utvid en tabell"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plasser markøren i tabellen og velg <b>Tabelloppsett > Sett inn under</b>. Tab fra siste celle lager også en ny rad. La radhøyden vokse med teksten, og kontroller at overskriftsraden gjentas når tabellen går over flere sider."
+        },
+        {
+          "type": "paragraph",
+          "text": "Datatabellene bruker toppjusterte celler og 7,5 pt tekst. Overskriftsraden skal være fet i alle celler. Kontroller formateringen etter innliming fra andre dokumenter eller regneark."
+        },
+        {
+          "type": "heading",
+          "text": "Bruk liggende tabell"
+        },
+        {
+          "type": "paragraph",
+          "text": "Den enkleste starten er eksempel 04 eller 05, som allerede har liggende A4 og riktige marger. Ved innsetting i et annet dokument: velg liggende A4 for aktuell inndeling og sett margene til 1,25 cm venstre/høyre, 3,52 cm topp og 2,49 cm bunn. Blokken endrer ikke sideoppsettet automatisk. Kontroller også siden etter tabellen."
+        },
+        {
+          "type": "heading",
+          "text": "Oppdater innholdsfortegnelsen"
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Bruk <b>Overskrift 1, 2 og 3</b> på avsnittene som skal med. Overskrift 1 er øverste nivå; 2 og 3 blir undernivåer.",
+            "Sett inn blokken <b>Innholdsfortegnelse</b>. Klikk i fortegnelsen og velg <b>Virke > Oppdater felt</b> eller Words <b>Oppdater tabell</b>.",
+            "Velg <b>Oppdater hele tabellen</b> når overskrifter er lagt til eller endret. F9 kan også oppdatere felt; enkelte tastaturer krever Fn + F9.",
+            "Kontroller overskrifter, innrykk og sidetall før PDF-eksport. Oppdater igjen etter større endringer."
+          ]
+        },
+        {
+          "type": "small",
+          "text": "Stilen Tittel er ikke et overskriftsnivå i innholdsfortegnelsen. Bruk Overskrift 1 når en stor tittel skal inngå i fortegnelsen."
+        },
+        {
+          "type": "small",
+          "text": "Word-begrensning: ved full oppdatering følger sidetallene fargen til sitt nivå. Øverste nivå får derfor svarte sidetall; undernivåene er grå. Hvis alle sidetall skal være grå som i Figma, må tallene på øverste nivå farges manuelt etter siste fulloppdatering og før PDF-eksport. Dette er en sluttjustering, ikke automatikk i masteren."
+        }
+      ]
+    },
+    {
+      "kicker": "Diagrammer og ferdigstilling",
+      "title": "Kontroller før du deler",
+      "intro": "Lagre en redigerbar DOCX-fil. Eksporter også en PDF når du trenger en fast visnings- eller utskriftsversjon.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Rediger diagramdata"
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Sett inn <b>Diagram søyle</b> eller <b>Diagram sektor</b>, og <b>lagre Word-dokumentet etter innsetting</b>. Høyreklikk deretter diagrammet og velg <b>Rediger data i Excel</b>. Denne arbeidsmåten krever Excel.",
+            "Erstatt eksempelverdier og navn i regnearket. Lukk dataarket og kontroller at diagrammet i Word er oppdatert.",
+            "Tilpass tittel og tegnforklaring. Kontroller at navnene får plass, og lagre Word-dokumentet."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Topptekst og bunntekst"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dobbeltklikk øverst eller nederst på siden for å fylle ut kategori og dokumentnavn. Behold feltene «Side X av Y». Plasser markøren i riktig topp- eller bunntekst før du setter inn en tilsvarende blokk."
+        },
+        {
+          "type": "heading",
+          "text": "Sjekk før du deler"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Rosa plassholdere, hjelpetekst og eksempelverdier er fylt ut, erstattet eller fjernet etter behov.",
+            "Overskrifter og nummerering har riktig rekkefølge. Innholdsfortegnelsen er oppdatert.",
+            "Tabeller holder seg innenfor margene. Tekst er ikke klippet, og signaturfeltene står samlet og hensiktsmessig.",
+            "Dokumentnavn, kategori, sidetall og fonter stemmer.",
+            "Lagre som DOCX. Eksporter til PDF med Lagre som eller Eksporter, og åpne PDF-en for en siste kontroll."
+          ]
+        }
+      ]
+    },
+    {
+      "kicker": "Feilsøking og vedlikehold",
+      "title": "Ta vare på mal og dokumenter",
+      "intro": "Masteren er et felles utgangspunkt. Eksisterende utfylte dokumenter skal beholde sin formatering når masteren videreutvikles.",
+      "blocks": [
+        {
+          "type": "table",
+          "widths": [
+            0.34,
+            0.66
+          ],
+          "headers": [
+            "Problem",
+            "Første tiltak"
+          ],
+          "rows": [
+            [
+              "Feil font eller linjeskift",
+              "Installer begge Clan-fontene, start Word på nytt og kontroller i skrivebordsappen."
+            ],
+            [
+              "Rosa tekst etter utfylling",
+              "Ved innliming: velg Behold bare tekst, bruk riktig stil og kontroller skriftfargen. Velg svart ved behov. Vanlig skriving i plassholderen gir svart tekst."
+            ],
+            [
+              "Feil innhold i fortegnelsen",
+              "Kontroller overskriftsstilene og velg Oppdater hele tabellen."
+            ],
+            [
+              "Virke-blokker mangler",
+              "Bruk skrivebordsappen og velg masteren under Søk i. Se side 3."
+            ],
+            [
+              "Varsel om eksterne felt",
+              "Hvis du ikke bruker en kjent ekstern datakilde, velg Nei. Oppdater aktuelle felt målrettet."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Vedlikehold masteren"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lag en arbeidskopi. Åpne DOTX-filen via <b>Fil > Åpne</b>, oppdater aktuelle stiler og blokker, og lagre som DOTX. Endret startinnhold oppdaterer ikke automatisk en lagret Autotekst-blokk. Kontroller begge deler."
+        },
+        {
+          "type": "paragraph",
+          "text": "Overfør relevante rettelser til eksempeldokumenter og bruksmaler, og test kopier før ny publisering. Oppdater denne veiledningen når funksjoner, menysteg, fonter eller filnavn endres. Øk versjon og dato."
+        },
+        {
+          "type": "heading",
+          "text": "Plassering i Microsoft 365"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oppbevar master, fonter og veiledning samlet i Virkes arkiv. Ferdige bruksmaler skal distribueres som selvstendige DOCX-filer med nødvendig formatering innebygd. Automatisk stiloppdatering skal være avslått. Masteren trengs for innsetting av nye blokker, ikke for å lese innhold som allerede er satt inn."
+        },
+        {
+          "type": "small",
+          "text": "Eksempelfilene i denne detaljeringen har fortsatt en relativ tilknytning til DOTX-masteren. De demonstrerer design og funksjoner; konverteringen av de 40 Styres-malene er neste fase."
+        },
+        {
+          "type": "sources",
+          "items": [
+            [
+              "Microsoft: Opprette og bruke maler",
+              "https://support.microsoft.com/en-au/word/create-a-template"
+            ],
+            [
+              "Microsoft: Autotekst og gjenbrukbart innhold",
+              "https://support.microsoft.com/en-us/word/create-reusable-text-snippets"
+            ],
+            [
+              "Microsoft: Installere fonter i Office",
+              "https://support.microsoft.com/en-us/office/fonts/download-and-install-custom-fonts-to-use-with-office"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

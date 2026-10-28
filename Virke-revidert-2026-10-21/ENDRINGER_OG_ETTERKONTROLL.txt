@@ -1,0 +1,35 @@
+Endringer og etterkontroll – 21. oktober 2026
+
+• Ryddet anbefalt stiloversikt uten å slette de 425 stildefinisjonene.
+• H1, H2 og tittel har 0 pt tegnavstand. Figma-størrelser og linjehøyder beholdt.
+• Fete tabelloverskrifter, også første celle og etter utfylling/ny kolonne.
+  Fjernet kolliderende fet-innstilling i tabellstilens betingede første rad.
+• Tabellceller er toppjustert, med justert luft oppe/nede og gjentatt overskriftsrad.
+• Ny Avtale-blokk med redigerbare avsnitt og rosa signaturfelt.
+  Enter fungerer etter utfylling av avsnittsteksten.
+• Virke-fane med Virke-blokker og Oppdater felt, uten makroer.
+• Masteren inneholder 21 Autotekst-oppføringer med tydeligere navn.
+• Lovtekst beholder tredje nummereringsnivå etter innsetting.
+• Innholdsfortegnelsen bruker H1–H3, rosa punkter og grå undernivåer.
+  Eksempel 07 har et faktisk oppdatert feltresultat fra Word.
+• Nytt dokument fra DOTX foreslår utfylt H1 som navn ved første lagring.
+• Brukerveiledning 1.3 er laget som DOCX med masterens egne stiler,
+  tabeller, hjelpetekst og lister. PDF er eksportert fra Word.
+
+Originalen fra Innovakk og leveransen fra 16. oktober er urørt.
+Diagrammer, bilder, innebygde regneark og nummereringsdeler er bevart.
+Alle 17 eksemplene og masterens 21 blokker er kontrollert i Word for Mac.
+Testendringer ligger bare i QA-kopier. Se TESTRESULTATER.txt for detaljer.
+
+Kjente forbehold: H1-sidetall i innholdsfortegnelsen blir svarte ved full
+oppdatering; øverste skillelinje avviker fra Figma. Liggende tabellblokker
+krever riktig sideoppsett. Diagramdata redigeres etter at dokumentet er
+lagret. Innlimt tekst kan kreve at skriftfargen settes til svart.
+Windows og Word på nett gjenstår som egne miljøtester.
+
+De 40 Styres-malene er neste fase, med selvstendig DOCX-distribusjon.
+
+Etterkontroll: fire TOC-varianter prøvd direkte i Word. Ingen ga en stabil
+forbedring uten uønskede følgevirkninger. Master og eksempler er derfor
+uendret. Veiledning 1.3 fjerner designmerknaden; ny PDF er eksportert fra
+Word og alle sju sider er kontrollert.

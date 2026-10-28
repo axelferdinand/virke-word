@@ -1,0 +1,19 @@
+SHA-256-kontroll etter Word-test, 16.10.2026
+OK  Virke-alle-Figma-eksempler-2026-10-16/01_Protokoll_styremote.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/02_Balance_scorecard.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/03_Utfyllingsskjema.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/04_Aksjeeierbok_liggende.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/05_Protokoll_liggende_ni_kolonner.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/06_Protokoll_Prototypen_AS.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/07_Innholdsfortegnelse_og_avtale.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/08_Avtalemal.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/09_Sjekkliste_arsregnskap.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/10_Utviklingssamtale.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/11_Diagrammer.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/12_Tekststiler_Clan.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/13_Tekststiler_Arial.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/14_Marger_og_tekstflyt.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/15_Avstand_mellom_tekststiler.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/16_Avstand_tabeller_og_signatur.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/17_Flernivanummerering_og_saksliste.docx
+OK  Virke-alle-Figma-eksempler-2026-10-16/Virke_master_test.dotx

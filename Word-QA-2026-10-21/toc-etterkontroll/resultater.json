@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-21",
+  "application": "Microsoft Word for Mac 16.90.2",
+  "interaction": "Codex innebygd datamaskinbruk",
+  "source": "07_Innholdsfortegnelse_og_avtale.docx i ren revidert leveranse",
+  "figma_reference": "https://www.figma.com/design/lVyfrpIkkovSokMCJrG3GD?node-id=3130-3743",
+  "test_content": "Seks H1 med H2/H3; hovedinnhold på side 2 og 3. Bare isolerte QA-kopier.",
+  "tests": [
+    {
+      "file": "TOC-test-black.docx",
+      "sha256": "d44cb6834283340776ae07ce6978cb6852f44f94a5b2508242093ecbd349ea4a",
+      "native_word_full_generation": "completed",
+      "native_visual_review": "completed",
+      "method": "Grå TOC1, vanlig/særformatert H1, hyperlenker og direkte kantoverstyring på første TOC-avsnitt.",
+      "result": "Full regenerering gav grå kapitteltekst og grå sidetall, også med direkte svart kildetekst. Direkte fjerning av første topplinje forsvant; topplinjen kom tilbake.",
+      "saved_xml_evidence": [
+        {
+          "text": "A Vanlig Overskrift 12",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "B Direkte svart 0000002",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "C Direkte nesten svart 0101012",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "D Tegnstil svart3",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "E Direkte automatisk3",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "F Ny vanlig Overskrift 13",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        }
+      ],
+      "adopted": false
+    },
+    {
+      "file": "TOC-test-without-h.docx",
+      "sha256": "09df23abf0309e28767b6594c5e4403d4f65df939e618a4761fdff863b526f17",
+      "native_word_full_generation": "completed",
+      "native_visual_review": "completed",
+      "method": "Grå TOC1 uten feltbryteren for hyperlenker; seks H1-varianter.",
+      "result": "Direkte svart/nesten svart farge og svart tegnstil gav svart kapitteltekst med grå sidetall. Vanlige H1 og automatisk farge gav grå kapitteltekst. Hele kapittelteksten mistet hyperlenkeinnpakningen. Krever særformatering og virker ikke for nye vanlige H1.",
+      "saved_xml_evidence": [
+        {
+          "text": "A Vanlig Overskrift 12",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 0
+        },
+        {
+          "text": "B Direkte svart 0000002",
+          "run_colors": [
+            "auto",
+            "000000"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 0
+        },
+        {
+          "text": "C Direkte nesten svart 0101012",
+          "run_colors": [
+            "auto",
+            "010101"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 0
+        },
+        {
+          "text": "D Tegnstil svart3",
+          "run_colors": [
+            "auto",
+            "000000"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 0
+        },
+        {
+          "text": "E Direkte automatisk3",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 0
+        },
+        {
+          "text": "F Ny vanlig Overskrift 13",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 0
+        }
+      ],
+      "adopted": false
+    },
+    {
+      "file": "TOC-test-between-only.docx",
+      "sha256": "098983e321d4d01879bf07865218c3fa3bad99046e54f9f959e35e5b80a7840d",
+      "native_word_full_generation": "completed",
+      "native_visual_review": "completed",
+      "method": "Topplinje fjernet fra TOC1; bare mellomlinje i stilen.",
+      "result": "Ingen første topplinje, men også manglende skillelinjer mellom kapittelgrupper med undernivåer og manglende avsluttende linje.",
+      "saved_xml_evidence": [
+        {
+          "text": "A Vanlig Overskrift 12",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "B Direkte svart 0000002",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "C Direkte nesten svart 0101012",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "D Tegnstil svart3",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "E Direkte automatisk3",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "F Ny vanlig Overskrift 13",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        }
+      ],
+      "adopted": false
+    },
+    {
+      "file": "TOC-test-bottom-context.docx",
+      "sha256": "f774c8da031fdb8f6b2c715bcf771671ab497903b20ae10c82e15f070194732f",
+      "native_word_full_generation": "completed",
+      "native_visual_review": "completed",
+      "method": "Bunnlinjer i TOC1–3 med ulike mellomlinjeinnstillinger.",
+      "result": "Ingen første topplinje, men ekstra bunnlinjer under undernivåene. Figma har bare skillelinjer mellom kapittelgruppene.",
+      "saved_xml_evidence": [
+        {
+          "text": "A Vanlig Overskrift 12",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "B Direkte svart 0000002",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "C Direkte nesten svart 0101012",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "D Tegnstil svart3",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "E Direkte automatisk3",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        },
+        {
+          "text": "F Ny vanlig Overskrift 13",
+          "run_colors": [
+            "auto"
+          ],
+          "direct_top_border": [],
+          "hyperlinks": 1
+        }
+      ],
+      "adopted": false
+    }
+  ],
+  "conclusion": "Ingen stabil retting funnet med de testede makrofrie TOC-felt- og stilvariantene som samtidig bevarer vanlig bruk av H1–H3, klikkbare kapitteltekster og Figma-gruppeskillene. Dette er et testresultat i denne Word-versjonen, ikke et bevis på at ingen løsning finnes i Word. Master og 17 eksempler er beholdt uendret.",
+  "guide": "Veiledning 1.3 fjerner omtale av designavvik og manuell sluttjustering. Praktisk bruk beholdes.",
+  "unexecuted_candidates": [
+    "TOC-test-auto.docx",
+    "TOC-test-heading-bridge.docx"
+  ],
+  "supporting_sources": [
+    "https://learn.microsoft.com/en-us/answers/questions/5080123/table-of-contents-colour-formatting-possible",
+    "https://learn.microsoft.com/en-us/answers/questions/4782011/formatting-table-of-contents-changing-font-color-o"
+  ]
+}

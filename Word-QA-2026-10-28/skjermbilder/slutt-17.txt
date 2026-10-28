@@ -1,0 +1,184 @@
+Window: "17_Flernivanummerering_og_saksliste", App: Microsoft Word.
+0 standardvindu 17_Flernivanummerering_og_saksliste, Secondary Actions: Raise, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/sluttkontroll/17_Flernivanummerering_og_saksliste.docx
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) 17_Flernivanummerering_og_saksliste
+					5 container Description: Copilot-sammendrag, ID: Summary_Container_Test_ID
+						6 ukjent Copilot-sammendrag
+							7 tekstinnskrivingsområde Value: **Copilot-sammendrag**, ID: Initial_Header_ID
+						8 bilde Description: Informasjon, Help: Copilot analyserer innholdet i dette dokumentet så snart det åpnes, for å generere et sammendrag.
+						9 knapp Description: Utvid sammendrag, ID: Collapse_Expand_Summary_Button
+					10 container
+						11 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Arbeidsmiljø, HMS og likestilling
+						12 Tabell, 3 Rader, 2 Kolonner, , 
+							13 row (disabled)
+								14 celle (disabled)
+									15 tekstinnskrivingsområde (disabled, settable) Utbytte
+								16 celle (disabled)
+									17 container
+										18 tekstinnskrivingsområde (disabled, settable) [kr. 1.000.000,-]
+							19 row (disabled)
+								20 celle (disabled)
+									21 tekstinnskrivingsområde (disabled, settable) Annen egenkapital
+								22 celle (disabled)
+									23 container
+										24 tekstinnskrivingsområde (disabled, settable) [kr. 500.000,-]
+							25 row (disabled)
+								26 celle (disabled)
+									27 tekstinnskrivingsområde (disabled, settable) Sum disponert
+								28 celle (disabled)
+									29 container
+										30 tekstinnskrivingsområde (disabled, settable) [kr. 1.500.000,-]
+						31 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Flernivånumre for revisor- og advokatdokumenter
+Lovparagraf 1
+        1. Styreleder har det overordnede ansvaret i styret, samt for å planlegge hvilke oppgaver som styret skal arbeide med og prioritere, behandle til hensiktsmessig tid på året og vedta. Styreleder er også ansvarlig for å avstemme mål, premisser og føringer fra generalforsamlingen og selskapets vedtekter, slik at dette blir ivaretatt på en hensiktsmessig og forsvarlig måte og ikke unnlatt i styrebehandlingen.
+        2. Instruksen skal blant annet inneholde regler om hvilke saker som skal styrebehandles og daglig leders arbeidsoppgaver og plikter overfor styret. Instruksen skal også inneholde regler for innkalling og møtebehandling.
+        3. Instruksen skal blant annet inneholde regler om hvilke saker som skal styrebehandles og daglig leders arbeidsoppgaver og plikter overfor styret. Instruksen skal også inneholde regler for innkalling og møtebehandling.
+            4. Instruksen skal blant annet inneholde regler om hvilke saker som skal styrebehandles og daglig leders arbeidsoppgaver og plikter overfor styret. Instruksen skal også inneholde regler for innkalling og møtebehandling.
+Saksliste
+    * Fortegnelse og godkjenning av aksjer og fullmakter
+    * Godkjenning av innkallingen til generalforsamling
+    * Valg av deltakere til å underskrive protokoll fra møtet sammen med møteleder
+    * Valg av deltaker til å underskrive protokollen fra møtet sammen med møteleder
+Det er viktig at måltall og parameter tilpasses virksomheten og brukerne. Start med noen enkel parameter og bygg deretter opp nye måltall som forteller dere om egen utvikling. Et godt råd er at styret og ledelsen tar et møte og diskuterer hvilke måltall og parameter som bør inngå.
+Tabell, 3 Rader, 2 Kolonner, ,  
+						32 Felt page
+						33 Felt numpages
+						34 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 1	Flernivånumre og saksliste
+				35 rullefelt (disabled, settable, float) 0
+					36 verdiindikator (disabled, settable, float) 0
+				37 rullefelt (disabled, settable, float) 0.2897669706180345
+					38 verdiindikator (disabled, settable, float) 0.2897669706180345
+		39 deler (disabled, settable, float) 1728
+	40 container Statuslinje
+		41 knapp Side 1 av 1, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten.
+		42 knapp 262 ord, Help: Antall ord i dokument. Klikk eller trykk for å åpne dialogboksen Ordtelling.
+		43 knapp Ingen korrekturfeil.
+		44 knapp Norsk (bokmål), Help: Språk
+		45 veksleknapp Tilgjengelighet: Alt er klart, Help: Tilgjengelighetskontrollen er fullført. Klikk her for å finne ut mer., Value: off
+		46 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		47 valgknapp Sideutforming, Value: 1
+		48 valgknapp Weboppsett, Value: 0
+		49 valgknapp Disposisjon, Value: 0
+		50 valgknapp Kladd, Value: 0
+		51 knapp Zoom ut
+		52 knapp Zoom inn
+		53 skyveknapp (settable, float) Help: Zoom, Value: 1015, Details: 106 %
+			54 verdiindikator (settable, float) 1015
+		55 knapp 106 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+	56 fanegruppe Description: bånd, Details: Hjem
+		57 rullefeltområde Hjem-fanekommandoer
+			58 container
+				59 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				60 knapp (disabled) Klipp ut, Value: 0
+				61 knapp (disabled) Kopier, Value: 0
+				62 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			63 container
+				64 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					65 knapp
+				66 kombinert rute (settable) Description: Skriftstørrelse:, Value: 18, Secondary Actions: Confirm
+					67 knapp
+				68 knapp Øk skriftstørrelse, Value: 0
+				69 knapp Reduser skriftstørrelse, Value: 0
+				70 menyknapp Endre bokstavtype, Value: 0
+				71 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				72 veksleknapp Fet, Value: on
+				73 veksleknapp Kursiv, Value: off
+				74 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				75 veksleknapp Gjennomstreking, Value: off
+				76 veksleknapp Senket skrift, Value: off
+				77 veksleknapp Hevet skrift, Value: off
+				78 menyknapp Teksteffekter, Value: 0
+				79 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				80 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			81 container
+				82 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				83 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				84 menyknapp Liste med flere nivåer, Value: 0
+				85 knapp Reduser innrykk, Value: 0
+				86 knapp Øk innrykk, Value: 0
+				87 knapp Sorter, Value: 0
+				88 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				89 veksleknapp Venstrejuster, Value: on
+				90 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				91 veksleknapp Høyrejuster, Value: off
+				92 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				93 menyknapp Linje- og avsnittsavstand, Value: 0
+				94 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				95 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			96 container
+				97 galleri Description: Stiler, Help: galleri
+					98 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					99 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					100 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					101 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					102 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					103 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					104 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					105 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				106 veksleknapp Stiler-rute, Value: off
+			107 veksleknapp Dikter, Help: Office-diktering, Value: off
+			108 menyknapp (disabled) Følsomhet, Value: 0
+			109 knapp Tillegg, Value: 0
+			110 container
+				111 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				112 veksleknapp Copilot, Value: off
+			113 container
+				114 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				115 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		116 fane Hjem, Help: Skjul båndet, Value: 1
+		117 fane Sett inn
+		118 fane Tegn
+		119 fane Utforming
+		120 fane Oppsett
+		121 fane Referanser
+		122 fane Masseutsendelser
+		123 fane Se gjennom
+		124 fane Visning
+		125 fane Acrobat
+		126 knapp Kommentarer
+		127 knapp Redigering, Help: Modus for dokumenttilgang
+		128 knapp Del
+	129 verktøylinje
+		130 container Secondary Actions: Fjern fra verktøylinjen
+			131 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			132 knapp Hjem, Value: 0
+			133 knapp Lagre, Value: 0
+			134 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			135 knapp (disabled) Kan ikke gjenta, Value: 0
+			136 knapp Skriv ut, Value: 0
+			137 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			138 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				139 knapp Søk
+			140 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			141 text Value: 17_Flernivanummerering_og_saksliste Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			142 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	143 lukkeknapp
+	144 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	145 minimeringsknapp
+146 menu bar
+	147 Word, ID: AppMenu_MenuItem
+	148 Fil
+	149 Rediger, ID: EditMenu_MenuItem
+	150 Vis, ID: ViewMenu_MenuItem
+	151 Sett inn
+	152 Formater
+	153 Verktøy
+	154 Tabell
+	155 Vindu, ID: WindowMenu_MenuItem
+	156 Hjelp, ID: HelpMenu_MenuItem
+
+The focused UI element is 31 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Flernivånumre for revisor- og advokatdokumenter
+Lovparagraf 1
+        1. Styreleder har det overordnede ansvaret i styret, samt for å planlegge hvilke oppgaver som styret skal arbeide med og prioritere, behandle til hensiktsmessig tid på året og vedta. Styreleder er også ansvarlig for å avstemme mål, premisser og føringer fra generalforsamlingen og selskapets vedtekter, slik at dette blir ivaretatt på en hensiktsmessig og forsvarlig måte og ikke unnlatt i styrebehandlingen.
+        2. Instruksen skal blant annet inneholde regler om hvilke saker som skal styrebehandles og daglig leders arbeidsoppgaver og plikter overfor styret. Instruksen skal også inneholde regler for innkalling og møtebehandling.
+        3. Instruksen skal blant annet inneholde regler om hvilke saker som skal styrebehandles og daglig leders arbeidsoppgaver og plikter overfor styret. Instruksen skal også inneholde regler for innkalling og møtebehandling.
+            4. Instruksen skal blant annet inneholde regler om hvilke saker som skal styrebehandles og daglig leders arbeidsoppgaver og plikter overfor styret. Instruksen skal også inneholde regler for innkalling og møtebehandling.
+Saksliste
+    * Fortegnelse og godkjenning av aksjer og fullmakter
+    * Godkjenning av innkallingen til generalforsamling
+    * Valg av deltakere til å underskrive protokoll fra møtet sammen med møteleder
+    * Valg av deltaker til å underskrive protokollen fra møtet sammen med møteleder
+Det er viktig at måltall og parameter tilpasses virksomheten og brukerne. Start med noen enkel parameter og bygg deretter opp nye måltall som forteller dere om egen utvikling. Et godt råd er at styret og ledelsen tar et møte og diskuterer hvilke måltall og parameter som bør inngå.
+Tabell, 3 Rader, 2 Kolonner, ,  

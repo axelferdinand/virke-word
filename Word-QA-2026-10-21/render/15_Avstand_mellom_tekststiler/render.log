@@ -1,0 +1,4 @@
+[render_docx] $ /Users/afg/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/soffice -env:UserInstallation=file:///private/tmp/soffice_profile_tp08tda1 --invisible --headless --norestore --convert-to pdf --outdir /private/tmp/soffice_convert_5df440yg /Users/afg/Nettsteder/virke-word/Virke-revidert-2026-10-21/15_Avstand_mellom_tekststiler.docx
+convert /Users/afg/Nettsteder/virke-word/Virke-revidert-2026-10-21/15_Avstand_mellom_tekststiler.docx as a Writer document -> /private/tmp/soffice_convert_5df440yg/15_Avstand_mellom_tekststiler.pdf using filter : writer_pdf_Export
+
+Pages rendered to /Users/afg/Nettsteder/virke-word/Word-QA-2026-10-21/render/15_Avstand_mellom_tekststiler

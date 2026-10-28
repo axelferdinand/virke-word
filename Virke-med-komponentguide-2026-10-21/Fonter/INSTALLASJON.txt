@@ -1,0 +1,10 @@
+VIRKE FONTER
+
+Installer ClanOffc-News.ttf og ClanOffc-Bold.ttf før du bruker mastermalen.
+Windows: Høyreklikk fontfilene og velg Installer.
+Mac: Åpne fontfilene i Fontbok og velg Installer.
+Start Word på nytt etter installasjon.
+
+Det er ikke nok at fontfilene ligger i samme mappe som Word-filen.
+Fontmappen er del av Virkes malleveranse. Følg Virkes eksisterende fontlisens
+ved installasjon og videre distribusjon.

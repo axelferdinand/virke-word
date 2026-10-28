@@ -1,0 +1,1254 @@
+Window: "Komponentguide-2.2-slutt", App: Microsoft Word.
+0 standardvindu Komponentguide-2.2-slutt, URL: file:///Users/afg/Nettsteder/virke-word/Word-QA-2026-10-28/testkopier/Komponentguide-2.2-slutt.docx, Secondary Actions: Raise
+	1 delt gruppe
+		2 delt gruppe Document Pane
+			3 rullefeltområde Secondary Actions: Scroll Left, Scroll Right, Scroll Up, Scroll Down
+				4 (disabled) Komponentguide-2.2-slutt
+					5 container Description: Copilot-sammendrag, ID: Summary_Container_Test_ID
+						6 ukjent
+							7 tekstinnskrivingsområde Value: **Copilot-sammendrag**, ID: Initial_Header_ID
+						8 bilde Description: Informasjon, Help: Copilot analyserer innholdet i dette dokumentet så snart det åpnes, for å generere et sammendrag.
+						9 knapp Description: Utvid sammendrag, ID: Collapse_Expand_Summary_Button
+					10 container
+						11 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Virke Word · Komponentguide 2.2
+						12 Tabell, 1 Rad, 1 Kolonne, , 
+							13 row (disabled)
+								14 celle (disabled)
+									15 tekstinnskrivingsområde (disabled, settable) Hjelpetekst: Bruk denne rosa boksen til korte instrukser om utfylling. Erstatt teksten med det mottakeren trenger å vite. Les instruksen og fjern boksen før deling når den bare er ment som intern hjelp.
+						16 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en ferdig bruksmal dekker behovet, bruker du en kopi av den.
+    3. Plasser markøren i et tomt avsnitt. På Mac: klikk Virke-blokker under Hjem eller Virke. Velg fanen Autotekst og masteren under Søk i. Marker blokken og trykk Sett inn.
+På Windows finner du Autotekst under Sett inn > Hurtigdeler. Menynavn kan variere. Bruk Word på skrivebordet til arbeidsmåtene i denne guiden.
+Hjelpetekst
+Tabell, 1 Rad, 1 Kolonne, ,  
+Boksen over er selve byggeblokken Hjelpetekst. Klikk i den for å redigere teksten. La innholdet styre høyden, og behold malens formatering.
+Versjon 2.2 · 28. oktober 2026. Eksemplene viser bruken av komponentene og er ikke ferdig utfylte dokumenter.
+
+						17 Felt page
+						18 Felt numpages
+						19 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					20 container
+						21 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Virke Word · Komponentguide 2.2
+						22 Tabell, 22 Rader, 3 Kolonner, , 
+							23 row (disabled)
+								24 celle (disabled)
+									25 container
+										26 tekstinnskrivingsområde (disabled, settable) Byggeblokk
+								27 celle (disabled)
+									28 container
+										29 tekstinnskrivingsområde (disabled, settable) Bruksområde
+								30 celle (disabled)
+									31 container
+										32 tekstinnskrivingsområde (disabled, settable) Side
+							33 row (disabled)
+								34 celle (disabled)
+									35 container
+										36 tekstinnskrivingsområde (disabled, settable) Hjelpetekst
+								37 celle (disabled)
+									38 container
+										39 tekstinnskrivingsområde (disabled, settable) Kort instruks om utfylling
+								40 celle (disabled)
+									41 container
+										42 Felt pageref
+											43 lenke (disabled) Description: 1, Value: GuideModule01
+										44 tekstinnskrivingsområde (disabled, settable) 1
+							45 row (disabled)
+								46 celle (disabled)
+									47 container
+										48 tekstinnskrivingsområde (disabled, settable) Innholdsfortegnelse
+								49 celle (disabled)
+									50 container
+										51 tekstinnskrivingsområde (disabled, settable) Levende oversikt fra overskrifter
+								52 celle (disabled)
+									53 container
+										54 Felt pageref
+											55 lenke (disabled) Description: 4, Value: GuideModule02
+										56 tekstinnskrivingsområde (disabled, settable) 4
+							57 row (disabled)
+								58 celle (disabled)
+									59 container
+										60 tekstinnskrivingsområde (disabled, settable) Lovtekst
+								61 celle (disabled)
+									62 container
+										63 tekstinnskrivingsområde (disabled, settable) Nummererte punkter på tre nivåer
+								64 celle (disabled)
+									65 container
+										66 Felt pageref
+											67 lenke (disabled) Description: 4, Value: GuideModule03
+										68 tekstinnskrivingsområde (disabled, settable) 4
+							69 row (disabled)
+								70 celle (disabled)
+									71 container
+										72 tekstinnskrivingsområde (disabled, settable) Utfyllingsmal
+								73 celle (disabled)
+									74 container
+										75 tekstinnskrivingsområde (disabled, settable) Ni navnefelt med faste etiketter
+								76 celle (disabled)
+									77 container
+										78 Felt pageref
+											79 lenke (disabled) Description: 5, Value: GuideModule04
+										80 tekstinnskrivingsområde (disabled, settable) 5
+							81 row (disabled)
+								82 celle (disabled)
+									83 container
+										84 tekstinnskrivingsområde (disabled, settable) Møteinformasjon – enkel
+								85 celle (disabled)
+									86 container
+										87 tekstinnskrivingsområde (disabled, settable) Møtedata og deltakere
+								88 celle (disabled)
+									89 container
+										90 Felt pageref
+											91 lenke (disabled) Description: 6, Value: GuideModule05
+										92 tekstinnskrivingsområde (disabled, settable) 6
+							93 row (disabled)
+								94 celle (disabled)
+									95 container
+										96 tekstinnskrivingsområde (disabled, settable) Møteinformasjon – detaljert
+								97 celle (disabled)
+									98 container
+										99 tekstinnskrivingsområde (disabled, settable) Dato, tid og sted på én linje
+								100 celle (disabled)
+									101 container
+										102 Felt pageref
+											103 lenke (disabled) Description: 6, Value: GuideModule06
+										104 tekstinnskrivingsområde (disabled, settable) 6
+							105 row (disabled)
+								106 celle (disabled)
+									107 container
+										108 tekstinnskrivingsområde (disabled, settable) Tabell
+								109 celle (disabled)
+									110 container
+										111 tekstinnskrivingsområde (disabled, settable) Beløpsoppsett med sumlinje
+								112 celle (disabled)
+									113 container
+										114 Felt pageref
+											115 lenke (disabled) Description: 7, Value: GuideModule07
+										116 tekstinnskrivingsområde (disabled, settable) 7
+							117 row (disabled)
+								118 celle (disabled)
+									119 container
+										120 tekstinnskrivingsområde (disabled, settable) Tabell med 2 kolonner
+								121 celle (disabled)
+									122 container
+										123 tekstinnskrivingsområde (disabled, settable) To kolonner med overskriftsrad
+								124 celle (disabled)
+									125 container
+										126 Felt pageref
+											127 lenke (disabled) Description: 7, Value: GuideModule08
+										128 tekstinnskrivingsområde (disabled, settable) 7
+							129 row (disabled)
+								130 celle (disabled)
+									131 container
+										132 tekstinnskrivingsområde (disabled, settable) Tabell med 3 kolonner
+								133 celle (disabled)
+									134 container
+										135 tekstinnskrivingsområde (disabled, settable) Tre kolonner med overskriftsrad
+								136 celle (disabled)
+									137 container
+										138 Felt pageref
+											139 lenke (disabled) Description: 8, Value: GuideModule09
+										140 tekstinnskrivingsområde (disabled, settable) 8
+							141 row (disabled)
+								142 celle (disabled)
+									143 container
+										144 tekstinnskrivingsområde (disabled, settable) Tabell med 4 kolonner
+								145 celle (disabled)
+									146 container
+										147 tekstinnskrivingsområde (disabled, settable) Fire kolonner med overskriftsrad
+								148 celle (disabled)
+									149 container
+										150 Felt pageref
+											151 lenke (disabled) Description: 8, Value: GuideModule10
+										152 tekstinnskrivingsområde (disabled, settable) 8
+							153 row (disabled)
+								154 celle (disabled)
+									155 container
+										156 tekstinnskrivingsområde (disabled, settable) Tabell med 5 kolonner
+								157 celle (disabled)
+									158 container
+										159 tekstinnskrivingsområde (disabled, settable) Fem kolonner med overskriftsrad
+								160 celle (disabled)
+									161 container
+										162 Felt pageref
+											163 lenke (disabled) Description: 9, Value: GuideModule11
+										164 tekstinnskrivingsområde (disabled, settable) 9
+							165 row (disabled)
+								166 celle (disabled)
+									167 container
+										168 tekstinnskrivingsområde (disabled, settable) Store celler
+								169 celle (disabled)
+									170 container
+										171 tekstinnskrivingsområde (disabled, settable) Kontrollpunkter og lengre merknader
+								172 celle (disabled)
+									173 container
+										174 Felt pageref
+											175 lenke (disabled) Description: 9, Value: GuideModule12
+										176 tekstinnskrivingsområde (disabled, settable) 9
+							177 row (disabled)
+								178 celle (disabled)
+									179 container
+										180 tekstinnskrivingsområde (disabled, settable) Tabell med 9 kolonner liggende
+								181 celle (disabled)
+									182 container
+										183 tekstinnskrivingsområde (disabled, settable) Ulike kolonnebredder på liggende side
+								184 celle (disabled)
+									185 container
+										186 Felt pageref
+											187 lenke (disabled) Description: 10, Value: GuideModule13
+										188 tekstinnskrivingsområde (disabled, settable) 10
+							189 row (disabled)
+								190 celle (disabled)
+									191 container
+										192 tekstinnskrivingsområde (disabled, settable) Tabell med 9 like kolonner liggende
+								193 celle (disabled)
+									194 container
+										195 tekstinnskrivingsområde (disabled, settable) Like kolonnebredder på liggende side
+								196 celle (disabled)
+									197 container
+										198 Felt pageref
+											199 lenke (disabled) Description: 11, Value: GuideModule14
+										200 tekstinnskrivingsområde (disabled, settable) 11
+							201 row (disabled)
+								202 celle (disabled)
+									203 container
+										204 tekstinnskrivingsområde (disabled, settable) Saksliste
+								205 celle (disabled)
+									206 container
+										207 tekstinnskrivingsområde (disabled, settable) Saker, beskrivelse og vedtak
+								208 celle (disabled)
+									209 container
+										210 Felt pageref
+											211 lenke (disabled) Description: 12, Value: GuideModule15
+										212 tekstinnskrivingsområde (disabled, settable) 12
+							213 row (disabled)
+								214 celle (disabled)
+									215 container
+										216 tekstinnskrivingsområde (disabled, settable) Signatur
+								217 celle (disabled)
+									218 container
+										219 tekstinnskrivingsområde (disabled, settable) Sted, dato og tre signaturfelt
+								220 celle (disabled)
+									221 container
+										222 Felt pageref
+											223 lenke (disabled) Description: 13, Value: GuideModule16
+										224 tekstinnskrivingsområde (disabled, settable) 13
+							225 row (disabled)
+								226 celle (disabled)
+									227 container
+										228 tekstinnskrivingsområde (disabled, settable) Avtale
+								229 celle (disabled)
+									230 container
+										231 tekstinnskrivingsområde (disabled, settable) Tittel, parter, avsnitt og signatur
+								232 celle (disabled)
+									233 container
+										234 Felt pageref
+											235 lenke (disabled) Description: 14, Value: GuideModule17
+										236 tekstinnskrivingsområde (disabled, settable) 14
+							237 row (disabled)
+								238 celle (disabled)
+									239 container
+										240 tekstinnskrivingsområde (disabled, settable) Diagram søyle
+								241 celle (disabled)
+									242 container
+										243 tekstinnskrivingsområde (disabled, settable) Sammenligning av kategorier
+								244 celle (disabled)
+									245 container
+										246 Felt pageref
+											247 lenke (disabled) Description: 15, Value: GuideModule18
+										248 tekstinnskrivingsområde (disabled, settable) 15
+							249 row (disabled)
+								250 celle (disabled)
+									251 container
+										252 tekstinnskrivingsområde (disabled, settable) Diagram sektor
+								253 celle (disabled)
+									254 container
+										255 tekstinnskrivingsområde (disabled, settable) Fordeling av én total
+								256 celle (disabled)
+									257 container
+										258 Felt pageref
+											259 lenke (disabled) Description: 16, Value: GuideModule19
+										260 tekstinnskrivingsområde (disabled, settable) 16
+							261 row (disabled)
+								262 celle (disabled)
+									263 container
+										264 tekstinnskrivingsområde (disabled, settable) Virke topptekst
+								265 celle (disabled)
+									266 container
+										267 tekstinnskrivingsområde (disabled, settable) Tema eller dokumentkategori
+								268 celle (disabled)
+									269 container
+										270 Felt pageref
+											271 lenke (disabled) Description: 17, Value: GuideModule20
+										272 tekstinnskrivingsområde (disabled, settable) 17
+							273 row (disabled)
+								274 celle (disabled)
+									275 container
+										276 tekstinnskrivingsområde (disabled, settable) Virke bunntekst
+								277 celle (disabled)
+									278 container
+										279 tekstinnskrivingsområde (disabled, settable) Dokumentnavn og levende sidetall
+								280 celle (disabled)
+									281 container
+										282 Felt pageref
+											283 lenke (disabled) Description: 17, Value: GuideModule21
+										284 tekstinnskrivingsområde (disabled, settable) 17
+							285 kolonne (disabled) Byggeblokk
+							286 kolonne (disabled) Bruksområde
+							287 kolonne (disabled) Side
+						288 tekstinnskrivingsområde (disabled, settable) Description: Side 2-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslags
+						289 Felt page
+						290 Felt numpages
+						291 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					292 container
+						293 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Virke Word · Komponentguide 2.2
+						294 tekstinnskrivingsområde (disabled, settable) Description: Side 3-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en ferdig bruksmal dekker behovet, bruker du en kopi av den.
+    3. Plasser markøren i et tomt avsnitt. På Mac: klikk Virke-blokker under Hjem eller Virke. Velg fanen Autotekst og masteren under Søk i. Marker blokken og trykk Sett inn.
+På Windows finner du Autotekst under Sett inn > Hurtigdeler. Menynavn kan variere. Bruk Word på skrivebordet til arbeidsmåtene i denne guiden.
+Hjelpetekst
+Tabell, 1 Rad, 1 Kolonne, ,  
+Boksen over 
+						295 Felt page
+						296 Felt numpages
+						297 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					298 container
+						299 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Virke Word · Komponentguide 2.2
+						300 Innholdsfortegnelse
+							301 Felt toc
+								302 lenke (disabled) Overskrift 1 viser hovedtemaet	3
+								303 lenke (disabled) Overskrift 2 deler inn temaet	3
+								304 lenke (disabled) Overskrift 3 utdyper underkapitlet	3
+						305 tekstinnskrivingsområde (disabled, settable) Description: Side 4-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en ferdig bruksmal dekker behovet, bruker du en kopi av den.
+    3. Plasser markøren i et tomt avsnitt. På Mac: klikk Virke-blokker under Hjem eller Virke. Velg fanen Autotekst og masteren under Søk i. Marker blokken og trykk Sett inn.
+På Windows finner du Autotekst under Sett inn > Hurtigdeler. Menynavn kan variere. Bruk Word på skrivebordet til arbeidsmåtene i denne guiden.
+Hjelpetekst
+Tabell, 1 Rad, 1 Kolonne, ,  
+B
+						306 Felt page
+						307 Felt numpages
+						308 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					309 container
+						310 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Virke Word · Komponentguide 2.2
+						311 Tabell, 6 Rader, 2 Kolonner, , 
+							312 row (disabled)
+								313 celle (disabled)
+									314 container
+										315 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+								316 celle (disabled)
+									317 container
+										318 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+							319 row (disabled)
+								320 celle (disabled)
+									321 container
+										322 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+								323 celle (disabled)
+									324 container
+										325 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+							326 row (disabled)
+								327 celle (disabled)
+									328 container
+										329 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+								330 celle (disabled)
+									331 container
+										332 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+							333 row (disabled)
+								334 celle (disabled) 0-1
+									335 container 0-1
+										336 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+							337 row (disabled)
+								338 celle (disabled) 0-1
+									339 container 0-1
+										340 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+							341 row (disabled)
+								342 celle (disabled) 0-1
+									343 container 0-1
+										344 tekstinnskrivingsområde (disabled, settable) Navn: [Fyll ut]
+						345 tekstinnskrivingsområde (disabled, settable) Description: Side 5-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en ferd
+						346 Felt page
+						347 Felt numpages
+						348 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					349 container
+						350 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Virke Word · Komponentguide 2.2
+						351 tekstinnskrivingsområde (disabled, settable) Description: Side 6-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en ferdig bruksmal dekker behovet, bruker du en kopi av den.
+    3. Plasser markøren i et tomt avsnitt. På Mac: klikk Virke-blokker under Hjem eller Virke. Velg fanen Autotekst og masteren under Søk i. Marker blokk
+						352 Felt page
+						353 Felt numpages
+						354 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					355 container
+						356 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Virke Word · Komponentguide 2.2
+						357 Tabell, 3 Rader, 2 Kolonner, , 
+							358 row (disabled)
+								359 celle (disabled)
+									360 tekstinnskrivingsområde (disabled, settable) Utbytte
+								361 celle (disabled)
+									362 container
+										363 tekstinnskrivingsområde (disabled, settable) [kr. 0,-]
+							364 row (disabled)
+								365 celle (disabled)
+									366 tekstinnskrivingsområde (disabled, settable) Annen egenkapital
+								367 celle (disabled)
+									368 container
+										369 tekstinnskrivingsområde (disabled, settable) [kr. 0,-]
+							370 row (disabled)
+								371 celle (disabled)
+									372 tekstinnskrivingsområde (disabled, settable) Sum disponert
+								373 celle (disabled)
+									374 container
+										375 tekstinnskrivingsområde (disabled, settable) [kr. 0,-]
+						376 Tabell, 3 Rader, 2 Kolonner, , 
+							377 row (disabled)
+								378 celle (disabled)
+									379 container
+										380 tekstinnskrivingsområde (disabled, settable) Handling
+								381 celle (disabled)
+									382 container
+										383 tekstinnskrivingsområde (disabled, settable) Slik gjør du
+							384 row (disabled)
+								385 celle (disabled)
+									386 container
+										387 tekstinnskrivingsområde (disabled, settable) Ny rad
+								388 celle (disabled)
+									389 container
+										390 tekstinnskrivingsområde (disabled, settable) Trykk Tab i siste celle eller velg Tabelloppsett > Sett inn under.
+							391 row (disabled)
+								392 celle (disabled)
+									393 container
+										394 tekstinnskrivingsområde (disabled, settable) Mer tekst
+								395 celle (disabled)
+									396 container
+										397 tekstinnskrivingsområde (disabled, settable) Skriv videre i cellen. La raden vokse med innholdet.
+							398 kolonne (disabled) Handling
+							399 kolonne (disabled) Slik gjør du
+						400 tekstinnskrivingsområde (disabled, settable) Description: Side 7-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en ferdig bruksmal dekker behovet, bruker du en kopi av den.
+    3. Pla
+						401 Felt page
+						402 Felt numpages
+						403 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					404 container
+						405 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Virke Word · Komponentguide 2.2
+						406 Tabell, 3 Rader, 3 Kolonner, , 
+							407 row (disabled)
+								408 celle (disabled)
+									409 container
+										410 tekstinnskrivingsområde (disabled, settable) Del
+								411 celle (disabled)
+									412 container
+										413 tekstinnskrivingsområde (disabled, settable) Bruk
+								414 celle (disabled)
+									415 container
+										416 tekstinnskrivingsområde (disabled, settable) Arbeidsmåte
+							417 row (disabled)
+								418 celle (disabled)
+									419 container
+										420 tekstinnskrivingsområde (disabled, settable) Overskriftsrad
+								421 celle (disabled)
+									422 container
+										423 tekstinnskrivingsområde (disabled, settable) Forteller hva kolonnen inneholder
+								424 celle (disabled)
+									425 container
+										426 tekstinnskrivingsområde (disabled, settable) Skriv en kort og tydelig overskrift.
+							427 row (disabled)
+								428 celle (disabled)
+									429 container
+										430 tekstinnskrivingsområde (disabled, settable) Datarad
+								431 celle (disabled)
+									432 container
+										433 tekstinnskrivingsområde (disabled, settable) Samler opplysninger som hører sammen
+								434 celle (disabled)
+									435 container
+										436 tekstinnskrivingsområde (disabled, settable) Bruk Tab mellom cellene.
+							437 kolonne (disabled) Del
+							438 kolonne (disabled) Bruk
+							439 kolonne (disabled) Arbeidsmåte
+						440 Tabell, 3 Rader, 4 Kolonner, , 
+							441 row (disabled)
+								442 celle (disabled)
+									443 container
+										444 tekstinnskrivingsområde (disabled, settable) Tema
+								445 celle (disabled)
+									446 container
+										447 tekstinnskrivingsområde (disabled, settable) Opplysning
+								448 celle (disabled)
+									449 container
+										450 tekstinnskrivingsområde (disabled, settable) Ansvar
+								451 celle (disabled)
+									452 container
+										453 tekstinnskrivingsområde (disabled, settable) Merknad
+							454 row (disabled)
+								455 celle (disabled)
+									456 container
+										457 tekstinnskrivingsområde (disabled, settable) Kort tekst
+								458 celle (disabled)
+									459 container
+										460 tekstinnskrivingsområde (disabled, settable) Én opplysning per celle
+								461 celle (disabled)
+									462 container
+										463 tekstinnskrivingsområde (disabled, settable) Navn eller rolle
+								464 celle (disabled)
+									465 container
+										466 tekstinnskrivingsområde (disabled, settable) Plass til utdyping
+							467 row (disabled)
+								468 celle (disabled)
+									469 container
+										470 tekstinnskrivingsområde (disabled, settable) Ny rad
+								471 celle (disabled)
+									472 container
+										473 tekstinnskrivingsområde (disabled, settable) Sett inn under
+								474 celle (disabled)
+									475 container
+										476 tekstinnskrivingsområde (disabled, settable) Behold kolonnene
+								477 celle (disabled)
+									478 container
+										479 tekstinnskrivingsområde (disabled, settable) Raden vokser med teksten
+							480 kolonne (disabled) Tema
+							481 kolonne (disabled) Opplysning
+							482 kolonne (disabled) Ansvar
+							483 kolonne (disabled) Merknad
+						484 tekstinnskrivingsområde (disabled, settable) Description: Side 8-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttit
+						485 Felt page
+						486 Felt numpages
+						487 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					488 container
+						489 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 1-, Value: Virke Word · Komponentguide 2.2
+						490 Tabell, 3 Rader, 5 Kolonner, , 
+							491 row (disabled)
+								492 celle (disabled)
+									493 container
+										494 tekstinnskrivingsområde (disabled, settable) Punkt
+								495 celle (disabled)
+									496 container
+										497 tekstinnskrivingsområde (disabled, settable) Status
+								498 celle (disabled)
+									499 container
+										500 tekstinnskrivingsområde (disabled, settable) Ansvar
+								501 celle (disabled)
+									502 container
+										503 tekstinnskrivingsområde (disabled, settable) Frist
+								504 celle (disabled)
+									505 container
+										506 tekstinnskrivingsområde (disabled, settable) Merknad
+							507 row (disabled)
+								508 celle (disabled)
+									509 container
+										510 tekstinnskrivingsområde (disabled, settable) Kort tittel
+								511 celle (disabled)
+									512 container
+										513 tekstinnskrivingsområde (disabled, settable) Åpen
+								514 celle (disabled)
+									515 container
+										516 tekstinnskrivingsområde (disabled, settable) Rolle
+								517 celle (disabled)
+									518 container
+										519 tekstinnskrivingsområde (disabled, settable) Dato
+								520 celle (disabled)
+									521 container
+										522 tekstinnskrivingsområde (disabled, settable) Kort oppfølging
+							523 row (disabled)
+								524 celle (disabled)
+									525 container
+										526 tekstinnskrivingsområde (disabled, settable) Neste punkt
+								527 celle (disabled)
+									528 container
+										529 tekstinnskrivingsområde (disabled, settable) Avklart
+								530 celle (disabled)
+									531 container
+										532 tekstinnskrivingsområde (disabled, settable) Rolle
+								533 celle (disabled)
+									534 container
+										535 tekstinnskrivingsområde (disabled, settable) Dato
+								536 celle (disabled)
+									537 container
+										538 tekstinnskrivingsområde (disabled, settable) Utfyllende tekst
+							539 kolonne (disabled) Punkt
+							540 kolonne (disabled) Status
+							541 kolonne (disabled) Ansvar
+							542 kolonne (disabled) Frist
+							543 kolonne (disabled) Merknad
+						544 Tabell, 2 Rader, 5 Kolonner, , 
+							545 row (disabled)
+								546 celle (disabled)
+									547 tekstinnskrivingsområde (disabled, settable) Kontrollpunkter
+								548 celle (disabled)
+									549 tekstinnskrivingsområde (disabled, settable) OK
+								550 celle (disabled)
+									551 tekstinnskrivingsområde (disabled, settable) I/A
+								552 celle (disabled)
+									553 tekstinnskrivingsområde (disabled, settable) Oppfølgingsansvar
+								554 celle (disabled)
+									555 tekstinnskrivingsområde (disabled, settable) Merknad
+							556 row (disabled)
+								557 celle (disabled)
+									558 tekstinnskrivingsområde (disabled, settable) Samle flere opplysninger i en stor celle:
+Beskriv hva som skal kontrolleres.
+Bruk en egen linje til hvert delpunkt.
+								559 celle (disabled)
+									560 container
+										561 tekstinnskrivingsområde (disabled, settable) [ ]
+								562 celle (disabled)
+									563 container
+										564 tekstinnskrivingsområde (disabled, settable) [ ]
+								565 celle (disabled)
+									566 container
+										567 tekstinnskrivingsområde (disabled, settable) Navn eller rolle
+								568 celle (disabled)
+									569 container
+										570 tekstinnskrivingsområde (disabled, settable) Skriv merknaden her. Cellen vokser med teksten.
+							571 kolonne (disabled) Kontrollpunkter
+							572 kolonne (disabled) OK
+							573 kolonne (disabled) I/A
+							574 kolonne (disabled) Oppfølgingsansvar
+							575 kolonne (disabled) Merknad
+						576 tekstinnskrivingsområde (disabled, settable) Description: Side 9-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra lever
+						577 Felt page
+						578 Felt numpages
+						579 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 1-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					580 container
+						581 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 2-, Value: Virke Word · Komponentguide 2.2
+						582 Tabell, 4 Rader, 9 Kolonner, , 
+							583 row (disabled)
+								584 celle (disabled)
+									585 tekstinnskrivingsområde (disabled, settable) Navn
+								586 celle (disabled)
+									587 tekstinnskrivingsområde (disabled, settable) Fødselsdato eller org. nr.
+								588 celle (disabled)
+									589 tekstinnskrivingsområde (disabled, settable) Adresse
+								590 celle (disabled)
+									591 tekstinnskrivingsområde (disabled, settable) Antall aksjer
+								592 celle (disabled)
+									593 tekstinnskrivingsområde (disabled, settable) Aksjenr. (fra–til)
+								594 celle (disabled)
+									595 tekstinnskrivingsområde (disabled, settable) Aksjeklasse
+								596 celle (disabled)
+									597 tekstinnskrivingsområde (disabled, settable) Dato for innføring i aksjeeierboken
+								598 celle (disabled)
+									599 tekstinnskrivingsområde (disabled, settable) Solgt dato
+								600 celle (disabled)
+									601 tekstinnskrivingsområde (disabled, settable) Evt. merknader
+							602 row (disabled)
+								603 celle (disabled)
+									604 container
+										605 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								606 celle (disabled)
+									607 container
+										608 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								609 celle (disabled)
+									610 container
+										611 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								612 celle (disabled)
+									613 container
+										614 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								615 celle (disabled)
+									616 container
+										617 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								618 celle (disabled)
+									619 container
+										620 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								621 celle (disabled)
+									622 container
+										623 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								624 celle (disabled)
+									625 container
+										626 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								627 celle (disabled)
+									628 container
+										629 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							630 row (disabled)
+								631 celle (disabled)
+									632 container
+										633 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								634 celle (disabled)
+									635 container
+										636 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								637 celle (disabled)
+									638 container
+										639 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								640 celle (disabled)
+									641 container
+										642 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								643 celle (disabled)
+									644 container
+										645 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								646 celle (disabled)
+									647 container
+										648 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								649 celle (disabled)
+									650 container
+										651 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								652 celle (disabled)
+									653 container
+										654 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								655 celle (disabled)
+									656 container
+										657 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							658 row (disabled)
+								659 celle (disabled)
+									660 container
+										661 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								662 celle (disabled)
+									663 container
+										664 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								665 celle (disabled)
+									666 container
+										667 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								668 celle (disabled)
+									669 container
+										670 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								671 celle (disabled)
+									672 container
+										673 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								674 celle (disabled)
+									675 container
+										676 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								677 celle (disabled)
+									678 container
+										679 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								680 celle (disabled)
+									681 container
+										682 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								683 celle (disabled)
+									684 container
+										685 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							686 kolonne (disabled) Navn
+							687 kolonne (disabled) Fødselsdato eller org. nr.
+							688 kolonne (disabled) Adresse
+							689 kolonne (disabled) Antall aksjer
+							690 kolonne (disabled) Aksjenr. (fra–til)
+							691 kolonne (disabled) Aksjeklasse
+							692 kolonne (disabled) Dato for innføring i aksjeeierboken
+							693 kolonne (disabled) Solgt dato
+							694 kolonne (disabled) Evt. merknader
+						695 tekstinnskrivingsområde (disabled, settable) Description: Side 10-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en ferdig bruksmal dekker behovet, bruker du e
+						696 Felt page
+						697 Felt numpages
+						698 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 2-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					699 container
+						700 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 2-, Value: Virke Word · Komponentguide 2.2
+						701 Tabell, 4 Rader, 9 Kolonner, , 
+							702 row (disabled)
+								703 celle (disabled)
+									704 tekstinnskrivingsområde (disabled, settable) Navn
+								705 celle (disabled)
+									706 tekstinnskrivingsområde (disabled, settable) Fødselsdato eller org. nr.
+								707 celle (disabled)
+									708 tekstinnskrivingsområde (disabled, settable) Adresse
+								709 celle (disabled)
+									710 tekstinnskrivingsområde (disabled, settable) Antall aksjer
+								711 celle (disabled)
+									712 tekstinnskrivingsområde (disabled, settable) Aksjenr. (fra–til)
+								713 celle (disabled)
+									714 tekstinnskrivingsområde (disabled, settable) Aksjeklasse
+								715 celle (disabled)
+									716 tekstinnskrivingsområde (disabled, settable) Dato for innføring i aksjeeierboken
+								717 celle (disabled)
+									718 tekstinnskrivingsområde (disabled, settable) Solgt dato
+								719 celle (disabled)
+									720 tekstinnskrivingsområde (disabled, settable) Evt. merknader
+							721 row (disabled)
+								722 celle (disabled)
+									723 container
+										724 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								725 celle (disabled)
+									726 container
+										727 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								728 celle (disabled)
+									729 container
+										730 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								731 celle (disabled)
+									732 container
+										733 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								734 celle (disabled)
+									735 container
+										736 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								737 celle (disabled)
+									738 container
+										739 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								740 celle (disabled)
+									741 container
+										742 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								743 celle (disabled)
+									744 container
+										745 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								746 celle (disabled)
+									747 container
+										748 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							749 row (disabled)
+								750 celle (disabled)
+									751 container
+										752 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								753 celle (disabled)
+									754 container
+										755 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								756 celle (disabled)
+									757 container
+										758 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								759 celle (disabled)
+									760 container
+										761 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								762 celle (disabled)
+									763 container
+										764 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								765 celle (disabled)
+									766 container
+										767 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								768 celle (disabled)
+									769 container
+										770 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								771 celle (disabled)
+									772 container
+										773 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								774 celle (disabled)
+									775 container
+										776 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							777 row (disabled)
+								778 celle (disabled)
+									779 container
+										780 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								781 celle (disabled)
+									782 container
+										783 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								784 celle (disabled)
+									785 container
+										786 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								787 celle (disabled)
+									788 container
+										789 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								790 celle (disabled)
+									791 container
+										792 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								793 celle (disabled)
+									794 container
+										795 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								796 celle (disabled)
+									797 container
+										798 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								799 celle (disabled)
+									800 container
+										801 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+								802 celle (disabled)
+									803 container
+										804 tekstinnskrivingsområde (disabled, settable) [Fyll ut]
+							805 kolonne (disabled) Navn
+							806 kolonne (disabled) Fødselsdato eller org. nr.
+							807 kolonne (disabled) Adresse
+							808 kolonne (disabled) Antall aksjer
+							809 kolonne (disabled) Aksjenr. (fra–til)
+							810 kolonne (disabled) Aksjeklasse
+							811 kolonne (disabled) Dato for innføring i aksjeeierboken
+							812 kolonne (disabled) Solgt dato
+							813 kolonne (disabled) Evt. merknader
+						814 tekstinnskrivingsområde (disabled, settable) Description: Side 11-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en 
+						815 Felt page
+						816 Felt numpages
+						817 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 2-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					818 container
+						819 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 3-, Value: Virke Word · Komponentguide 2.2
+						820 Tabell, 3 Rader, 2 Kolonner, , 
+							821 row (disabled)
+								822 celle (disabled)
+									823 tekstinnskrivingsområde (disabled, settable) Utbytte
+								824 celle (disabled)
+									825 container
+										826 tekstinnskrivingsområde (disabled, settable) [kr. 0,-]
+							827 row (disabled)
+								828 celle (disabled)
+									829 tekstinnskrivingsområde (disabled, settable) Annen egenkapital
+								830 celle (disabled)
+									831 container
+										832 tekstinnskrivingsområde (disabled, settable) [kr. 0,-]
+							833 row (disabled)
+								834 celle (disabled)
+									835 tekstinnskrivingsområde (disabled, settable) Sum disponert
+								836 celle (disabled)
+									837 container
+										838 tekstinnskrivingsområde (disabled, settable) [kr. 0,-]
+						839 tekstinnskrivingsområde (disabled, settable) Description: Side 12-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen 
+						840 Felt page
+						841 Felt numpages
+						842 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 3-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					843 container
+						844 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 3-, Value: Virke Word · Komponentguide 2.2
+						845 Tabell, 2 Rader, 5 Kolonner, , 
+							846 row (disabled)
+								847 celle (disabled) 0-4
+									848 container 0-4
+										849 tekstinnskrivingsområde (disabled, settable) [Sted] / [dato]
+							850 row (disabled)
+								851 celle (disabled)
+									852 container
+										853 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Tittel]
+								854 celle (disabled)
+								855 celle (disabled)
+									856 container
+										857 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Tittel]
+								858 celle (disabled)
+								859 celle (disabled)
+									860 container
+										861 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Tittel]
+						862 tekstinnskrivingsområde (disabled, settable) Description: Side 13-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyl
+						863 Felt page
+						864 Felt numpages
+						865 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 3-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					866 container
+						867 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 3-, Value: Virke Word · Komponentguide 2.2
+						868 Tabell, 2 Rader, 5 Kolonner, , 
+							869 row (disabled)
+								870 celle (disabled) 0-4
+									871 container 0-4
+										872 tekstinnskrivingsområde (disabled, settable) [Sted] / [dato]
+							873 row (disabled)
+								874 celle (disabled)
+									875 container
+										876 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Tittel]
+								877 celle (disabled)
+								878 celle (disabled)
+									879 container
+										880 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Tittel]
+								881 celle (disabled)
+								882 celle (disabled)
+									883 container
+										884 tekstinnskrivingsområde (disabled, settable) [Fornavn og etternavn]
+[Tittel]
+						885 tekstinnskrivingsområde (disabled, settable) Description: Side 14-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en 
+						886 Felt page
+						887 Felt numpages
+						888 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 3-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					889 container
+						890 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 3-, Value: Virke Word · Komponentguide 2.2
+						891 container Description: Diagramområde, På linje med tekst, Help: Eksempeldiagram i Virkes farger
+							892 container Diagramtittel
+								893 tekstinnskrivingsområde (disabled) Description: Diagramtittel, På linje med tekst, Value: Diagramtittel
+							894 Diagramelement (disabled) Forklaring
+								895 Diagramelement (disabled) Description: Serie "Serie 1" Forklaringstekst, Help: Serie 1
+								896 Diagramelement (disabled) Description: Serie "Serie 2" Forklaringstekst, Help: Serie 2
+								897 Diagramelement (disabled) Description: Serie "Serie 3" Forklaringstekst, Help: Serie 3
+								898 Diagramelement (disabled) Description: Serie "Serie 3" Forklaringstekst, Help: Serie 3
+								899 Diagramelement (disabled) Description: Serie "Serie 3" Forklaringstekst, Help: Serie 3
+							900 container Tegneområde
+								901 Diagramelement (disabled) Akse: Loddrett (Verdi) 
+									902 Diagramelement (disabled) Akseetikett Verdi: 0
+									903 Diagramelement (disabled) Akseetikett Verdi: 0,5
+									904 Diagramelement (disabled) Akseetikett Verdi: 1
+									905 Diagramelement (disabled) Akseetikett Verdi: 1,5
+									906 Diagramelement (disabled) Akseetikett Verdi: 2
+									907 Diagramelement (disabled) Akseetikett Verdi: 2,5
+									908 Diagramelement (disabled) Akseetikett Verdi: 3
+									909 Diagramelement (disabled) Akseetikett Verdi: 3,5
+									910 Diagramelement (disabled) Akseetikett Verdi: 4
+									911 Diagramelement (disabled) Akseetikett Verdi: 4,5
+									912 Diagramelement (disabled) Akseetikett Verdi: 5
+								913 Diagramelement (disabled) Akse: Vannrett (Kategori) 
+									914 Diagramelement (disabled) Akseetikett Kategori: Kategori 1
+								915 container Hovedstøttelinjer for Akse: Loddrett (Verdi)  
+								916 container Serie "Serie 1"
+									917 container Serie "Serie 1" Punkt "Kategori 1"
+Verdi: 4,3
+								918 container Serie "Serie 2"
+									919 container Serie "Serie 2" Punkt "Kategori 1"
+Verdi: 2,4
+								920 container Serie "Serie 3"
+									921 container Serie "Serie 3" Punkt "Kategori 1"
+Verdi: 2
+								922 container Serie "Serie 3"
+									923 container Serie "Serie 3" Punkt "Kategori 1"
+Verdi: 1
+								924 container Serie "Serie 3"
+									925 container Serie "Serie 3" Punkt "Kategori 1"
+Verdi: 2
+						926 tekstinnskrivingsområde (disabled, settable) Description: Side 15-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et
+						927 Felt page
+						928 Felt numpages
+						929 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 3-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					930 container
+						931 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 3-, Value: Virke Word · Komponentguide 2.2
+						932 container Description: Diagramområde, På linje med tekst, Help: Eksempeldiagram i Virkes farger
+							933 container Salg
+								934 tekstinnskrivingsområde (disabled) Description: Diagramtittel, På linje med tekst, Value: Salg
+							935 Diagramelement (disabled) Forklaring
+								936 Diagramelement (disabled) Description: Forklaringstekst 1, Help: 1. kvt.
+								937 Diagramelement (disabled) Description: Forklaringstekst 2, Help: 2. kvt.
+								938 Diagramelement (disabled) Description: Forklaringstekst 3, Help: 3. kvt.
+								939 Diagramelement (disabled) Description: Forklaringstekst 4, Help: 4. kv.
+								940 Diagramelement (disabled) Description: Forklaringstekst 5, Help: 5. kv.
+							941 container Tegneområde
+								942 container Serie "Salg"
+									943 container Serie "Salg" Punkt "1. kvt."
+Verdi: 8,2 (34 %)
+									944 container Serie "Salg" Punkt "2. kvt."
+Verdi: 6 (25 %)
+									945 container Serie "Salg" Punkt "3. kvt."
+Verdi: 4 (17 %)
+									946 container Serie "Salg" Punkt "4. kv."
+Verdi: 3 (12 %)
+									947 container Serie "Salg" Punkt "5. kv."
+Verdi: 3 (12 %)
+						948 tekstinnskrivingsområde (disabled, settable) Description: Side 16-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en ferdig bruksmal dekker behovet, bruker du en kopi av den.
+    3. Pl
+						949 Felt page
+						950 Felt numpages
+						951 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 3-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					952 container
+						953 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 3-, Value: Virke Word · Komponentguide 2.2
+						954 Felt page
+						955 Felt numpages
+						956 tekstinnskrivingsområde (disabled, settable) Description: Side 17-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en ferdig bruksmal dekker behovet, bruker du en kopi av den.
+    3. Plasser markøren i et tomt avsnitt. På Mac: klikk Virke-blokker under Hjem eller Virke. Velg fanen Autotekst og masteren under Søk i. M
+						957 Felt page
+						958 Felt numpages
+						959 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 3-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+					960 container
+						961 tekstinnskrivingsområde (disabled, settable) Description: Topptekst -Inndeling 3-, Value: Virke Word · Komponentguide 2.2
+						962 Tabell, 5 Rader, 2 Kolonner, , 
+							963 row (disabled)
+								964 celle (disabled)
+									965 container
+										966 tekstinnskrivingsområde (disabled, settable) Problem
+								967 celle (disabled)
+									968 container
+										969 tekstinnskrivingsområde (disabled, settable) Første tiltak
+							970 row (disabled)
+								971 celle (disabled)
+									972 container
+										973 tekstinnskrivingsområde (disabled, settable) Feil font eller linjeskift
+								974 celle (disabled)
+									975 container
+										976 tekstinnskrivingsområde (disabled, settable) Installer begge Clan-fontene og start Word på nytt.
+							977 row (disabled)
+								978 celle (disabled)
+									979 container
+										980 tekstinnskrivingsområde (disabled, settable) Rosa tekst etter innliming
+								981 celle (disabled)
+									982 container
+										983 tekstinnskrivingsområde (disabled, settable) Bruk Behold bare tekst, riktig stil og svart skriftfarge.
+							984 row (disabled)
+								985 celle (disabled)
+									986 container
+										987 tekstinnskrivingsområde (disabled, settable) Virke-blokker mangler
+								988 celle (disabled)
+									989 container
+										990 tekstinnskrivingsområde (disabled, settable) Velg masteren under Søk i, eller opprett et nytt dokument fra DOTX-filen.
+							991 row (disabled)
+								992 celle (disabled)
+									993 container
+										994 tekstinnskrivingsområde (disabled, settable) Varsel om eksterne felt
+								995 celle (disabled)
+									996 container
+										997 tekstinnskrivingsområde (disabled, settable) Velg Nei hvis du ikke bruker en kjent ekstern datakilde. Oppdater aktuelle felt målrettet.
+							998 kolonne (disabled) Problem
+							999 kolonne (disabled) Første tiltak
+						1000 tekstinnskrivingsområde (disabled, settable) Description: Side 18-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en ferdig bruksmal dekker behovet, bruker du en kopi av den.
+    3. Plasser markøren i et tomt avsnitt. På Mac: klikk Virke-blokker under Hjem eller Virke. Velg fanen Autotekst og masteren under Søk i. Marker blokken og trykk Sett inn.
+På Windows finner du Autotekst under Sett inn > Hurtigdeler. Menynavn kan variere. Bruk Word på skrivebordet til arbeidsmåtene i denne guiden.
+Hjelpetekst
+Tabell, 1 Rad, 1 Kolonne, ,  
+Boksen over er selve byggeblokken Hjelpetekst. Klikk i den for å redigere teksten. La innholdet styre høyden, og behold malens formatering.
+Versjon 2.2
+						1001 Felt page
+						1002 Felt numpages
+						1003 tekstinnskrivingsområde (disabled, settable) Description: Bunntekst -Inndeling 3-, Value: Side Felt 1 av Felt 18	Virke mastermal · 2.2
+				1004 rullefelt (disabled, settable, float) 0
+					1005 verdiindikator (disabled, settable, float) 0
+				1006 rullefelt (disabled, settable, float) 0.01110299802422472
+					1007 verdiindikator (disabled, settable, float) 0.01110299802422472
+		1008 deler (disabled, settable, float) 1728
+	1009 container Statuslinje
+		1010 knapp Side 1 av 18, Help: Det gjeldende sidetallet i dokumentet. Klikk eller trykk for å åpne navigasjonsruten.
+		1011 knapp 2294 ord, Help: Antall ord i dokument. Klikk eller trykk for å åpne dialogboksen Ordtelling.
+		1012 knapp Ingen korrekturfeil.
+		1013 knapp Norsk (bokmål), Help: Språk
+		1014 veksleknapp Tilgjengelighet: Alt er klart, Help: Tilgjengelighetskontrollen er fullført. Klikk her for å finne ut mer., Value: off
+		1015 veksleknapp  Fokus, Help: Fokusmodus, Value: off
+		1016 valgknapp Sideutforming, Value: 1
+		1017 valgknapp Weboppsett, Value: 0
+		1018 valgknapp Disposisjon, Value: 0
+		1019 valgknapp Kladd, Value: 0
+		1020 knapp Zoom ut
+		1021 knapp Zoom inn
+		1022 skyveknapp (settable, float) Help: Zoom, Value: 889, Details: 90 %
+			1023 verdiindikator (settable, float) 889
+		1024 knapp 90 %, Help: Zoomenivå. Klikk for å åpne dialogboksen Zoom.
+	1025 fanegruppe Description: bånd, Details: Hjem
+		1026 rullefeltområde Hjem-fanekommandoer
+			1027 knapp Virke-blokker, Help: Tabeller, signatur og innholdsfortegnelse, Value: 0
+			1028 container
+				1029 menyknapp Lim inn, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				1030 knapp (disabled) Klipp ut, Value: 0
+				1031 knapp (disabled) Kopier, Value: 0
+				1032 veksleknapp Format, Help: Kopier formatering fra ett sted og bruk det på et annet, Value: off
+			1033 container
+				1034 kombinert rute (settable) Description: Skrift:, Value: Clan Offc (Overskrifter), Secondary Actions: Confirm
+					1035 knapp
+				1036 kombinert rute (settable) Description: Skriftstørrelse:, Value: 18, Secondary Actions: Confirm
+					1037 knapp
+				1038 knapp Øk skriftstørrelse, Value: 0
+				1039 knapp Reduser skriftstørrelse, Value: 0
+				1040 menyknapp Endre bokstavtype, Value: 0
+				1041 knapp Fjern formatering, Help: Fjern all formatering, Value: 0
+				1042 veksleknapp Fet, Value: on
+				1043 veksleknapp Kursiv, Value: off
+				1044 menyknapp Understreking, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				1045 veksleknapp Gjennomstreking, Value: off
+				1046 veksleknapp Senket skrift, Value: off
+				1047 veksleknapp Hevet skrift, Value: off
+				1048 menyknapp Teksteffekter, Value: 0
+				1049 menyknapp Uthevingsfarge for tekst, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Gul
+				1050 menyknapp Skriftfarge, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: Rød
+			1051 container
+				1052 menyknapp Punktmerker, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				1053 menyknapp Nummerering, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+				1054 menyknapp Liste med flere nivåer, Value: 0
+				1055 knapp Reduser innrykk, Value: 0
+				1056 knapp Øk innrykk, Value: 0
+				1057 knapp Sorter, Value: 0
+				1058 veksleknapp Vis formateringsmerker, Help: Vis/skjul formateringsmerker, Value: off
+				1059 veksleknapp Venstrejuster, Value: on
+				1060 veksleknapp Midtstill, Help: Midtstill tekst, Value: off
+				1061 veksleknapp Høyrejuster, Value: off
+				1062 veksleknapp Rette marger, Help: Blokkjuster tekst, Value: off
+				1063 menyknapp Linje- og avsnittsavstand, Value: 0
+				1064 menyknapp Skyggelegging, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer., Value: RGB(0, 0, 0)
+				1065 menyknapp Kantlinjer, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			1066 container
+				1067 galleri Description: Stiler, Help: galleri
+					1068 knapp Description: ¶ Normal, Help: Normal, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_0
+					1069 knapp Description: Overskrift 1, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_1
+					1070 knapp Description: Overskrift 2, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_2
+					1071 knapp Description: Overskrift 3, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_3
+					1072 knapp Description: ¶ Listeavsnitt, Help: Listeavsnitt, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_4
+					1073 knapp Description: ¶ Punktliste, Help: Punktliste, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_5
+					1074 knapp Description: ¶ Virke hjelpetekst, Help: Virke hjelpetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_6
+					1075 knapp Description: ¶ Bildetekst, Help: Bildetekst, Value: 0, ID: in_ribbon_gallery_UxGalWordQuickFormats_Control_0_7
+				1076 veksleknapp Stiler-rute, Value: off
+			1077 veksleknapp Dikter, Help: Office-diktering, Value: off
+			1078 menyknapp (disabled) Følsomhet, Value: 0
+			1079 knapp Tillegg, Value: 0
+			1080 container
+				1081 knapp Redaktør, Help: Editor. Kontroller stave-, grammatikk- og skriveproblemer, Value: 0
+				1082 veksleknapp Copilot, Value: off
+			1083 container
+				1084 knapp Opprett en PDF og del lenke, Value: 0, Help: Opprett og del PDF som en lenke. Filen blir lastet opp til Adobes nettbaserte lagring. Alle på internett med lenken kan få tilgang til filen uten å logge på eller laste ned Acrobat.
+				1085 knapp Be om signaturer, Help: Opprett Adobe PDF-fil og send til signering, Value: 0
+		1086 fane Hjem, Help: Skjul båndet, Value: 1
+		1087 fane Virke
+		1088 fane Sett inn
+		1089 fane Tegn
+		1090 fane Utforming
+		1091 fane Oppsett
+		1092 fane Referanser
+		1093 fane Masseutsendelser
+		1094 fane Se gjennom
+		1095 fane Visning
+		1096 fane Acrobat
+		1097 knapp Kommentarer
+		1098 knapp Redigering, Help: Modus for dokumenttilgang
+		1099 knapp Del
+	1100 verktøylinje
+		1101 container Secondary Actions: Fjern fra verktøylinjen
+			1102 bryter Lagre automatisk, Help: Aktiver automatisk lagring for å lagre endringer etter hvert som de utføres., Value: off
+			1103 knapp Hjem, Value: 0
+			1104 knapp Lagre, Value: 0
+			1105 menyknapp (disabled) Kan ikke angre, Help: Trykk Ctrl-Tilvalg-Skift-M for å få flere alternativer.
+			1106 knapp (disabled) Kan ikke gjenta, Value: 0
+			1107 knapp Skriv ut, Value: 0
+			1108 menyknapp Tilpass verktøylinje for hurtigtilgang, Value: 0
+			1109 tekstsøkefelt (settable) Søk (Cmd+Ctrl+U)
+				1110 knapp Søk
+			1111 knapp Tilbakemelding, Help: Vil du hjelpe oss med å forbedre Office?, Value: 0
+			1112 text Value: Komponentguide-2.2-slutt Lagret i min Mac, ID: CUIDocumentShellWindowTitleLabel
+			1113 knapp dokumenthandlinger, ID: CUIDocumentShellWindowAutosaveWidgetAutoID
+	1114 lukkeknapp
+	1115 fullskjermknapp Help: denne knappen har også en handling for å zoome på vinduet, Secondary Actions: zoom på vinduet
+	1116 minimeringsknapp
+1117 menu bar
+	1118 Word, ID: AppMenu_MenuItem
+	1119 Fil
+	1120 Rediger, ID: EditMenu_MenuItem
+	1121 Vis, ID: ViewMenu_MenuItem
+	1122 Sett inn
+	1123 Formater
+	1124 Verktøy
+	1125 Tabell
+	1126 Vindu, ID: WindowMenu_MenuItem
+	1127 Hjelp, ID: HelpMenu_MenuItem
+
+The focused UI element is 16 tekstinnskrivingsområde (disabled, settable) Description: Side 1-innhold, Value: Brukerveiledning og komponentguide
+Her ser du alle de 21 byggeblokkene i Virke-masteren og hvordan du bruker dem. Eksemplene er redigerbare Word-elementer. Bruk guiden som oppslagsverk, og sett inn blokker fra masteren når du lager egne dokumenter.
+Kom i gang
+    1. Installer Clan Offc News og Clan Offc Bold fra mappen Fonter. Start Word på nytt. Fontene lastes ikke automatisk fra leveransemappen.
+    2. Åpne Virke_master_test.dotx fra Finder eller Filutforsker. Word skal opprette et nytt dokument. Fyll ut dokumenttittelen og lagre som .docx. Når en ferdig bruksmal dekker behovet, bruker du en kopi av den.
+    3. Plasser markøren i et tomt avsnitt. På Mac: klikk Virke-blokker under Hjem eller Virke. Velg fanen Autotekst og masteren under Søk i. Marker blokken og trykk Sett inn.
+På Windows finner du Autotekst under Sett inn > Hurtigdeler. Menynavn kan variere. Bruk Word på skrivebordet til arbeidsmåtene i denne guiden.
+Hjelpetekst
+Tabell, 1 Rad, 1 Kolonne, ,  
+Boksen over er selve byggeblokken Hjelpetekst. Klikk i den for å redigere teksten. La innholdet styre høyden, og behold malens formatering.
+Versjon 2.2 · 28. oktober 2026. Eksemplene viser bruken av komponentene og er ikke ferdig utfylte dokumenter.

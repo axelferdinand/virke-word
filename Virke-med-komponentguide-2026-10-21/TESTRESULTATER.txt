@@ -1,0 +1,69 @@
+Virke – testresultater 21. oktober 2026
+Microsoft Word for Mac 16.90.2
+
+Codex innebygd datamaskinbruk. Testendringer kun i kopier. Supplerende LibreOffice-render er separat og erstatter ikke Word-testene.
+
+OMFANG
+Master, 17 eksempler, 21 AutoText-blokker og komponentguide 2.0.
+Master og eksempler er uendret fra den forrige kontrollerte leveransen.
+Ny kontroll i denne pakken gjelder den utvidede guiden.
+
+FUNKSJONER
+• Opprettelse og lagring: DOTX åpnet som nytt Dokument. Utfylt H1 ble foreslått som navn ved første lagring til DOCX.
+• Stiler og tegnavstand: Kort anbefalt stiloversikt med Normal og H1–H3. H1/H2 viste Normal/0 pt i avansert skriftdialog. Alle stildefinisjoner beholdt.
+• Avtale og signatur: Ny Avtale-blokk satt inn. Rosa signaturfelt kan fylles ut. Brødtekst blir vanlig svart tekst; Enter lager nytt avsnitt.
+• Tabellhoder, rad og kolonne: Første/andre og ny overskriftscelle beholdt fet 7,5 pt etter skriving. Tab fra siste celle laget ny rad med normal 7,5 pt tekst.
+• Lovtekst: Innsetting beholder alle tre nummereringsnivåer: 1., 1.1 og 1.1.1.
+• Liggende tabell: Ni kolonner passet med liggende A4 og eksplisitte marger 1,25 cm venstre/høyre, 3,52 cm topp, 2,49 cm bunn.
+• Feltflyt: Tab og Skift+Tab i Utfyllingsmal flyttet mellom felt. Utfylt tekst ble svart; faste Navn-etiketter ble stående.
+• Innholdsfortegnelse og sidetall: Tre nivåer og nytt kapittel på side 3 tatt med ved full oppdatering. Rosa punkter/innrykk og grå undernivåer bestod. H1-sidetall blir svarte.
+• Topp- og bunntekst: Begge blokker satt inn og fylt ut. PAGE/NUMPAGES reagerte på sideskift; Side 1 av 2/3 kontrollert.
+• Diagramdata: Søylediagram satt inn og dokumentet lagret. Rediger data i Excel åpnet datasettet; B2 endret fra 4,3 til 8, og stolpen i Word fulgte endringen.
+• Komponentguide 2.0: 18 sider med alle 21 faktiske byggeblokker. Kontrollert i Word med særlig vekt på moduloversikt, innholdsfortegnelse, utfyllingsfelt, stående/liggende tabeller, avtale og diagrammer. Alle 18 sider visuelt inspisert både som supplerende DOCX-render og Word-eksportert PDF. Sidetall 1–18 av 18 korrekte. 24 interne lenker bevart i PDF. Full feltoppdatering, lenkehopp fra side 2 til 10, skriving i navnefelt, Tab og Skift+Tab prøvd i kopier. Diagramdataredigering er dekket av den tidligere mastertesten; den er ikke gjentatt i guiden.
+
+ALLE EKSEMPLER
+01_Protokoll_styremote.docx (2 side(r)): Begge sider gjennomgått. Tabell, signaturer, marger og Side 2 av 2 korrekte.
+02_Balance_scorecard.docx (1 side(r)): Begge tabeller kontrollert. Lang norsk tekst utvidet testkopien til fem sider; overskriftsrad gjentatt, ingen kolonneklipping.
+03_Utfyllingsskjema.docx (1 side(r)): Ni utfyllingsfelt og etiketter kontrollert visuelt. Tab/Skift+Tab og svart utfylt tekst ettertestet i masterens Utfyllingsmal.
+04_Aksjeeierbok_liggende.docx (1 side(r)): Liggende A4, ni kolonner og fete overskrifter innenfor margene.
+05_Protokoll_liggende_ni_kolonner.docx (1 side(r)): Liggende A4, hele tabellen og bunntekst kontrollert.
+06_Protokoll_Prototypen_AS.docx (1 side(r)): Brødtekst, tabell og rosa signaturfelt gjennomgått.
+07_Innholdsfortegnelse_og_avtale.docx (1 side(r)): Hele fortegnelsen oppdatert i Word. H1 og H2 inngår. Kun oppdatert feltresultat og tilhørende bokmerker overført til ren leveranse.
+08_Avtalemal.docx (1 side(r)): Signaturfelt og avsnitt kontrollert. Enter i avtaletekst gir nytt avsnitt med stabilt innrykk. Eksempeltekstens manuelt skrevne 5.1 er videreført fra designgrunnlaget.
+09_Sjekkliste_arsregnskap.docx (1 side(r)): Femkolonnetabeller med fete overskrifter, møtefelt og sideskift kontrollert. OK/I-A er tomme tabellceller, ikke avkrysningskontroller.
+10_Utviklingssamtale.docx (1 side(r)): Tre hovedgrupper og undernummerering 1.1/1.2 osv. Kontrollert for overlapp og plass til utfyllingsfelt.
+11_Diagrammer.docx (1 side(r)): Begge diagrammer, farger og bildetekster kontrollert. Dataredigering ettertestet med masterens søylediagram; se funksjonstest.
+12_Tekststiler_Clan.docx (1 side(r)): Typografi og lister kontrollert. Enter gir nytt punkt 3; Enter på tomt punkt avslutter listen og gir Normal.
+13_Tekststiler_Arial.docx (1 side(r)): Arial-varianten, tabell, signaturer og summer kontrollert.
+14_Marger_og_tekstflyt.docx (1 side(r)): Lang H1 brytes over to linjer. Tekstflyt og marger kontrollert.
+15_Avstand_mellom_tekststiler.docx (1 side(r)): Avstander rundt overskrifter og avsnitt kontrollert.
+16_Avstand_tabeller_og_signatur.docx (1 side(r)): Tabelltyper, avstander, fete hoder og signaturer kontrollert uten overlapp.
+17_Flernivanummerering_og_saksliste.docx (1 side(r)): 1.1/1.2/1.3/1.3.1 og Sak 1–3 kontrollert. Enter fortsetter til 1.3.2; Reduser innrykk gir 1.4.
+
+21 BLOKKER SATT INN
+Signatur, Innholdsfortegnelse, Lovtekst, Tabell, Saksliste, Møteinformasjon – enkel, Møteinformasjon – detaljert, Tabell med 2 kolonner, Tabell med 3 kolonner, Tabell med 4 kolonner, Tabell med 5 kolonner, Utfyllingsmal, Hjelpetekst, Store celler, Tabell med 9 kolonner liggende, Tabell med 9 like kolonner liggende, Virke topptekst, Virke bunntekst, Diagram søyle, Diagram sektor, Avtale
+
+KJENTE FORBEHOLD
+• Kontrollert i Microsoft Word for Mac. Windows og Word på nett er ikke testet; Virke-fanen må kontrolleres i Virkes Windows-miljø før utrulling der.
+• Innholdsfortegnelsens øverste nivå får svarte sidetall ved full oppdatering, og en ekstra øverste skillelinje består. Fire isolerte Word-eksperimenter gav ingen stabil retting som samtidig bevarer vanlige overskriftsstiler, klikkbare kapitteltekster og skillelinjer mellom kapittelgruppene. Dette er gjenværende designavvik; funksjonen med innhold og sidetall er bevart.
+• Blokkene med ni kolonner endrer ikke sideorientering eller marger automatisk. Bruk eksempel 04/05 eller sett dette eksplisitt som beskrevet i veiledningen.
+• Lagre dokumentet etter innsetting av et diagram, før Rediger data i Excel. Forsøk før første lagring gav feilmelding; etter lagring virket redigeringen.
+• Vanlig skriving i rosa plassholdere blir svart. Innliming kan beholde rosa formatering; kontroller skriftfargen etter innliming.
+• Eksemplene har fortsatt relativ tilknytning til masteren, med automatisk stiloppdatering avslått. Ferdige Styres-bruksmaler skal distribueres som selvstendige DOCX-filer. De 40 konverteringene inngår ikke i denne iterasjonen.
+• Avtaleeksempelets manuelt skrevne 5.1 og øvrig eksempelinnhold er videreført fra designgrunnlaget. Automatisk flernivånummerering er testet særskilt i Lovtekst og eksempel 17.
+
+VERN AV ORIGINALER
+Innovakk-originalen fra Hans’ e-post og leveransen fra 16. oktober er bevart uendret. Alle 425 stildefinisjoner fra forrige leveranse er beholdt. Diagrammer, innebygde regneark, bilder og nummereringsdeler er bevart byte for byte. Bare nødvendig innhold, formatering, innstillinger og båndknapper er revidert.
+
+REN LEVERANSE
+Ingen testkopier eller QA-tekst følger denne pakken. Veiledningen er redigerbar DOCX; PDF er eksportert fra samme fil i Word.
+
+ETTERKONTROLL AV INNHOLDSFORTEGNELSEN
+På brukerens forespørsel ble fire varianter generert fullt i Word på testkopier:
+• Direkte fjerning av topplinjen på første TOC-avsnitt ble fjernet ved regenerering. Topplinjen kom tilbake.
+• Grå TOC1 med hyperlenker gav også grå kapitteltekst, selv med svart kildetekst.
+• Uten hyperlenkebryteren kunne særformatert svart kildetekst gi grå sidetall, men nye vanlige Overskrift 1-avsnitt fikk grå kapitteltekst. Kapittelteksten mistet hyperlenkeinnpakningen.
+• Mellomlinjer uten topplinjer fjernet også ønskede kapittelskiller. Bunnlinjer gav ekstra streker ved undernivåene.
+Ingen av variantene er tatt inn i leveransen. Dette dokumenterer forsøkte løsninger i Word for Mac 16.90.2; det fastslår ikke at alle mulige Word-løsninger er utelukket.
+Master og 17 eksempler er uendret fra den tidligere kontrollerte 21. oktober-leveransen.
+Veiledning 2.0 er en praktisk komponentguide. Designavvik og manuell fargejustering omtales ikke i DOCX eller PDF.
